@@ -1,3 +1,4 @@
+#!/bin/bash
 # checkout Google Font Directory:
 # $ hg clone https://code.google.com/p/googlefontdirectory/ 
 # 
@@ -13,7 +14,7 @@
 # !!!!!!! Don't share your token to anyone, it is very unsecure. 
 
 # probably you want to activate this hg extension http://mercurial.selenic.com/wiki/PurgeExtension
-# and cleanup changes
+# and cleanup changes. 
 # Don't forget to push all repository after process is done 
 
 if [ $# -eq 0 ]; then
@@ -27,17 +28,14 @@ TTX="ttx"
 # full path only
 TEMPLATE="/Volumes/Fonts/template/"
 ALL="/Volumes/Fonts/all"
+
 # for f in {apache,ofl,ufl}; do
 for f in ./ufl/*; do
     cd $f
-    # with license in name
-    # name=$(echo $f | sed "s/.\///" | sed "s/\//-/")
-
+    license=$(echo $f | sed 's/.\///' | sed 's/\/.*//')
     # only name
-    license=$(echo $f|sed)
     name=$(echo $f | sed 's/.*\///')
-    echo "curl -H \"Authorization: token $TOKEN\" -d '{\"name\":\"$name\"}' -X POST https://api.github.com/orgs/fontdirectory/repos"
-    # curl -H "Authorization: token $TOKEN" -d '{"name":"$name"}' -X POST https://api.github.com/orgs/fontdirectory/repos 
+    echo "curl -H \"Authorization: token $TOKEN\" -d '{\"name\":\"$name\"}' -X POST https://api.github.com/orgs/fontdirectory/repos" | bash
     find . -name "*.ttf" -exec ttx {} \;
     find . -name "*.ttf" -exec rm -rf {} \;
     # copy template folders data
@@ -45,17 +43,12 @@ for f in ./ufl/*; do
     git init
     git add .
     git commit -m "Move font files to separate repository from https://code.google.com/p/googlefontdirectory/"
-    echo "git remote add origin git@github.com:testfontdirectory/$name.git"
-    git remote add origin git@github.com:testfontdirectory/$name.git
+    git remote add origin git@github.com:fontdirectory/$name.git
     git push -u origin master
     cwd=$(pwd)
-    cd $ALL/$license/
-    git submodule add git://github.com/fontdirectory/$name.git $name
+    cd $ALL
+    git submodule add git://github.com/fontdirectory/$name.git $license/$name
     cd $cwd
-    # # echo "curl -H \"Authorization: token $TOKEN\" -d '{\"name\":\"$name\"}' -X POST https://api.github.com/orgs/fontdirectory/repos"
-    # # echo "git remote add origin git@github.com:testfontdirectory/$name.git"
     cd ../../
 done
 
-# to activate this hg extension http://mercurial.selenic.com/wiki/PurgeExtension
-# hg purge

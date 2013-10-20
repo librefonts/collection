@@ -1,5 +1,3 @@
-syntax: glob
-
 .DS_Store
 *~
 *.swp
@@ -11,5 +9,9 @@ tools/lint/.project
 tools/lint/.settings
 tools/lint/build
 tools/lint/dist
-*.ttx
 *.vfbak
+
+# ignore font folders inside license folders
+apache/*
+ofl/*
+ufl/*
