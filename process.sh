@@ -12,6 +12,10 @@
 # fontdirectory organization on GitHub.
 # !!!!!!! Don't share your token to anyone, it is very unsecure. 
 
+# probably you want to activate this hg extension http://mercurial.selenic.com/wiki/PurgeExtension
+# and cleanup changes
+# Don't forget to push all repository after process is done 
+
 if [ $# -eq 0 ]; then
     echo "No arguments supplied, read source please."
     exit 1
@@ -45,7 +49,7 @@ for f in ./ufl/*; do
     git remote add origin git@github.com:testfontdirectory/$name.git
     git push -u origin master
     cwd=$(pwd)
-    cd $ALL/$license
+    cd $ALL/$license/
     git submodule add git://github.com/fontdirectory/$name.git $name
     cd $cwd
     # # echo "curl -H \"Authorization: token $TOKEN\" -d '{\"name\":\"$name\"}' -X POST https://api.github.com/orgs/fontdirectory/repos"
