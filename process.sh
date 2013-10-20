@@ -28,10 +28,10 @@ TTX="ttx"
 # full path only
 TEMPLATE="/Volumes/Fonts/template/"
 ALL="/Volumes/Fonts/all"
-
+startwd=$(pwd)
 # for f in {apache,ofl,ufl}; do
 for f in ./ufl/*; do
-    cd $f
+    cd $startwd/$f
     license=$(echo $f | sed 's/.\///' | sed 's/\/.*//')
     # only name
     name=$(echo $f | sed 's/.*\///')
@@ -42,13 +42,10 @@ for f in ./ufl/*; do
     rsync -av $TEMPLATE . --exclude=.git
     git init
     git add .
-    git commit -m "Move font files to separate repository from https://code.google.com/p/googlefontdirectory/"
+    git commit -m "Move font files to separate repository"
     git remote add origin git@github.com:fontdirectory/$name.git
     git push -u origin master
-    cwd=$(pwd)
     cd $ALL
-    git submodule add git://github.com/fontdirectory/$name.git $license/$name
-    cd $cwd
-    cd ../../
+    git submodule add -f git://github.com/fontdirectory/$name.git $license/$name
 done
 
