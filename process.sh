@@ -49,3 +49,5 @@ for f in ./ufl/*; do
     git submodule add -f git://github.com/fontdirectory/$name.git $license/$name
 done
 
+# hg revert --all
+# hg purge
