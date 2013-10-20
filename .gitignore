@@ -1,0 +1,15 @@
+syntax: glob
+
+.DS_Store
+*~
+*.swp
+*.nam
+*.log
+*.bak
+tools/lint/.classpath
+tools/lint/.project
+tools/lint/.settings
+tools/lint/build
+tools/lint/dist
+*.ttx
+*.vfbak
