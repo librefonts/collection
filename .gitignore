@@ -11,7 +11,3 @@ tools/lint/build
 tools/lint/dist
 *.vfbak
 
-# ignore font folders inside license folders
-apache/*
-ofl/*
-ufl/*
