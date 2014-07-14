@@ -1,9 +1,0 @@
-[submodule "ufl/ubuntumono"]
-	path = ufl/ubuntumono
-	url = git://github.com/fontdirectory/ubuntumono.git
-[submodule "ufl/ubuntucondensed"]
-	path = ufl/ubuntucondensed
-	url = git://github.com/fontdirectory/ubuntucondensed.git
-[submodule "ufl/ubuntu"]
-	path = ufl/ubuntu
-	url = git://github.com/fontdirectory/ubuntu.git
