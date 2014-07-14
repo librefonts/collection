@@ -35,7 +35,9 @@ for ttx in `ls -1 *ttx`; do gedit $ttx; done;
 
 # ttx back the OTFs
 # for ttx in `ls -1 */src/*ttx`; do ttx $ttx; done;
+# rename s/ttf/otf/g */src/*otf;
 for ttx in `ls -1 *ttx`; do ttx $ttx; done;
+rename s/ttf/otf/g *otf;
 
 # Convert the OTFs to TTFs
 # for otf in `ls -1 */src/*otf`; do echo $otf && ~/googlefontdirectory/tools/nonhinting/setquadraticaddextremasimplify-fontforge.py $otf; done;
@@ -76,6 +78,9 @@ for ttf in `ls -1 *ttf`; do ~/googlefontdirectory/tools//nonhinting/ttf2sfd.py $
 # Move the TTFs up tree
 # for dir in `ls -1`; do cd $dir; mv src/*ttf .; cd ..; done;
 mv *ttf ..;
+
+# Find out the charsets
+# for dir in `ls -1`; do echo; echo $dir; python ~/src/bakery-xen/scripts/famchar.py $dir; done
 
 # cp in subsets template
 # for dir in `ls -1`; do cp ~/dcrossland-fontdirectory/INCOMING/METADATA_comments.txt $dir/src/; done;

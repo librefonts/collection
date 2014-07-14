@@ -1,6 +1,6 @@
 #!/usr/bin/python
-# Copyright 2010, Google Inc.
-# Author: Raph Levien (<firstname.lastname>@gmail.com)
+#
+# Copyright 2014, Google Inc.
 # Author: Dave Crossland (dave@understandinglimited.com)
 #
 #   Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,16 +15,25 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 #
-# namelist.py: A FontForge python script for generating namelist files.
+# A script for printing the Unicode chars in a given string
+# 
+# See also: http://rishida.net/tools/conversion/
 #
-# Usage:
-#
-#   $ namelist.py Font.ttf NameList.nam
-import fontforge, sys
-def main(fontFile, namFile):
-    font = fontforge.open(fontFile)
-    font.saveNamelist(namFile)
-if __name__ == '__main__':
-    print "Font: " + sys.argv[1]
-    print "Namelist: " + sys.argv[2]
-    main(sys.argv[1], sys.argv[2])
+# $ ~/googlefontdirectory/tools/chars/string.py hello
+# h U+0068
+# e U+0065
+# l U+006c
+# l U+006c
+# o U+006f
+# U+0068 U+0065 U+006c U+006c U+006f
+# $
+
+import sys, unicodedata
+
+# print char and code
+for i, c in enumerate(sys.argv[1]):
+    print c + ' U+%04x' % ord(c)
+
+# print codes all on one line
+for i, c in enumerate(sys.argv[1]):
+    print 'U+%04x' % ord(c),

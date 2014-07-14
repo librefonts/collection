@@ -1,9 +1,10 @@
-#!/usr/bin/python
+#! /usr/bin/env python
 #
 # Copyright 2010-2012, Google Inc.
 # Author: Mikhail Kashkin (mkashkin@gmail.com)
 # Author: Raph Levien (<firstname.lastname>@gmail.com)
 # Author: Dave Crossland (dave@understandinglimited.com)
+# Author: Behdad Esfahbod  (<firstname>@google.com)
 #
 #   Licensed under the Apache License, Version 2.0 (the "License");
 #   you may not use this file except in compliance with the License.
@@ -17,8 +18,6 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 #
-# Version 1.01 Released 2012-03-27
-#
 # A script for subsetting a font, using FontForge. See README for details.
 
 # TODO 2013-04-08 ensure the menu files are as compact as possible by default, similar to subset.pl
@@ -29,6 +28,7 @@ import sys
 import getopt
 import os
 import struct
+from fontTools import subset as subsetft
 
 def log_namelist(nam, unicode):
     if nam and isinstance(unicode, int):
@@ -329,10 +329,21 @@ def main(argv):
     font_in, font_out = args
     opts = dict(optlist)
     if '--string' in opts:
-        subset = map(ord, opts['--string'])
+        # subset = map(ord, opts['--string'])
+        # usage: pyftsubset font-file glyph... [--text=ABC]... [--option=value]...
+        inputString = font_in + " --text=" + opts['--string']
+        print("inputString is" + inputString)
+        subsetft.main(inputString)
     else:
         subset = getsubset(opts.get('--subset', 'latin'), font_in)
-    subset_font(font_in, font_out, subset, opts)
+    # subset_font(font_in, font_out, subset, opts)
+    inputString = "pyftsubset"
+    inputString += str(font_in)
+    for item in subset:
+        inputString += " "
+        inputString += str(item)
+    print("inputString is -->" + inputString + "<--")
+    subsetft.main(inputString)
 
 if __name__ == '__main__':
     main(sys.argv[1:])
