@@ -8,7 +8,7 @@
 #
 # run this script inside of mercurial clone root
 # this script get only one parameter TOKEN
-# curl -i -u xen -d '{"scopes":["repo"]}' https://api.github.com/authorizations
+# curl -i -u xen -d '{"scopes":["repo"], "note":"fontdirectory process.sh"}' https://api.github.com/authorizations
 # change xen to your GitHub user name, make sure you are have access to 
 # fontdirectory organization on GitHub.
 # !!!!!!! Don't share your token to anyone, it is very unsecure. 
