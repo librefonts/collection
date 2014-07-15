@@ -29,20 +29,29 @@ TTX="ttx"
 TEMPLATE="/Volumes/Fonts/template/"
 ALL="/Volumes/Fonts/all"
 startwd=$(pwd)
-# for f in {apache,ofl,ufl}; do
-for f in ./ufl/*; do
+
+find . -name "*.menu" -exec rm -rf {} \;
+find . -name "*.latin" -exec rm -rf {} \;
+find . -name "*.latin-ext" -exec rm -rf {} \;
+find . -name "*.greek" -exec rm -rf {} \;
+find . -name "*.greek-ext" -exec rm -rf {} \;
+find . -name "*.cyrillic" -exec rm -rf {} \;
+find . -name "*.cyrillic-ext" -exec rm -rf {} \;
+find . -name "*.ttf" -exec ttx -s {} \;
+find . -name "*.ttf" -exec rm -rf {} \;
+
+for f in {apache,ofl}; do
+    # for f in ./ufl/*; do
     cd $startwd/$f
     license=$(echo $f | sed 's/.\///' | sed 's/\/.*//')
     # only name
     name=$(echo $f | sed 's/.*\///')
     echo "curl -H \"Authorization: token $TOKEN\" -d '{\"name\":\"$name\"}' -X POST https://api.github.com/orgs/fontdirectory/repos" | bash
-    find . -name "*.ttf" -exec ttx {} \;
-    find . -name "*.ttf" -exec rm -rf {} \;
     # copy template folders data
     rsync -av $TEMPLATE . --exclude=.git
     git init
     git add .
-    git commit -m "Move font files to separate repository"
+    git commit -m "Move $name font files to separate repository"
     git remote add origin git@github.com:fontdirectory/$name.git
     git push -u origin master
     cd $ALL
