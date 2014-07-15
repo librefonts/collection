@@ -29,7 +29,7 @@ TTX="ttx"
 TEMPLATE="/Volumes/Fonts/template/"
 ALL="/Volumes/Fonts/all"
 startwd=$(pwd)
-
+echo "Delete files"
 find . -name "*.menu" -exec rm -rf {} \;
 find . -name "*.latin" -exec rm -rf {} \;
 find . -name "*.latin-ext" -exec rm -rf {} \;
@@ -37,37 +37,31 @@ find . -name "*.greek" -exec rm -rf {} \;
 find . -name "*.greek-ext" -exec rm -rf {} \;
 find . -name "*.cyrillic" -exec rm -rf {} \;
 find . -name "*.cyrillic-ext" -exec rm -rf {} \;
-
 find . -name "*.vietnamese" -exec rm -rf {} \;
 find . -name "*.arabic" -exec rm -rf {} \;
 find . -name "*.ethiopic" -exec rm -rf {} \;
 find . -name "*.tamil" -exec rm -rf {} \;
 find . -name "*.thai" -exec rm -rf {} \;
-
+echo "Generate ttx files"
 find . -name "*.ttf" -exec ttx -s -o {}.ttx {} \;
 find . -name "*.otf" -exec ttx -s -o {}.ttx {} \;
 find . -name "*.ttf" -exec rm -rf {} \;
 find . -name "*.otf" -exec rm -rf {} \;
 
-for ff in {apache,ofl,ufl}; do
-    for f in ./$ff/*; do
-        cd $startwd/$ff/$f
-        license=$(echo $f | sed 's/.\///' | sed 's/\/.*//')
-        # only name
-        name=$(echo $f | sed 's/.*\///')
-        echo "Process $name"
-        echo "curl -H \"Authorization: token $TOKEN\" -X DELETE https://api.github.com/orgs/fontdirectory/$name" | bash
-        echo "curl -H \"Authorization: token $TOKEN\" -d '{\"name\":\"$name\"}' -X POST https://api.github.com/orgs/fontdirectory/repos" | bash
-        # copy template folders data
-        # rsync -av $TEMPLATE . --exclude=.git
-        git init
-        git add .
-        git commit -m "Move $name font files to separate repository"
-        git remote add origin git@github.com:fontdirectory/$name.git
-        git push -u origin master
-        cd $ALL
-        git submodule add -f git://github.com/fontdirectory/$name.git $license/$name
-    done
+for f in {apache,ofl,ufl}/*; do
+    cd $startwd/$f
+    # only name
+    name=$(echo $f | sed 's/.*\///')
+    # echo "Process $name"
+    # echo "curl -H \"Authorization: token $TOKEN\" -X DELETE https://api.github.com/repos/fontdirectory/$name" | bash
+    echo "curl -H \"Authorization: token $TOKEN\" -d '{\"name\":\"$name\"}' -X POST https://api.github.com/orgs/fontdirectory/repos" | bash
+    git init
+    git add .
+    git commit -m "Move $name font files to separate repository"
+    git remote add origin git@github.com:fontdirectory/$name.git
+    git push -u origin master
+    cd $ALL
+    git submodule add -f git://github.com/fontdirectory/$name.git $license/$name
 done
 
 # hg revert --all
