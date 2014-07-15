@@ -44,10 +44,8 @@ find . -name "*.ethiopic" -exec rm -rf {} \;
 find . -name "*.tamil" -exec rm -rf {} \;
 find . -name "*.thai" -exec rm -rf {} \;
 
-find . -name "*.ttf" -exec ttx -o {}.ttx {} \;
-find . -name "*.otf" -exec ttx -o {}.ttx {} \;
-find . -name "*.ttf" -exec ttx -s {} \;
-find . -name "*.otf" -exec ttx -s {} \;
+find . -name "*.ttf" -exec ttx -s -o {}.ttx {} \;
+find . -name "*.otf" -exec ttx -s -o {}.ttx {} \;
 find . -name "*.ttf" -exec rm -rf {} \;
 find . -name "*.otf" -exec rm -rf {} \;
 
