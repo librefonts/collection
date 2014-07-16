@@ -1018,3 +1018,321 @@
 [submodule "ofl/encodesanswide"]
 	path = ofl/encodesanswide
 	url = git://github.com/fontdirectory/encodesanswide.git
+[submodule "ofl/engagement"]
+	path = ofl/engagement
+	url = git://github.com/fontdirectory/engagement.git
+[submodule "ofl/englebert"]
+	path = ofl/englebert
+	url = git://github.com/fontdirectory/englebert.git
+[submodule "ofl/enriqueta"]
+	path = ofl/enriqueta
+	url = git://github.com/fontdirectory/enriqueta.git
+[submodule "ofl/ericaone"]
+	path = ofl/ericaone
+	url = git://github.com/fontdirectory/ericaone.git
+[submodule "ofl/esteban"]
+	path = ofl/esteban
+	url = git://github.com/fontdirectory/esteban.git
+[submodule "ofl/euphoriascript"]
+	path = ofl/euphoriascript
+	url = git://github.com/fontdirectory/euphoriascript.git
+[submodule "ofl/ewert"]
+	path = ofl/ewert
+	url = git://github.com/fontdirectory/ewert.git
+[submodule "ofl/exo"]
+	path = ofl/exo
+	url = git://github.com/fontdirectory/exo.git
+[submodule "ofl/exo2"]
+	path = ofl/exo2
+	url = git://github.com/fontdirectory/exo2.git
+[submodule "ofl/exoold"]
+	path = ofl/exoold
+	url = git://github.com/fontdirectory/exoold.git
+[submodule "ofl/expletussans"]
+	path = ofl/expletussans
+	url = git://github.com/fontdirectory/expletussans.git
+[submodule "ofl/fanwoodtext"]
+	path = ofl/fanwoodtext
+	url = git://github.com/fontdirectory/fanwoodtext.git
+[submodule "ofl/fascinate"]
+	path = ofl/fascinate
+	url = git://github.com/fontdirectory/fascinate.git
+[submodule "ofl/fascinateinline"]
+	path = ofl/fascinateinline
+	url = git://github.com/fontdirectory/fascinateinline.git
+[submodule "ofl/fasterone"]
+	path = ofl/fasterone
+	url = git://github.com/fontdirectory/fasterone.git
+[submodule "ofl/fasthand"]
+	path = ofl/fasthand
+	url = git://github.com/fontdirectory/fasthand.git
+[submodule "ofl/faunaone"]
+	path = ofl/faunaone
+	url = git://github.com/fontdirectory/faunaone.git
+[submodule "ofl/federant"]
+	path = ofl/federant
+	url = git://github.com/fontdirectory/federant.git
+[submodule "ofl/federo"]
+	path = ofl/federo
+	url = git://github.com/fontdirectory/federo.git
+[submodule "ofl/felipa"]
+	path = ofl/felipa
+	url = git://github.com/fontdirectory/felipa.git
+[submodule "ofl/fenix"]
+	path = ofl/fenix
+	url = git://github.com/fontdirectory/fenix.git
+[submodule "ofl/fingerpaint"]
+	path = ofl/fingerpaint
+	url = git://github.com/fontdirectory/fingerpaint.git
+[submodule "ofl/firamono"]
+	path = ofl/firamono
+	url = git://github.com/fontdirectory/firamono.git
+[submodule "ofl/firasans"]
+	path = ofl/firasans
+	url = git://github.com/fontdirectory/firasans.git
+[submodule "ofl/fjallaone"]
+	path = ofl/fjallaone
+	url = git://github.com/fontdirectory/fjallaone.git
+[submodule "ofl/fjordone"]
+	path = ofl/fjordone
+	url = git://github.com/fontdirectory/fjordone.git
+[submodule "ofl/flamenco"]
+	path = ofl/flamenco
+	url = git://github.com/fontdirectory/flamenco.git
+[submodule "ofl/flavors"]
+	path = ofl/flavors
+	url = git://github.com/fontdirectory/flavors.git
+[submodule "ofl/fondamento"]
+	path = ofl/fondamento
+	url = git://github.com/fontdirectory/fondamento.git
+[submodule "ofl/forum"]
+	path = ofl/forum
+	url = git://github.com/fontdirectory/forum.git
+[submodule "ofl/francoisone"]
+	path = ofl/francoisone
+	url = git://github.com/fontdirectory/francoisone.git
+[submodule "ofl/freckleface"]
+	path = ofl/freckleface
+	url = git://github.com/fontdirectory/freckleface.git
+[submodule "ofl/frederickathegreat"]
+	path = ofl/frederickathegreat
+	url = git://github.com/fontdirectory/frederickathegreat.git
+[submodule "ofl/fredokaone"]
+	path = ofl/fredokaone
+	url = git://github.com/fontdirectory/fredokaone.git
+[submodule "ofl/freehand"]
+	path = ofl/freehand
+	url = git://github.com/fontdirectory/freehand.git
+[submodule "ofl/fresca"]
+	path = ofl/fresca
+	url = git://github.com/fontdirectory/fresca.git
+[submodule "ofl/frijole"]
+	path = ofl/frijole
+	url = git://github.com/fontdirectory/frijole.git
+[submodule "ofl/fruktur"]
+	path = ofl/fruktur
+	url = git://github.com/fontdirectory/fruktur.git
+[submodule "ofl/fugazone"]
+	path = ofl/fugazone
+	url = git://github.com/fontdirectory/fugazone.git
+[submodule "ofl/gabriela"]
+	path = ofl/gabriela
+	url = git://github.com/fontdirectory/gabriela.git
+[submodule "ofl/gafata"]
+	path = ofl/gafata
+	url = git://github.com/fontdirectory/gafata.git
+[submodule "ofl/galdeano"]
+	path = ofl/galdeano
+	url = git://github.com/fontdirectory/galdeano.git
+[submodule "ofl/galindo"]
+	path = ofl/galindo
+	url = git://github.com/fontdirectory/galindo.git
+[submodule "ofl/gentiumbasic"]
+	path = ofl/gentiumbasic
+	url = git://github.com/fontdirectory/gentiumbasic.git
+[submodule "ofl/gentiumbookbasic"]
+	path = ofl/gentiumbookbasic
+	url = git://github.com/fontdirectory/gentiumbookbasic.git
+[submodule "ofl/geo"]
+	path = ofl/geo
+	url = git://github.com/fontdirectory/geo.git
+[submodule "ofl/geostar"]
+	path = ofl/geostar
+	url = git://github.com/fontdirectory/geostar.git
+[submodule "ofl/geostarfill"]
+	path = ofl/geostarfill
+	url = git://github.com/fontdirectory/geostarfill.git
+[submodule "ofl/germaniaone"]
+	path = ofl/germaniaone
+	url = git://github.com/fontdirectory/germaniaone.git
+[submodule "ofl/gfsdidot"]
+	path = ofl/gfsdidot
+	url = git://github.com/fontdirectory/gfsdidot.git
+[submodule "ofl/gfsneohellenic"]
+	path = ofl/gfsneohellenic
+	url = git://github.com/fontdirectory/gfsneohellenic.git
+[submodule "ofl/gildadisplay"]
+	path = ofl/gildadisplay
+	url = git://github.com/fontdirectory/gildadisplay.git
+[submodule "ofl/giveyouglory"]
+	path = ofl/giveyouglory
+	url = git://github.com/fontdirectory/giveyouglory.git
+[submodule "ofl/glassantiqua"]
+	path = ofl/glassantiqua
+	url = git://github.com/fontdirectory/glassantiqua.git
+[submodule "ofl/glegoo"]
+	path = ofl/glegoo
+	url = git://github.com/fontdirectory/glegoo.git
+[submodule "ofl/gloriahallelujah"]
+	path = ofl/gloriahallelujah
+	url = git://github.com/fontdirectory/gloriahallelujah.git
+[submodule "ofl/goblinone"]
+	path = ofl/goblinone
+	url = git://github.com/fontdirectory/goblinone.git
+[submodule "ofl/gochihand"]
+	path = ofl/gochihand
+	url = git://github.com/fontdirectory/gochihand.git
+[submodule "ofl/gorditas"]
+	path = ofl/gorditas
+	url = git://github.com/fontdirectory/gorditas.git
+[submodule "ofl/goudybookletter1911"]
+	path = ofl/goudybookletter1911
+	url = git://github.com/fontdirectory/goudybookletter1911.git
+[submodule "ofl/graduate"]
+	path = ofl/graduate
+	url = git://github.com/fontdirectory/graduate.git
+[submodule "ofl/grandhotel"]
+	path = ofl/grandhotel
+	url = git://github.com/fontdirectory/grandhotel.git
+[submodule "ofl/gravitasone"]
+	path = ofl/gravitasone
+	url = git://github.com/fontdirectory/gravitasone.git
+[submodule "ofl/greatvibes"]
+	path = ofl/greatvibes
+	url = git://github.com/fontdirectory/greatvibes.git
+[submodule "ofl/griffy"]
+	path = ofl/griffy
+	url = git://github.com/fontdirectory/griffy.git
+[submodule "ofl/gruppo"]
+	path = ofl/gruppo
+	url = git://github.com/fontdirectory/gruppo.git
+[submodule "ofl/gudea"]
+	path = ofl/gudea
+	url = git://github.com/fontdirectory/gudea.git
+[submodule "ofl/habibi"]
+	path = ofl/habibi
+	url = git://github.com/fontdirectory/habibi.git
+[submodule "ofl/hammersmithone"]
+	path = ofl/hammersmithone
+	url = git://github.com/fontdirectory/hammersmithone.git
+[submodule "ofl/hanalei"]
+	path = ofl/hanalei
+	url = git://github.com/fontdirectory/hanalei.git
+[submodule "ofl/hanaleifill"]
+	path = ofl/hanaleifill
+	url = git://github.com/fontdirectory/hanaleifill.git
+[submodule "ofl/handlee"]
+	path = ofl/handlee
+	url = git://github.com/fontdirectory/handlee.git
+[submodule "ofl/hanna"]
+	path = ofl/hanna
+	url = git://github.com/fontdirectory/hanna.git
+[submodule "ofl/hanuman"]
+	path = ofl/hanuman
+	url = git://github.com/fontdirectory/hanuman.git
+[submodule "ofl/happymonkey"]
+	path = ofl/happymonkey
+	url = git://github.com/fontdirectory/happymonkey.git
+[submodule "ofl/headlandone"]
+	path = ofl/headlandone
+	url = git://github.com/fontdirectory/headlandone.git
+[submodule "ofl/hennypenny"]
+	path = ofl/hennypenny
+	url = git://github.com/fontdirectory/hennypenny.git
+[submodule "ofl/hermeneusone"]
+	path = ofl/hermeneusone
+	url = git://github.com/fontdirectory/hermeneusone.git
+[submodule "ofl/herrvonmuellerhoff"]
+	path = ofl/herrvonmuellerhoff
+	url = git://github.com/fontdirectory/herrvonmuellerhoff.git
+[submodule "ofl/hind"]
+	path = ofl/hind
+	url = git://github.com/fontdirectory/hind.git
+[submodule "ofl/holtwoodonesc"]
+	path = ofl/holtwoodonesc
+	url = git://github.com/fontdirectory/holtwoodonesc.git
+[submodule "ofl/homenaje"]
+	path = ofl/homenaje
+	url = git://github.com/fontdirectory/homenaje.git
+[submodule "ofl/iceberg"]
+	path = ofl/iceberg
+	url = git://github.com/fontdirectory/iceberg.git
+[submodule "ofl/iceland"]
+	path = ofl/iceland
+	url = git://github.com/fontdirectory/iceland.git
+[submodule "ofl/imfelldoublepica"]
+	path = ofl/imfelldoublepica
+	url = git://github.com/fontdirectory/imfelldoublepica.git
+[submodule "ofl/imfelldoublepicasc"]
+	path = ofl/imfelldoublepicasc
+	url = git://github.com/fontdirectory/imfelldoublepicasc.git
+[submodule "ofl/imfelldwpica"]
+	path = ofl/imfelldwpica
+	url = git://github.com/fontdirectory/imfelldwpica.git
+[submodule "ofl/imfelldwpicasc"]
+	path = ofl/imfelldwpicasc
+	url = git://github.com/fontdirectory/imfelldwpicasc.git
+[submodule "ofl/imfellenglish"]
+	path = ofl/imfellenglish
+	url = git://github.com/fontdirectory/imfellenglish.git
+[submodule "ofl/imfellenglishsc"]
+	path = ofl/imfellenglishsc
+	url = git://github.com/fontdirectory/imfellenglishsc.git
+[submodule "ofl/imfellfrenchcanon"]
+	path = ofl/imfellfrenchcanon
+	url = git://github.com/fontdirectory/imfellfrenchcanon.git
+[submodule "ofl/imfellfrenchcanonsc"]
+	path = ofl/imfellfrenchcanonsc
+	url = git://github.com/fontdirectory/imfellfrenchcanonsc.git
+[submodule "ofl/imfellgreatprimer"]
+	path = ofl/imfellgreatprimer
+	url = git://github.com/fontdirectory/imfellgreatprimer.git
+[submodule "ofl/imfellgreatprimersc"]
+	path = ofl/imfellgreatprimersc
+	url = git://github.com/fontdirectory/imfellgreatprimersc.git
+[submodule "ofl/imprima"]
+	path = ofl/imprima
+	url = git://github.com/fontdirectory/imprima.git
+[submodule "ofl/inconsolata"]
+	path = ofl/inconsolata
+	url = git://github.com/fontdirectory/inconsolata.git
+[submodule "ofl/inder"]
+	path = ofl/inder
+	url = git://github.com/fontdirectory/inder.git
+[submodule "ofl/indieflower"]
+	path = ofl/indieflower
+	url = git://github.com/fontdirectory/indieflower.git
+[submodule "ofl/inika"]
+	path = ofl/inika
+	url = git://github.com/fontdirectory/inika.git
+[submodule "ofl/istokweb"]
+	path = ofl/istokweb
+	url = git://github.com/fontdirectory/istokweb.git
+[submodule "ofl/italiana"]
+	path = ofl/italiana
+	url = git://github.com/fontdirectory/italiana.git
+[submodule "ofl/italianno"]
+	path = ofl/italianno
+	url = git://github.com/fontdirectory/italianno.git
+[submodule "ofl/jacquesfrancois"]
+	path = ofl/jacquesfrancois
+	url = git://github.com/fontdirectory/jacquesfrancois.git
+[submodule "ofl/jacquesfrancoisshadow"]
+	path = ofl/jacquesfrancoisshadow
+	url = git://github.com/fontdirectory/jacquesfrancoisshadow.git
+[submodule "ofl/jejugothic"]
+	path = ofl/jejugothic
+	url = git://github.com/fontdirectory/jejugothic.git
+[submodule "ofl/jejuhallasan"]
+	path = ofl/jejuhallasan
+	url = git://github.com/fontdirectory/jejuhallasan.git
