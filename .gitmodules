@@ -364,3 +364,15 @@
 [submodule "apache/tmp-roboto"]
 	path = apache/tmp-roboto
 	url = git://github.com/fontdirectory/tmp-roboto.git
+[submodule "apache/ultra"]
+	path = apache/ultra
+	url = git://github.com/fontdirectory/ultra.git
+[submodule "apache/unkempt"]
+	path = apache/unkempt
+	url = git://github.com/fontdirectory/unkempt.git
+[submodule "apache/walterturncoat"]
+	path = apache/walterturncoat
+	url = git://github.com/fontdirectory/walterturncoat.git
+[submodule "apache/yellowtail"]
+	path = apache/yellowtail
+	url = git://github.com/fontdirectory/yellowtail.git
