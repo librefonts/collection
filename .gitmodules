@@ -1,6 +1,3 @@
-[submodule "apachaclonica/aclonica"]
-	path = apachaclonica/aclonica
-	url = git://github.com/fontdirectory/aclonica.git
 [submodule "apache/aclonica"]
 	path = apache/aclonica
 	url = git://github.com/fontdirectory/aclonica.git
