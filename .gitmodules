@@ -1003,3 +1003,18 @@
 [submodule "ofl/emilyscandy"]
 	path = ofl/emilyscandy
 	url = git://github.com/fontdirectory/emilyscandy.git
+[submodule "ofl/encodesans"]
+	path = ofl/encodesans
+	url = git://github.com/fontdirectory/encodesans.git
+[submodule "ofl/encodesanscompressed"]
+	path = ofl/encodesanscompressed
+	url = git://github.com/fontdirectory/encodesanscompressed.git
+[submodule "ofl/encodesanscondensed"]
+	path = ofl/encodesanscondensed
+	url = git://github.com/fontdirectory/encodesanscondensed.git
+[submodule "ofl/encodesansnarrow"]
+	path = ofl/encodesansnarrow
+	url = git://github.com/fontdirectory/encodesansnarrow.git
+[submodule "ofl/encodesanswide"]
+	path = ofl/encodesanswide
+	url = git://github.com/fontdirectory/encodesanswide.git

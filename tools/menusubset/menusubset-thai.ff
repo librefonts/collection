@@ -1,0 +1,18 @@
+#!/usr/local/bin/fontforge
+# A simple script to generate a menu subset. It outputs all unicode characters
+# in the word for อักษรไทย "Thai script", and also the ligatures needed for correct
+# shaping. After running "fontforge -lang=ff -script menusubset.ff", do "mv
+# Font.menu.ttf Font.menu".
+Open($1)
+Select(0u0E2D)
+SelectMore(0u0E31)
+SelectMore(0u0E01)
+SelectMore(0u0E29)
+SelectMore(0u0E23)
+SelectMore(0u0E44)
+SelectMore(0u0E17)
+SelectMore(0u0E22)
+SelectInvert()
+Clear()
+# This has to end in .ttf or it will not include all the needed glyphs
+Generate($1 + ".menu.ttf")
