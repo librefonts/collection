@@ -892,3 +892,6 @@
 [submodule "ofl/cwtexhei"]
 	path = ofl/cwtexhei
 	url = git://github.com/fontdirectory/cwtexhei.git
+[submodule "ofl/cwtexfangsong"]
+	path = ofl/cwtexfangsong
+	url = git://github.com/fontdirectory/cwtexfangsong.git

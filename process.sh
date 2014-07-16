@@ -48,7 +48,9 @@ startwd=$(pwd)
 # find . -name "*.ttf" -exec rm -rf {} \;
 # find . -name "*.otf" -exec rm -rf {} \;
 
-for f in {apache,ofl,ufl}/*; do
+#for f in {apache,ofl,ufl}/*; do
+for f in {ofl,apache}/*; do
+    echo $startwd/$f 
     cd $startwd/$f
     # only name
     name=$(echo $f | sed 's/.*\///')
