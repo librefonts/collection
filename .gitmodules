@@ -1,0 +1,180 @@
+[submodule "apachaclonica/aclonica"]
+	path = apachaclonica/aclonica
+	url = git://github.com/fontdirectory/aclonica.git
+[submodule "apache/aclonica"]
+	path = apache/aclonica
+	url = git://github.com/fontdirectory/aclonica.git
+[submodule "apache/arimo"]
+	path = apache/arimo
+	url = git://github.com/fontdirectory/arimo.git
+[submodule "apache/calligraffitti"]
+	path = apache/calligraffitti
+	url = git://github.com/fontdirectory/calligraffitti.git
+[submodule "apache/cherrycreamsoda"]
+	path = apache/cherrycreamsoda
+	url = git://github.com/fontdirectory/cherrycreamsoda.git
+[submodule "apache/chewy"]
+	path = apache/chewy
+	url = git://github.com/fontdirectory/chewy.git
+[submodule "apache/comingsoon"]
+	path = apache/comingsoon
+	url = git://github.com/fontdirectory/comingsoon.git
+[submodule "apache/cousine"]
+	path = apache/cousine
+	url = git://github.com/fontdirectory/cousine.git
+[submodule "apache/craftygirls"]
+	path = apache/craftygirls
+	url = git://github.com/fontdirectory/craftygirls.git
+[submodule "apache/creepstercaps"]
+	path = apache/creepstercaps
+	url = git://github.com/fontdirectory/creepstercaps.git
+[submodule "apache/crushed"]
+	path = apache/crushed
+	url = git://github.com/fontdirectory/crushed.git
+[submodule "apache/droidarabickufi"]
+	path = apache/droidarabickufi
+	url = git://github.com/fontdirectory/droidarabickufi.git
+[submodule "apache/droidarabicnaskh"]
+	path = apache/droidarabicnaskh
+	url = git://github.com/fontdirectory/droidarabicnaskh.git
+[submodule "apache/droidsans"]
+	path = apache/droidsans
+	url = git://github.com/fontdirectory/droidsans.git
+[submodule "apache/droidsansethiopic"]
+	path = apache/droidsansethiopic
+	url = git://github.com/fontdirectory/droidsansethiopic.git
+[submodule "apache/droidsansmono"]
+	path = apache/droidsansmono
+	url = git://github.com/fontdirectory/droidsansmono.git
+[submodule "apache/droidsanstamil"]
+	path = apache/droidsanstamil
+	url = git://github.com/fontdirectory/droidsanstamil.git
+[submodule "apache/droidsansthai"]
+	path = apache/droidsansthai
+	url = git://github.com/fontdirectory/droidsansthai.git
+[submodule "apache/droidserif"]
+	path = apache/droidserif
+	url = git://github.com/fontdirectory/droidserif.git
+[submodule "apache/droidserifold"]
+	path = apache/droidserifold
+	url = git://github.com/fontdirectory/droidserifold.git
+[submodule "apache/droidserifthai"]
+	path = apache/droidserifthai
+	url = git://github.com/fontdirectory/droidserifthai.git
+[submodule "apache/fontdinerswanky"]
+	path = apache/fontdinerswanky
+	url = git://github.com/fontdirectory/fontdinerswanky.git
+[submodule "apache/homemadeapple"]
+	path = apache/homemadeapple
+	url = git://github.com/fontdirectory/homemadeapple.git
+[submodule "apache/irishgrover"]
+	path = apache/irishgrover
+	url = git://github.com/fontdirectory/irishgrover.git
+[submodule "apache/irishgrowler"]
+	path = apache/irishgrowler
+	url = git://github.com/fontdirectory/irishgrowler.git
+[submodule "apache/jsmathcmbx10"]
+	path = apache/jsmathcmbx10
+	url = git://github.com/fontdirectory/jsmathcmbx10.git
+[submodule "apache/jsmathcmex10"]
+	path = apache/jsmathcmex10
+	url = git://github.com/fontdirectory/jsmathcmex10.git
+[submodule "apache/jsmathcmmi10"]
+	path = apache/jsmathcmmi10
+	url = git://github.com/fontdirectory/jsmathcmmi10.git
+[submodule "apache/jsmathcmr10"]
+	path = apache/jsmathcmr10
+	url = git://github.com/fontdirectory/jsmathcmr10.git
+[submodule "apache/jsmathcmsy10"]
+	path = apache/jsmathcmsy10
+	url = git://github.com/fontdirectory/jsmathcmsy10.git
+[submodule "apache/jsmathcmti10"]
+	path = apache/jsmathcmti10
+	url = git://github.com/fontdirectory/jsmathcmti10.git
+[submodule "apache/justanotherhand"]
+	path = apache/justanotherhand
+	url = git://github.com/fontdirectory/justanotherhand.git
+[submodule "apache/kranky"]
+	path = apache/kranky
+	url = git://github.com/fontdirectory/kranky.git
+[submodule "apache/luckiestguy"]
+	path = apache/luckiestguy
+	url = git://github.com/fontdirectory/luckiestguy.git
+[submodule "apache/maidenorange"]
+	path = apache/maidenorange
+	url = git://github.com/fontdirectory/maidenorange.git
+[submodule "apache/montez"]
+	path = apache/montez
+	url = git://github.com/fontdirectory/montez.git
+[submodule "apache/mountainsofchristmas"]
+	path = apache/mountainsofchristmas
+	url = git://github.com/fontdirectory/mountainsofchristmas.git
+[submodule "apache/nokora"]
+	path = apache/nokora
+	url = git://github.com/fontdirectory/nokora.git
+[submodule "apache/notosans"]
+	path = apache/notosans
+	url = git://github.com/fontdirectory/notosans.git
+[submodule "apache/notosansarmenian"]
+	path = apache/notosansarmenian
+	url = git://github.com/fontdirectory/notosansarmenian.git
+[submodule "apache/notosansavestan"]
+	path = apache/notosansavestan
+	url = git://github.com/fontdirectory/notosansavestan.git
+[submodule "apache/notosansbengali"]
+	path = apache/notosansbengali
+	url = git://github.com/fontdirectory/notosansbengali.git
+[submodule "apache/notosansbrahmi"]
+	path = apache/notosansbrahmi
+	url = git://github.com/fontdirectory/notosansbrahmi.git
+[submodule "apache/notosanscarian"]
+	path = apache/notosanscarian
+	url = git://github.com/fontdirectory/notosanscarian.git
+[submodule "apache/notosanscherokee"]
+	path = apache/notosanscherokee
+	url = git://github.com/fontdirectory/notosanscherokee.git
+[submodule "apache/notosanscoptic"]
+	path = apache/notosanscoptic
+	url = git://github.com/fontdirectory/notosanscoptic.git
+[submodule "apache/notosanscypriotsyllabary"]
+	path = apache/notosanscypriotsyllabary
+	url = git://github.com/fontdirectory/notosanscypriotsyllabary.git
+[submodule "apache/notosansdeseret"]
+	path = apache/notosansdeseret
+	url = git://github.com/fontdirectory/notosansdeseret.git
+[submodule "apache/notosansdevanagari"]
+	path = apache/notosansdevanagari
+	url = git://github.com/fontdirectory/notosansdevanagari.git
+[submodule "apache/notosansdevanagariui"]
+	path = apache/notosansdevanagariui
+	url = git://github.com/fontdirectory/notosansdevanagariui.git
+[submodule "apache/notosansegyptianhieroglyphs"]
+	path = apache/notosansegyptianhieroglyphs
+	url = git://github.com/fontdirectory/notosansegyptianhieroglyphs.git
+[submodule "apache/notosansethiopic"]
+	path = apache/notosansethiopic
+	url = git://github.com/fontdirectory/notosansethiopic.git
+[submodule "apache/notosansgeorgian"]
+	path = apache/notosansgeorgian
+	url = git://github.com/fontdirectory/notosansgeorgian.git
+[submodule "apache/notosansglagolitic"]
+	path = apache/notosansglagolitic
+	url = git://github.com/fontdirectory/notosansglagolitic.git
+[submodule "apache/notosansgujarati"]
+	path = apache/notosansgujarati
+	url = git://github.com/fontdirectory/notosansgujarati.git
+[submodule "apache/notosansgujaratiui"]
+	path = apache/notosansgujaratiui
+	url = git://github.com/fontdirectory/notosansgujaratiui.git
+[submodule "apache/notosanshanunoo"]
+	path = apache/notosanshanunoo
+	url = git://github.com/fontdirectory/notosanshanunoo.git
+[submodule "apache/notosanshebrew"]
+	path = apache/notosanshebrew
+	url = git://github.com/fontdirectory/notosanshebrew.git
+[submodule "apache/notosansimperilaramaic"]
+	path = apache/notosansimperilaramaic
+	url = git://github.com/fontdirectory/notosansimperilaramaic.git
+[submodule "apache/notosanskaithi"]
+	path = apache/notosanskaithi
+	url = git://github.com/fontdirectory/notosanskaithi.git
