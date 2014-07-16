@@ -382,3 +382,123 @@
 [submodule "ufl/ubuntumono"]
 	path = ufl/ubuntumono
 	url = git://github.com/fontdirectory/ubuntumono.git
+[submodule "ofl/CharisSILCompact"]
+	path = ofl/CharisSILCompact
+	url = git://github.com/fontdirectory/CharisSILCompact.git
+[submodule "ofl/abeezee"]
+	path = ofl/abeezee
+	url = git://github.com/fontdirectory/abeezee.git
+[submodule "ofl/abel"]
+	path = ofl/abel
+	url = git://github.com/fontdirectory/abel.git
+[submodule "ofl/abrilfatface"]
+	path = ofl/abrilfatface
+	url = git://github.com/fontdirectory/abrilfatface.git
+[submodule "ofl/acme"]
+	path = ofl/acme
+	url = git://github.com/fontdirectory/acme.git
+[submodule "ofl/actor"]
+	path = ofl/actor
+	url = git://github.com/fontdirectory/actor.git
+[submodule "ofl/adamina"]
+	path = ofl/adamina
+	url = git://github.com/fontdirectory/adamina.git
+[submodule "ofl/adventpro"]
+	path = ofl/adventpro
+	url = git://github.com/fontdirectory/adventpro.git
+[submodule "ofl/aguafinascript"]
+	path = ofl/aguafinascript
+	url = git://github.com/fontdirectory/aguafinascript.git
+[submodule "ofl/akronim"]
+	path = ofl/akronim
+	url = git://github.com/fontdirectory/akronim.git
+[submodule "ofl/aksarabaligalang"]
+	path = ofl/aksarabaligalang
+	url = git://github.com/fontdirectory/aksarabaligalang.git
+[submodule "ofl/aladin"]
+	path = ofl/aladin
+	url = git://github.com/fontdirectory/aladin.git
+[submodule "ofl/aldrich"]
+	path = ofl/aldrich
+	url = git://github.com/fontdirectory/aldrich.git
+[submodule "ofl/alef"]
+	path = ofl/alef
+	url = git://github.com/fontdirectory/alef.git
+[submodule "ofl/alefhebrew"]
+	path = ofl/alefhebrew
+	url = git://github.com/fontdirectory/alefhebrew.git
+[submodule "ofl/alegreya"]
+	path = ofl/alegreya
+	url = git://github.com/fontdirectory/alegreya.git
+[submodule "ofl/alegreyasans"]
+	path = ofl/alegreyasans
+	url = git://github.com/fontdirectory/alegreyasans.git
+[submodule "ofl/alegreyasanssc"]
+	path = ofl/alegreyasanssc
+	url = git://github.com/fontdirectory/alegreyasanssc.git
+[submodule "ofl/alegreyasc"]
+	path = ofl/alegreyasc
+	url = git://github.com/fontdirectory/alegreyasc.git
+[submodule "ofl/alexbrush"]
+	path = ofl/alexbrush
+	url = git://github.com/fontdirectory/alexbrush.git
+[submodule "ofl/alfaslabone"]
+	path = ofl/alfaslabone
+	url = git://github.com/fontdirectory/alfaslabone.git
+[submodule "ofl/alice"]
+	path = ofl/alice
+	url = git://github.com/fontdirectory/alice.git
+[submodule "ofl/alike"]
+	path = ofl/alike
+	url = git://github.com/fontdirectory/alike.git
+[submodule "ofl/alikeangular"]
+	path = ofl/alikeangular
+	url = git://github.com/fontdirectory/alikeangular.git
+[submodule "ofl/allan"]
+	path = ofl/allan
+	url = git://github.com/fontdirectory/allan.git
+[submodule "ofl/allerta"]
+	path = ofl/allerta
+	url = git://github.com/fontdirectory/allerta.git
+[submodule "ofl/allertastencil"]
+	path = ofl/allertastencil
+	url = git://github.com/fontdirectory/allertastencil.git
+[submodule "ofl/allura"]
+	path = ofl/allura
+	url = git://github.com/fontdirectory/allura.git
+[submodule "ofl/almendra"]
+	path = ofl/almendra
+	url = git://github.com/fontdirectory/almendra.git
+[submodule "ofl/almendradisplay"]
+	path = ofl/almendradisplay
+	url = git://github.com/fontdirectory/almendradisplay.git
+[submodule "ofl/almendrasc"]
+	path = ofl/almendrasc
+	url = git://github.com/fontdirectory/almendrasc.git
+[submodule "ofl/amarante"]
+	path = ofl/amarante
+	url = git://github.com/fontdirectory/amarante.git
+[submodule "ofl/amaranth"]
+	path = ofl/amaranth
+	url = git://github.com/fontdirectory/amaranth.git
+[submodule "ofl/amaticsc"]
+	path = ofl/amaticsc
+	url = git://github.com/fontdirectory/amaticsc.git
+[submodule "ofl/amethysta"]
+	path = ofl/amethysta
+	url = git://github.com/fontdirectory/amethysta.git
+[submodule "ofl/amiri"]
+	path = ofl/amiri
+	url = git://github.com/fontdirectory/amiri.git
+[submodule "ofl/anaheim"]
+	path = ofl/anaheim
+	url = git://github.com/fontdirectory/anaheim.git
+[submodule "ofl/anahit"]
+	path = ofl/anahit
+	url = git://github.com/fontdirectory/anahit.git
+[submodule "ofl/anahitarmenian"]
+	path = ofl/anahitarmenian
+	url = git://github.com/fontdirectory/anahitarmenian.git
+[submodule "ofl/andada"]
+	path = ofl/andada
+	url = git://github.com/fontdirectory/andada.git
