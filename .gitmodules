@@ -502,3 +502,156 @@
 [submodule "ofl/andada"]
 	path = ofl/andada
 	url = git://github.com/fontdirectory/andada.git
+[submodule "ofl/andadasc"]
+	path = ofl/andadasc
+	url = git://github.com/fontdirectory/andadasc.git
+[submodule "ofl/andika"]
+	path = ofl/andika
+	url = git://github.com/fontdirectory/andika.git
+[submodule "ofl/angkor"]
+	path = ofl/angkor
+	url = git://github.com/fontdirectory/angkor.git
+[submodule "ofl/annieuseyourtelescope"]
+	path = ofl/annieuseyourtelescope
+	url = git://github.com/fontdirectory/annieuseyourtelescope.git
+[submodule "ofl/anonymouspro"]
+	path = ofl/anonymouspro
+	url = git://github.com/fontdirectory/anonymouspro.git
+[submodule "ofl/antic"]
+	path = ofl/antic
+	url = git://github.com/fontdirectory/antic.git
+[submodule "ofl/anticdidone"]
+	path = ofl/anticdidone
+	url = git://github.com/fontdirectory/anticdidone.git
+[submodule "ofl/anticslab"]
+	path = ofl/anticslab
+	url = git://github.com/fontdirectory/anticslab.git
+[submodule "ofl/anton"]
+	path = ofl/anton
+	url = git://github.com/fontdirectory/anton.git
+[submodule "ofl/antonio"]
+	path = ofl/antonio
+	url = git://github.com/fontdirectory/antonio.git
+[submodule "ofl/antonioold"]
+	path = ofl/antonioold
+	url = git://github.com/fontdirectory/antonioold.git
+[submodule "ofl/arapey"]
+	path = ofl/arapey
+	url = git://github.com/fontdirectory/arapey.git
+[submodule "ofl/arbutus"]
+	path = ofl/arbutus
+	url = git://github.com/fontdirectory/arbutus.git
+[submodule "ofl/arbutusslab"]
+	path = ofl/arbutusslab
+	url = git://github.com/fontdirectory/arbutusslab.git
+[submodule "ofl/architectsdaughter"]
+	path = ofl/architectsdaughter
+	url = git://github.com/fontdirectory/architectsdaughter.git
+[submodule "ofl/archivoblack"]
+	path = ofl/archivoblack
+	url = git://github.com/fontdirectory/archivoblack.git
+[submodule "ofl/archivonarrow"]
+	path = ofl/archivonarrow
+	url = git://github.com/fontdirectory/archivonarrow.git
+[submodule "ofl/arizonia"]
+	path = ofl/arizonia
+	url = git://github.com/fontdirectory/arizonia.git
+[submodule "ofl/armata"]
+	path = ofl/armata
+	url = git://github.com/fontdirectory/armata.git
+[submodule "ofl/artifika"]
+	path = ofl/artifika
+	url = git://github.com/fontdirectory/artifika.git
+[submodule "ofl/arvo"]
+	path = ofl/arvo
+	url = git://github.com/fontdirectory/arvo.git
+[submodule "ofl/asap"]
+	path = ofl/asap
+	url = git://github.com/fontdirectory/asap.git
+[submodule "ofl/asset"]
+	path = ofl/asset
+	url = git://github.com/fontdirectory/asset.git
+[submodule "ofl/astloch"]
+	path = ofl/astloch
+	url = git://github.com/fontdirectory/astloch.git
+[submodule "ofl/asul"]
+	path = ofl/asul
+	url = git://github.com/fontdirectory/asul.git
+[submodule "ofl/atomicage"]
+	path = ofl/atomicage
+	url = git://github.com/fontdirectory/atomicage.git
+[submodule "ofl/aubrey"]
+	path = ofl/aubrey
+	url = git://github.com/fontdirectory/aubrey.git
+[submodule "ofl/audiowide"]
+	path = ofl/audiowide
+	url = git://github.com/fontdirectory/audiowide.git
+[submodule "ofl/autourone"]
+	path = ofl/autourone
+	url = git://github.com/fontdirectory/autourone.git
+[submodule "ofl/average"]
+	path = ofl/average
+	url = git://github.com/fontdirectory/average.git
+[submodule "ofl/averagesans"]
+	path = ofl/averagesans
+	url = git://github.com/fontdirectory/averagesans.git
+[submodule "ofl/averiagruesalibre"]
+	path = ofl/averiagruesalibre
+	url = git://github.com/fontdirectory/averiagruesalibre.git
+[submodule "ofl/averialibre"]
+	path = ofl/averialibre
+	url = git://github.com/fontdirectory/averialibre.git
+[submodule "ofl/averiasanslibre"]
+	path = ofl/averiasanslibre
+	url = git://github.com/fontdirectory/averiasanslibre.git
+[submodule "ofl/averiaseriflibre"]
+	path = ofl/averiaseriflibre
+	url = git://github.com/fontdirectory/averiaseriflibre.git
+[submodule "ofl/badscript"]
+	path = ofl/badscript
+	url = git://github.com/fontdirectory/badscript.git
+[submodule "ofl/balthazar"]
+	path = ofl/balthazar
+	url = git://github.com/fontdirectory/balthazar.git
+[submodule "ofl/bangers"]
+	path = ofl/bangers
+	url = git://github.com/fontdirectory/bangers.git
+[submodule "ofl/baron"]
+	path = ofl/baron
+	url = git://github.com/fontdirectory/baron.git
+[submodule "ofl/baroncondensed"]
+	path = ofl/baroncondensed
+	url = git://github.com/fontdirectory/baroncondensed.git
+[submodule "ofl/baronextended"]
+	path = ofl/baronextended
+	url = git://github.com/fontdirectory/baronextended.git
+[submodule "ofl/basic"]
+	path = ofl/basic
+	url = git://github.com/fontdirectory/basic.git
+[submodule "ofl/battambang"]
+	path = ofl/battambang
+	url = git://github.com/fontdirectory/battambang.git
+[submodule "ofl/baumans"]
+	path = ofl/baumans
+	url = git://github.com/fontdirectory/baumans.git
+[submodule "ofl/bayon"]
+	path = ofl/bayon
+	url = git://github.com/fontdirectory/bayon.git
+[submodule "ofl/belgrano"]
+	path = ofl/belgrano
+	url = git://github.com/fontdirectory/belgrano.git
+[submodule "ofl/belleza"]
+	path = ofl/belleza
+	url = git://github.com/fontdirectory/belleza.git
+[submodule "ofl/benchnine"]
+	path = ofl/benchnine
+	url = git://github.com/fontdirectory/benchnine.git
+[submodule "ofl/bentham"]
+	path = ofl/bentham
+	url = git://github.com/fontdirectory/bentham.git
+[submodule "ofl/berkshireswash"]
+	path = ofl/berkshireswash
+	url = git://github.com/fontdirectory/berkshireswash.git
+[submodule "ofl/bevan"]
+	path = ofl/bevan
+	url = git://github.com/fontdirectory/bevan.git
