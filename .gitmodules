@@ -958,3 +958,48 @@
 [submodule "ofl/dorsa"]
 	path = ofl/dorsa
 	url = git://github.com/fontdirectory/dorsa.git
+[submodule "ofl/dosis"]
+	path = ofl/dosis
+	url = git://github.com/fontdirectory/dosis.git
+[submodule "ofl/drsugiyama"]
+	path = ofl/drsugiyama
+	url = git://github.com/fontdirectory/drsugiyama.git
+[submodule "ofl/durusans"]
+	path = ofl/durusans
+	url = git://github.com/fontdirectory/durusans.git
+[submodule "ofl/dynalight"]
+	path = ofl/dynalight
+	url = git://github.com/fontdirectory/dynalight.git
+[submodule "ofl/eaglelake"]
+	path = ofl/eaglelake
+	url = git://github.com/fontdirectory/eaglelake.git
+[submodule "ofl/eater"]
+	path = ofl/eater
+	url = git://github.com/fontdirectory/eater.git
+[submodule "ofl/eatercaps"]
+	path = ofl/eatercaps
+	url = git://github.com/fontdirectory/eatercaps.git
+[submodule "ofl/ebgaramond"]
+	path = ofl/ebgaramond
+	url = git://github.com/fontdirectory/ebgaramond.git
+[submodule "ofl/economica"]
+	path = ofl/economica
+	url = git://github.com/fontdirectory/economica.git
+[submodule "ofl/ekmukta"]
+	path = ofl/ekmukta
+	url = git://github.com/fontdirectory/ekmukta.git
+[submodule "ofl/electrolize"]
+	path = ofl/electrolize
+	url = git://github.com/fontdirectory/electrolize.git
+[submodule "ofl/elsie"]
+	path = ofl/elsie
+	url = git://github.com/fontdirectory/elsie.git
+[submodule "ofl/elsieswashcaps"]
+	path = ofl/elsieswashcaps
+	url = git://github.com/fontdirectory/elsieswashcaps.git
+[submodule "ofl/emblemaone"]
+	path = ofl/emblemaone
+	url = git://github.com/fontdirectory/emblemaone.git
+[submodule "ofl/emilyscandy"]
+	path = ofl/emilyscandy
+	url = git://github.com/fontdirectory/emilyscandy.git
