@@ -655,3 +655,240 @@
 [submodule "ofl/bevan"]
 	path = ofl/bevan
 	url = git://github.com/fontdirectory/bevan.git
+[submodule "ofl/bigelowrules"]
+	path = ofl/bigelowrules
+	url = git://github.com/fontdirectory/bigelowrules.git
+[submodule "ofl/bigshotone"]
+	path = ofl/bigshotone
+	url = git://github.com/fontdirectory/bigshotone.git
+[submodule "ofl/bilbo"]
+	path = ofl/bilbo
+	url = git://github.com/fontdirectory/bilbo.git
+[submodule "ofl/bilboswashcaps"]
+	path = ofl/bilboswashcaps
+	url = git://github.com/fontdirectory/bilboswashcaps.git
+[submodule "ofl/bitter"]
+	path = ofl/bitter
+	url = git://github.com/fontdirectory/bitter.git
+[submodule "ofl/blackopsone"]
+	path = ofl/blackopsone
+	url = git://github.com/fontdirectory/blackopsone.git
+[submodule "ofl/bokor"]
+	path = ofl/bokor
+	url = git://github.com/fontdirectory/bokor.git
+[submodule "ofl/bonbon"]
+	path = ofl/bonbon
+	url = git://github.com/fontdirectory/bonbon.git
+[submodule "ofl/boogaloo"]
+	path = ofl/boogaloo
+	url = git://github.com/fontdirectory/boogaloo.git
+[submodule "ofl/bowlbyone"]
+	path = ofl/bowlbyone
+	url = git://github.com/fontdirectory/bowlbyone.git
+[submodule "ofl/bowlbyonesc"]
+	path = ofl/bowlbyonesc
+	url = git://github.com/fontdirectory/bowlbyonesc.git
+[submodule "ofl/brawler"]
+	path = ofl/brawler
+	url = git://github.com/fontdirectory/brawler.git
+[submodule "ofl/breeserif"]
+	path = ofl/breeserif
+	url = git://github.com/fontdirectory/breeserif.git
+[submodule "ofl/brunoace"]
+	path = ofl/brunoace
+	url = git://github.com/fontdirectory/brunoace.git
+[submodule "ofl/brunoacesc"]
+	path = ofl/brunoacesc
+	url = git://github.com/fontdirectory/brunoacesc.git
+[submodule "ofl/bubblegumsans"]
+	path = ofl/bubblegumsans
+	url = git://github.com/fontdirectory/bubblegumsans.git
+[submodule "ofl/bubblerone"]
+	path = ofl/bubblerone
+	url = git://github.com/fontdirectory/bubblerone.git
+[submodule "ofl/buda"]
+	path = ofl/buda
+	url = git://github.com/fontdirectory/buda.git
+[submodule "ofl/buenard"]
+	path = ofl/buenard
+	url = git://github.com/fontdirectory/buenard.git
+[submodule "ofl/butcherman"]
+	path = ofl/butcherman
+	url = git://github.com/fontdirectory/butcherman.git
+[submodule "ofl/butchermancaps"]
+	path = ofl/butchermancaps
+	url = git://github.com/fontdirectory/butchermancaps.git
+[submodule "ofl/butterflykids"]
+	path = ofl/butterflykids
+	url = git://github.com/fontdirectory/butterflykids.git
+[submodule "ofl/cabin"]
+	path = ofl/cabin
+	url = git://github.com/fontdirectory/cabin.git
+[submodule "ofl/cabincondensed"]
+	path = ofl/cabincondensed
+	url = git://github.com/fontdirectory/cabincondensed.git
+[submodule "ofl/cabinsketch"]
+	path = ofl/cabinsketch
+	url = git://github.com/fontdirectory/cabinsketch.git
+[submodule "ofl/caesardressing"]
+	path = ofl/caesardressing
+	url = git://github.com/fontdirectory/caesardressing.git
+[submodule "ofl/cagliostro"]
+	path = ofl/cagliostro
+	url = git://github.com/fontdirectory/cagliostro.git
+[submodule "ofl/cambo"]
+	path = ofl/cambo
+	url = git://github.com/fontdirectory/cambo.git
+[submodule "ofl/candal"]
+	path = ofl/candal
+	url = git://github.com/fontdirectory/candal.git
+[submodule "ofl/cantarell"]
+	path = ofl/cantarell
+	url = git://github.com/fontdirectory/cantarell.git
+[submodule "ofl/cantataone"]
+	path = ofl/cantataone
+	url = git://github.com/fontdirectory/cantataone.git
+[submodule "ofl/cantoraone"]
+	path = ofl/cantoraone
+	url = git://github.com/fontdirectory/cantoraone.git
+[submodule "ofl/capriola"]
+	path = ofl/capriola
+	url = git://github.com/fontdirectory/capriola.git
+[submodule "ofl/cardo"]
+	path = ofl/cardo
+	url = git://github.com/fontdirectory/cardo.git
+[submodule "ofl/carme"]
+	path = ofl/carme
+	url = git://github.com/fontdirectory/carme.git
+[submodule "ofl/carroisgothic"]
+	path = ofl/carroisgothic
+	url = git://github.com/fontdirectory/carroisgothic.git
+[submodule "ofl/carroisgothicsc"]
+	path = ofl/carroisgothicsc
+	url = git://github.com/fontdirectory/carroisgothicsc.git
+[submodule "ofl/carterone"]
+	path = ofl/carterone
+	url = git://github.com/fontdirectory/carterone.git
+[submodule "ofl/caudex"]
+	path = ofl/caudex
+	url = git://github.com/fontdirectory/caudex.git
+[submodule "ofl/cedarvillecursive"]
+	path = ofl/cedarvillecursive
+	url = git://github.com/fontdirectory/cedarvillecursive.git
+[submodule "ofl/cevicheone"]
+	path = ofl/cevicheone
+	url = git://github.com/fontdirectory/cevicheone.git
+[submodule "ofl/changa"]
+	path = ofl/changa
+	url = git://github.com/fontdirectory/changa.git
+[submodule "ofl/changaone"]
+	path = ofl/changaone
+	url = git://github.com/fontdirectory/changaone.git
+[submodule "ofl/chango"]
+	path = ofl/chango
+	url = git://github.com/fontdirectory/chango.git
+[submodule "ofl/chauphilomeneone"]
+	path = ofl/chauphilomeneone
+	url = git://github.com/fontdirectory/chauphilomeneone.git
+[submodule "ofl/chelaone"]
+	path = ofl/chelaone
+	url = git://github.com/fontdirectory/chelaone.git
+[submodule "ofl/chelseamarket"]
+	path = ofl/chelseamarket
+	url = git://github.com/fontdirectory/chelseamarket.git
+[submodule "ofl/chenla"]
+	path = ofl/chenla
+	url = git://github.com/fontdirectory/chenla.git
+[submodule "ofl/cherryswash"]
+	path = ofl/cherryswash
+	url = git://github.com/fontdirectory/cherryswash.git
+[submodule "ofl/chicle"]
+	path = ofl/chicle
+	url = git://github.com/fontdirectory/chicle.git
+[submodule "ofl/chivo"]
+	path = ofl/chivo
+	url = git://github.com/fontdirectory/chivo.git
+[submodule "ofl/cinzel"]
+	path = ofl/cinzel
+	url = git://github.com/fontdirectory/cinzel.git
+[submodule "ofl/cinzeldecorative"]
+	path = ofl/cinzeldecorative
+	url = git://github.com/fontdirectory/cinzeldecorative.git
+[submodule "ofl/clara"]
+	path = ofl/clara
+	url = git://github.com/fontdirectory/clara.git
+[submodule "ofl/clickerscript"]
+	path = ofl/clickerscript
+	url = git://github.com/fontdirectory/clickerscript.git
+[submodule "ofl/coda"]
+	path = ofl/coda
+	url = git://github.com/fontdirectory/coda.git
+[submodule "ofl/codacaption"]
+	path = ofl/codacaption
+	url = git://github.com/fontdirectory/codacaption.git
+[submodule "ofl/codystar"]
+	path = ofl/codystar
+	url = git://github.com/fontdirectory/codystar.git
+[submodule "ofl/combo"]
+	path = ofl/combo
+	url = git://github.com/fontdirectory/combo.git
+[submodule "ofl/comfortaa"]
+	path = ofl/comfortaa
+	url = git://github.com/fontdirectory/comfortaa.git
+[submodule "ofl/concertone"]
+	path = ofl/concertone
+	url = git://github.com/fontdirectory/concertone.git
+[submodule "ofl/condiment"]
+	path = ofl/condiment
+	url = git://github.com/fontdirectory/condiment.git
+[submodule "ofl/content"]
+	path = ofl/content
+	url = git://github.com/fontdirectory/content.git
+[submodule "ofl/contrailone"]
+	path = ofl/contrailone
+	url = git://github.com/fontdirectory/contrailone.git
+[submodule "ofl/convergence"]
+	path = ofl/convergence
+	url = git://github.com/fontdirectory/convergence.git
+[submodule "ofl/cookie"]
+	path = ofl/cookie
+	url = git://github.com/fontdirectory/cookie.git
+[submodule "ofl/copse"]
+	path = ofl/copse
+	url = git://github.com/fontdirectory/copse.git
+[submodule "ofl/corben"]
+	path = ofl/corben
+	url = git://github.com/fontdirectory/corben.git
+[submodule "ofl/courgette"]
+	path = ofl/courgette
+	url = git://github.com/fontdirectory/courgette.git
+[submodule "ofl/coustard"]
+	path = ofl/coustard
+	url = git://github.com/fontdirectory/coustard.git
+[submodule "ofl/coveredbyyourgrace"]
+	path = ofl/coveredbyyourgrace
+	url = git://github.com/fontdirectory/coveredbyyourgrace.git
+[submodule "ofl/creepster"]
+	path = ofl/creepster
+	url = git://github.com/fontdirectory/creepster.git
+[submodule "ofl/creteround"]
+	path = ofl/creteround
+	url = git://github.com/fontdirectory/creteround.git
+[submodule "ofl/crimsontext"]
+	path = ofl/crimsontext
+	url = git://github.com/fontdirectory/crimsontext.git
+[submodule "ofl/croissantone"]
+	path = ofl/croissantone
+	url = git://github.com/fontdirectory/croissantone.git
+[submodule "ofl/cuprum"]
+	path = ofl/cuprum
+	url = git://github.com/fontdirectory/cuprum.git
+[submodule "ofl/cutive"]
+	path = ofl/cutive
+	url = git://github.com/fontdirectory/cutive.git
+[submodule "ofl/cutivemono"]
+	path = ofl/cutivemono
+	url = git://github.com/fontdirectory/cutivemono.git
+[submodule "ofl/cwtexhei"]
+	path = ofl/cwtexhei
+	url = git://github.com/fontdirectory/cwtexhei.git
