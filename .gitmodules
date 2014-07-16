@@ -178,3 +178,99 @@
 [submodule "apache/notosanskaithi"]
 	path = apache/notosanskaithi
 	url = git://github.com/fontdirectory/notosanskaithi.git
+[submodule "apache/notosanskannada"]
+	path = apache/notosanskannada
+	url = git://github.com/fontdirectory/notosanskannada.git
+[submodule "apache/notosanskayahli"]
+	path = apache/notosanskayahli
+	url = git://github.com/fontdirectory/notosanskayahli.git
+[submodule "apache/notosanskharoshthi"]
+	path = apache/notosanskharoshthi
+	url = git://github.com/fontdirectory/notosanskharoshthi.git
+[submodule "apache/notosanslao"]
+	path = apache/notosanslao
+	url = git://github.com/fontdirectory/notosanslao.git
+[submodule "apache/notosanslaoui"]
+	path = apache/notosanslaoui
+	url = git://github.com/fontdirectory/notosanslaoui.git
+[submodule "apache/notosanslisu"]
+	path = apache/notosanslisu
+	url = git://github.com/fontdirectory/notosanslisu.git
+[submodule "apache/notosanslycian"]
+	path = apache/notosanslycian
+	url = git://github.com/fontdirectory/notosanslycian.git
+[submodule "apache/notosanslydian"]
+	path = apache/notosanslydian
+	url = git://github.com/fontdirectory/notosanslydian.git
+[submodule "apache/notosansmalayalam"]
+	path = apache/notosansmalayalam
+	url = git://github.com/fontdirectory/notosansmalayalam.git
+[submodule "apache/notosansmandaic"]
+	path = apache/notosansmandaic
+	url = git://github.com/fontdirectory/notosansmandaic.git
+[submodule "apache/notosansmeeteimayek"]
+	path = apache/notosansmeeteimayek
+	url = git://github.com/fontdirectory/notosansmeeteimayek.git
+[submodule "apache/notosansnko"]
+	path = apache/notosansnko
+	url = git://github.com/fontdirectory/notosansnko.git
+[submodule "apache/notosansoldsoutharabian"]
+	path = apache/notosansoldsoutharabian
+	url = git://github.com/fontdirectory/notosansoldsoutharabian.git
+[submodule "apache/notosansoldturkic"]
+	path = apache/notosansoldturkic
+	url = git://github.com/fontdirectory/notosansoldturkic.git
+[submodule "apache/notosansosmanya"]
+	path = apache/notosansosmanya
+	url = git://github.com/fontdirectory/notosansosmanya.git
+[submodule "apache/notosansphoenician"]
+	path = apache/notosansphoenician
+	url = git://github.com/fontdirectory/notosansphoenician.git
+[submodule "apache/notosansshavian"]
+	path = apache/notosansshavian
+	url = git://github.com/fontdirectory/notosansshavian.git
+[submodule "apache/notosanssymbols"]
+	path = apache/notosanssymbols
+	url = git://github.com/fontdirectory/notosanssymbols.git
+[submodule "apache/notosanstagalog"]
+	path = apache/notosanstagalog
+	url = git://github.com/fontdirectory/notosanstagalog.git
+[submodule "apache/notosanstaitham"]
+	path = apache/notosanstaitham
+	url = git://github.com/fontdirectory/notosanstaitham.git
+[submodule "apache/notosanstaiviet"]
+	path = apache/notosanstaiviet
+	url = git://github.com/fontdirectory/notosanstaiviet.git
+[submodule "apache/notosanstamil"]
+	path = apache/notosanstamil
+	url = git://github.com/fontdirectory/notosanstamil.git
+[submodule "apache/notosanstamilui"]
+	path = apache/notosanstamilui
+	url = git://github.com/fontdirectory/notosanstamilui.git
+[submodule "apache/notosanstelugu"]
+	path = apache/notosanstelugu
+	url = git://github.com/fontdirectory/notosanstelugu.git
+[submodule "apache/notosansthai"]
+	path = apache/notosansthai
+	url = git://github.com/fontdirectory/notosansthai.git
+[submodule "apache/notosansthaiui"]
+	path = apache/notosansthaiui
+	url = git://github.com/fontdirectory/notosansthaiui.git
+[submodule "apache/notosansugaritic"]
+	path = apache/notosansugaritic
+	url = git://github.com/fontdirectory/notosansugaritic.git
+[submodule "apache/notosansui"]
+	path = apache/notosansui
+	url = git://github.com/fontdirectory/notosansui.git
+[submodule "apache/notosansvai"]
+	path = apache/notosansvai
+	url = git://github.com/fontdirectory/notosansvai.git
+[submodule "apache/notoserif"]
+	path = apache/notoserif
+	url = git://github.com/fontdirectory/notoserif.git
+[submodule "apache/notoserifarmenian"]
+	path = apache/notoserifarmenian
+	url = git://github.com/fontdirectory/notoserifarmenian.git
+[submodule "apache/notoserifgeorgian"]
+	path = apache/notoserifgeorgian
+	url = git://github.com/fontdirectory/notoserifgeorgian.git
