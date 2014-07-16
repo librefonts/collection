@@ -30,18 +30,11 @@ TEMPLATE="/Volumes/Fonts/template/"
 ALL="/Volumes/Fonts/all"
 startwd=$(pwd)
 # echo "Delete files"
-# find . -name "*.menu" -exec rm -rf {} \;
-# find . -name "*.latin" -exec rm -rf {} \;
-# find . -name "*.latin-ext" -exec rm -rf {} \;
-# find . -name "*.greek" -exec rm -rf {} \;
-# find . -name "*.greek-ext" -exec rm -rf {} \;
-# find . -name "*.cyrillic" -exec rm -rf {} \;
-# find . -name "*.cyrillic-ext" -exec rm -rf {} \;
-# find . -name "*.vietnamese" -exec rm -rf {} \;
-# find . -name "*.arabic" -exec rm -rf {} \;
-# find . -name "*.ethiopic" -exec rm -rf {} \;
-# find . -name "*.tamil" -exec rm -rf {} \;
-# find . -name "*.thai" -exec rm -rf {} \;
+find . \( -name "*.menu" -o -name "*.latin" -o -name "*.latin-ext" -o -name "*.greek" \
+-o -name "*.greek-ext" -o -name "*.cyrillic" -o -name "*.cyrillic-ext" -o -name \
+"*.vietnamese" -o -name "*.arabic" -o -name "*.bengali" -o -name "*.ethiopic" -o -name \
+"*.tamil" -o -name "*.thai" -o -name "*.devanagari" -o -name "*.hebrew" -o -name \
+"*.khmer" -o -name "*.lao" \) -exec rm -rf {} \;
 # echo "Generate ttx files"
 # find . -name "*.ttf" -exec ttx -s -o {}.ttx {} \;
 # find . -name "*.otf" -exec ttx -s -o {}.ttx {} \;
