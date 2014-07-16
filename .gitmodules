@@ -901,3 +901,60 @@
 [submodule "ofl/cwtexming"]
 	path = ofl/cwtexming
 	url = git://github.com/fontdirectory/cwtexming.git
+[submodule "ofl/damion"]
+	path = ofl/damion
+	url = git://github.com/fontdirectory/damion.git
+[submodule "ofl/dancingscript"]
+	path = ofl/dancingscript
+	url = git://github.com/fontdirectory/dancingscript.git
+[submodule "ofl/dangrek"]
+	path = ofl/dangrek
+	url = git://github.com/fontdirectory/dangrek.git
+[submodule "ofl/dawningofanewday"]
+	path = ofl/dawningofanewday
+	url = git://github.com/fontdirectory/dawningofanewday.git
+[submodule "ofl/daysone"]
+	path = ofl/daysone
+	url = git://github.com/fontdirectory/daysone.git
+[submodule "ofl/delius"]
+	path = ofl/delius
+	url = git://github.com/fontdirectory/delius.git
+[submodule "ofl/deliusswashcaps"]
+	path = ofl/deliusswashcaps
+	url = git://github.com/fontdirectory/deliusswashcaps.git
+[submodule "ofl/deliusunicase"]
+	path = ofl/deliusunicase
+	url = git://github.com/fontdirectory/deliusunicase.git
+[submodule "ofl/dellarespira"]
+	path = ofl/dellarespira
+	url = git://github.com/fontdirectory/dellarespira.git
+[submodule "ofl/denkone"]
+	path = ofl/denkone
+	url = git://github.com/fontdirectory/denkone.git
+[submodule "ofl/devonshire"]
+	path = ofl/devonshire
+	url = git://github.com/fontdirectory/devonshire.git
+[submodule "ofl/dhyana"]
+	path = ofl/dhyana
+	url = git://github.com/fontdirectory/dhyana.git
+[submodule "ofl/didactgothic"]
+	path = ofl/didactgothic
+	url = git://github.com/fontdirectory/didactgothic.git
+[submodule "ofl/diplomata"]
+	path = ofl/diplomata
+	url = git://github.com/fontdirectory/diplomata.git
+[submodule "ofl/diplomatasc"]
+	path = ofl/diplomatasc
+	url = git://github.com/fontdirectory/diplomatasc.git
+[submodule "ofl/domine"]
+	path = ofl/domine
+	url = git://github.com/fontdirectory/domine.git
+[submodule "ofl/donegalone"]
+	path = ofl/donegalone
+	url = git://github.com/fontdirectory/donegalone.git
+[submodule "ofl/doppioone"]
+	path = ofl/doppioone
+	url = git://github.com/fontdirectory/doppioone.git
+[submodule "ofl/dorsa"]
+	path = ofl/dorsa
+	url = git://github.com/fontdirectory/dorsa.git
