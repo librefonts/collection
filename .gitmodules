@@ -274,3 +274,93 @@
 [submodule "apache/notoserifgeorgian"]
 	path = apache/notoserifgeorgian
 	url = git://github.com/fontdirectory/notoserifgeorgian.git
+[submodule "apache/notoseriflao"]
+	path = apache/notoseriflao
+	url = git://github.com/fontdirectory/notoseriflao.git
+[submodule "apache/notoserifthai"]
+	path = apache/notoserifthai
+	url = git://github.com/fontdirectory/notoserifthai.git
+[submodule "apache/opensans"]
+	path = apache/opensans
+	url = git://github.com/fontdirectory/opensans.git
+[submodule "apache/opensanscondensed"]
+	path = apache/opensanscondensed
+	url = git://github.com/fontdirectory/opensanscondensed.git
+[submodule "apache/opensanshebrew"]
+	path = apache/opensanshebrew
+	url = git://github.com/fontdirectory/opensanshebrew.git
+[submodule "apache/opensanshebrewcondensed"]
+	path = apache/opensanshebrewcondensed
+	url = git://github.com/fontdirectory/opensanshebrewcondensed.git
+[submodule "apache/permanentmarker"]
+	path = apache/permanentmarker
+	url = git://github.com/fontdirectory/permanentmarker.git
+[submodule "apache/rancho"]
+	path = apache/rancho
+	url = git://github.com/fontdirectory/rancho.git
+[submodule "apache/redressed"]
+	path = apache/redressed
+	url = git://github.com/fontdirectory/redressed.git
+[submodule "apache/roboto"]
+	path = apache/roboto
+	url = git://github.com/fontdirectory/roboto.git
+[submodule "apache/roboto-latest-2013-06-26"]
+	path = apache/roboto-latest-2013-06-26
+	url = git://github.com/fontdirectory/roboto-latest-2013-06-26.git
+[submodule "apache/roboto-prod"]
+	path = apache/roboto-prod
+	url = git://github.com/fontdirectory/roboto-prod.git
+[submodule "apache/roboto-prod2"]
+	path = apache/roboto-prod2
+	url = git://github.com/fontdirectory/roboto-prod2.git
+[submodule "apache/roboto-reverted"]
+	path = apache/roboto-reverted
+	url = git://github.com/fontdirectory/roboto-reverted.git
+[submodule "apache/roboto2-hinttest"]
+	path = apache/roboto2-hinttest
+	url = git://github.com/fontdirectory/roboto2-hinttest.git
+[submodule "apache/roboto2condensed"]
+	path = apache/roboto2condensed
+	url = git://github.com/fontdirectory/roboto2condensed.git
+[submodule "apache/robotocondensed"]
+	path = apache/robotocondensed
+	url = git://github.com/fontdirectory/robotocondensed.git
+[submodule "apache/robotodraft"]
+	path = apache/robotodraft
+	url = git://github.com/fontdirectory/robotodraft.git
+[submodule "apache/robotoslab"]
+	path = apache/robotoslab
+	url = git://github.com/fontdirectory/robotoslab.git
+[submodule "apache/rochester"]
+	path = apache/rochester
+	url = git://github.com/fontdirectory/rochester.git
+[submodule "apache/rocksalt"]
+	path = apache/rocksalt
+	url = git://github.com/fontdirectory/rocksalt.git
+[submodule "apache/satisfy"]
+	path = apache/satisfy
+	url = git://github.com/fontdirectory/satisfy.git
+[submodule "apache/schoolbell"]
+	path = apache/schoolbell
+	url = git://github.com/fontdirectory/schoolbell.git
+[submodule "apache/slackey"]
+	path = apache/slackey
+	url = git://github.com/fontdirectory/slackey.git
+[submodule "apache/smokum"]
+	path = apache/smokum
+	url = git://github.com/fontdirectory/smokum.git
+[submodule "apache/specialelite"]
+	path = apache/specialelite
+	url = git://github.com/fontdirectory/specialelite.git
+[submodule "apache/sunshiney"]
+	path = apache/sunshiney
+	url = git://github.com/fontdirectory/sunshiney.git
+[submodule "apache/syncopate"]
+	path = apache/syncopate
+	url = git://github.com/fontdirectory/syncopate.git
+[submodule "apache/tinos"]
+	path = apache/tinos
+	url = git://github.com/fontdirectory/tinos.git
+[submodule "apache/tmp-roboto"]
+	path = apache/tmp-roboto
+	url = git://github.com/fontdirectory/tmp-roboto.git
