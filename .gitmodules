@@ -898,3 +898,6 @@
 [submodule "ofl/cwtexkai"]
 	path = ofl/cwtexkai
 	url = git://github.com/fontdirectory/cwtexkai.git
+[submodule "ofl/cwtexming"]
+	path = ofl/cwtexming
+	url = git://github.com/fontdirectory/cwtexming.git
