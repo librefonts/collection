@@ -2500,6 +2500,3 @@
 [submodule "ofl/zeyada"]
 	path = ofl/zeyada
 	url = git://github.com/fontdirectory/zeyada.git
-[submodule "apache/DELME"]
-	path = apache/DELME
-	url = git://github.com/fontdirectory/DELME.git
