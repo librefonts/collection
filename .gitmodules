@@ -1846,3 +1846,696 @@
 [submodule "ofl/seoulhangang"]
 	path = ofl/seoulhangang
 	url = git://github.com/fontdirectory/seoulhangang.git
+[submodule "ofl/seoulnamsanvertical"]
+	path = ofl/seoulnamsanvertical
+	url = git://github.com/fontdirectory/seoulnamsanvertical.git
+[submodule "ofl/sevillana"]
+	path = ofl/sevillana
+	url = git://github.com/fontdirectory/sevillana.git
+[submodule "ofl/seymourone"]
+	path = ofl/seymourone
+	url = git://github.com/fontdirectory/seymourone.git
+[submodule "ofl/shadowsintolight"]
+	path = ofl/shadowsintolight
+	url = git://github.com/fontdirectory/shadowsintolight.git
+[submodule "ofl/shadowsintolighttwo"]
+	path = ofl/shadowsintolighttwo
+	url = git://github.com/fontdirectory/shadowsintolighttwo.git
+[submodule "ofl/seoulhangangcondensed"]
+	path = ofl/seoulhangangcondensed
+	url = git://github.com/fontdirectory/seoulhangangcondensed.git
+[submodule "ofl/seoulnamsan"]
+	path = ofl/seoulnamsan
+	url = git://github.com/fontdirectory/seoulnamsan.git
+[submodule "ofl/seoulnamsancondensed"]
+	path = ofl/seoulnamsancondensed
+	url = git://github.com/fontdirectory/seoulnamsancondensed.git
+[submodule "ofl/shanti"]
+	path = ofl/shanti
+	url = git://github.com/fontdirectory/shanti.git
+[submodule "ofl/share"]
+	path = ofl/share
+	url = git://github.com/fontdirectory/share.git
+[submodule "ofl/sharetech"]
+	path = ofl/sharetech
+	url = git://github.com/fontdirectory/sharetech.git
+[submodule "ofl/sharetechmono"]
+	path = ofl/sharetechmono
+	url = git://github.com/fontdirectory/sharetechmono.git
+[submodule "ofl/shojumaru"]
+	path = ofl/shojumaru
+	url = git://github.com/fontdirectory/shojumaru.git
+[submodule "ofl/siamreap"]
+	path = ofl/siamreap
+	url = git://github.com/fontdirectory/siamreap.git
+[submodule "ofl/siemreap"]
+	path = ofl/siemreap
+	url = git://github.com/fontdirectory/siemreap.git
+[submodule "ofl/sigmarone"]
+	path = ofl/sigmarone
+	url = git://github.com/fontdirectory/sigmarone.git
+[submodule "ofl/signika"]
+	path = ofl/signika
+	url = git://github.com/fontdirectory/signika.git
+[submodule "ofl/signikanegative"]
+	path = ofl/signikanegative
+	url = git://github.com/fontdirectory/signikanegative.git
+[submodule "ofl/simonetta"]
+	path = ofl/simonetta
+	url = git://github.com/fontdirectory/simonetta.git
+[submodule "ofl/sintony"]
+	path = ofl/sintony
+	url = git://github.com/fontdirectory/sintony.git
+[submodule "ofl/sirinstencil"]
+	path = ofl/sirinstencil
+	url = git://github.com/fontdirectory/sirinstencil.git
+[submodule "ofl/sixcaps"]
+	path = ofl/sixcaps
+	url = git://github.com/fontdirectory/sixcaps.git
+[submodule "ofl/skranji"]
+	path = ofl/skranji
+	url = git://github.com/fontdirectory/skranji.git
+[submodule "ofl/slabo13px"]
+	path = ofl/slabo13px
+	url = git://github.com/fontdirectory/slabo13px.git
+[submodule "ofl/smythe"]
+	path = ofl/smythe
+	url = git://github.com/fontdirectory/smythe.git
+[submodule "ofl/sniglet"]
+	path = ofl/sniglet
+	url = git://github.com/fontdirectory/sniglet.git
+[submodule "ofl/snippet"]
+	path = ofl/snippet
+	url = git://github.com/fontdirectory/snippet.git
+[submodule "ofl/snowburstone"]
+	path = ofl/snowburstone
+	url = git://github.com/fontdirectory/snowburstone.git
+[submodule "ofl/sofadione"]
+	path = ofl/sofadione
+	url = git://github.com/fontdirectory/sofadione.git
+[submodule "ofl/sofia"]
+	path = ofl/sofia
+	url = git://github.com/fontdirectory/sofia.git
+[submodule "ofl/sonsieone"]
+	path = ofl/sonsieone
+	url = git://github.com/fontdirectory/sonsieone.git
+[submodule "ofl/sortsmillgoudy"]
+	path = ofl/sortsmillgoudy
+	url = git://github.com/fontdirectory/sortsmillgoudy.git
+[submodule "ofl/souliyo"]
+	path = ofl/souliyo
+	url = git://github.com/fontdirectory/souliyo.git
+[submodule "ofl/sourcecodepro"]
+	path = ofl/sourcecodepro
+	url = git://github.com/fontdirectory/sourcecodepro.git
+[submodule "ofl/sourcesanspro"]
+	path = ofl/sourcesanspro
+	url = git://github.com/fontdirectory/sourcesanspro.git
+[submodule "ofl/sourceserifpro"]
+	path = ofl/sourceserifpro
+	url = git://github.com/fontdirectory/sourceserifpro.git
+[submodule "ofl/spicyrice"]
+	path = ofl/spicyrice
+	url = git://github.com/fontdirectory/spicyrice.git
+[submodule "ofl/spinnaker"]
+	path = ofl/spinnaker
+	url = git://github.com/fontdirectory/spinnaker.git
+[submodule "ofl/spirax"]
+	path = ofl/spirax
+	url = git://github.com/fontdirectory/spirax.git
+[submodule "ofl/squadaone"]
+	path = ofl/squadaone
+	url = git://github.com/fontdirectory/squadaone.git
+[submodule "ofl/stalemate"]
+	path = ofl/stalemate
+	url = git://github.com/fontdirectory/stalemate.git
+[submodule "ofl/stalinistone"]
+	path = ofl/stalinistone
+	url = git://github.com/fontdirectory/stalinistone.git
+[submodule "ofl/stalinone"]
+	path = ofl/stalinone
+	url = git://github.com/fontdirectory/stalinone.git
+[submodule "ofl/stardosstencil"]
+	path = ofl/stardosstencil
+	url = git://github.com/fontdirectory/stardosstencil.git
+[submodule "ofl/stintultracondensed"]
+	path = ofl/stintultracondensed
+	url = git://github.com/fontdirectory/stintultracondensed.git
+[submodule "ofl/stintultraexpanded"]
+	path = ofl/stintultraexpanded
+	url = git://github.com/fontdirectory/stintultraexpanded.git
+[submodule "ofl/stoke"]
+	path = ofl/stoke
+	url = git://github.com/fontdirectory/stoke.git
+[submodule "ofl/strait"]
+	path = ofl/strait
+	url = git://github.com/fontdirectory/strait.git
+[submodule "ofl/strong"]
+	path = ofl/strong
+	url = git://github.com/fontdirectory/strong.git
+[submodule "ofl/sueellenfrancisco"]
+	path = ofl/sueellenfrancisco
+	url = git://github.com/fontdirectory/sueellenfrancisco.git
+[submodule "ofl/supermercadoone"]
+	path = ofl/supermercadoone
+	url = git://github.com/fontdirectory/supermercadoone.git
+[submodule "ofl/suwannaphum"]
+	path = ofl/suwannaphum
+	url = git://github.com/fontdirectory/suwannaphum.git
+[submodule "ofl/swankyandmoomoo"]
+	path = ofl/swankyandmoomoo
+	url = git://github.com/fontdirectory/swankyandmoomoo.git
+[submodule "ofl/tangerine"]
+	path = ofl/tangerine
+	url = git://github.com/fontdirectory/tangerine.git
+[submodule "ofl/taprom"]
+	path = ofl/taprom
+	url = git://github.com/fontdirectory/taprom.git
+[submodule "ofl/teko"]
+	path = ofl/teko
+	url = git://github.com/fontdirectory/teko.git
+[submodule "ofl/telex"]
+	path = ofl/telex
+	url = git://github.com/fontdirectory/telex.git
+[submodule "ofl/tenorsans"]
+	path = ofl/tenorsans
+	url = git://github.com/fontdirectory/tenorsans.git
+[submodule "ofl/terminaldosis"]
+	path = ofl/terminaldosis
+	url = git://github.com/fontdirectory/terminaldosis.git
+[submodule "ofl/terminaldosislight"]
+	path = ofl/terminaldosislight
+	url = git://github.com/fontdirectory/terminaldosislight.git
+[submodule "ofl/textmeone"]
+	path = ofl/textmeone
+	url = git://github.com/fontdirectory/textmeone.git
+[submodule "ofl/thabit"]
+	path = ofl/thabit
+	url = git://github.com/fontdirectory/thabit.git
+[submodule "ofl/tharlon"]
+	path = ofl/tharlon
+	url = git://github.com/fontdirectory/tharlon.git
+[submodule "ofl/thegirlnextdoor"]
+	path = ofl/thegirlnextdoor
+	url = git://github.com/fontdirectory/thegirlnextdoor.git
+[submodule "ofl/tienne"]
+	path = ofl/tienne
+	url = git://github.com/fontdirectory/tienne.git
+[submodule "ofl/titanone"]
+	path = ofl/titanone
+	url = git://github.com/fontdirectory/titanone.git
+[submodule "ofl/titilliumweb"]
+	path = ofl/titilliumweb
+	url = git://github.com/fontdirectory/titilliumweb.git
+[submodule "ofl/tradewinds"]
+	path = ofl/tradewinds
+	url = git://github.com/fontdirectory/tradewinds.git
+[submodule "ofl/trocchi"]
+	path = ofl/trocchi
+	url = git://github.com/fontdirectory/trocchi.git
+[submodule "ofl/trochut"]
+	path = ofl/trochut
+	url = git://github.com/fontdirectory/trochut.git
+[submodule "ofl/trykker"]
+	path = ofl/trykker
+	url = git://github.com/fontdirectory/trykker.git
+[submodule "ofl/tuffy"]
+	path = ofl/tuffy
+	url = git://github.com/fontdirectory/tuffy.git
+[submodule "ofl/tulpenone"]
+	path = ofl/tulpenone
+	url = git://github.com/fontdirectory/tulpenone.git
+[submodule "ofl/uncialantiqua"]
+	path = ofl/uncialantiqua
+	url = git://github.com/fontdirectory/uncialantiqua.git
+[submodule "ofl/underdog"]
+	path = ofl/underdog
+	url = git://github.com/fontdirectory/underdog.git
+[submodule "ofl/unicaone"]
+	path = ofl/unicaone
+	url = git://github.com/fontdirectory/unicaone.git
+[submodule "ofl/unifrakturcook"]
+	path = ofl/unifrakturcook
+	url = git://github.com/fontdirectory/unifrakturcook.git
+[submodule "ofl/unifrakturmaguntia"]
+	path = ofl/unifrakturmaguntia
+	url = git://github.com/fontdirectory/unifrakturmaguntia.git
+[submodule "ofl/unlock"]
+	path = ofl/unlock
+	url = git://github.com/fontdirectory/unlock.git
+[submodule "ofl/unna"]
+	path = ofl/unna
+	url = git://github.com/fontdirectory/unna.git
+[submodule "ofl/vampiroone"]
+	path = ofl/vampiroone
+	url = git://github.com/fontdirectory/vampiroone.git
+[submodule "ofl/varela"]
+	path = ofl/varela
+	url = git://github.com/fontdirectory/varela.git
+[submodule "ofl/varelaround"]
+	path = ofl/varelaround
+	url = git://github.com/fontdirectory/varelaround.git
+[submodule "ofl/vastshadow"]
+	path = ofl/vastshadow
+	url = git://github.com/fontdirectory/vastshadow.git
+[submodule "ofl/vesperlibre"]
+	path = ofl/vesperlibre
+	url = git://github.com/fontdirectory/vesperlibre.git
+[submodule "ofl/vibur"]
+	path = ofl/vibur
+	url = git://github.com/fontdirectory/vibur.git
+[submodule "ofl/vidaloka"]
+	path = ofl/vidaloka
+	url = git://github.com/fontdirectory/vidaloka.git
+[submodule "ofl/viga"]
+	path = ofl/viga
+	url = git://github.com/fontdirectory/viga.git
+[submodule "ofl/voces"]
+	path = ofl/voces
+	url = git://github.com/fontdirectory/voces.git
+[submodule "ofl/volkhov"]
+	path = ofl/volkhov
+	url = git://github.com/fontdirectory/volkhov.git
+[submodule "ofl/vollkorn"]
+	path = ofl/vollkorn
+	url = git://github.com/fontdirectory/vollkorn.git
+[submodule "ofl/voltaire"]
+	path = ofl/voltaire
+	url = git://github.com/fontdirectory/voltaire.git
+[submodule "ofl/vt323"]
+	path = ofl/vt323
+	url = git://github.com/fontdirectory/vt323.git
+[submodule "ofl/waitingforthesunrise"]
+	path = ofl/waitingforthesunrise
+	url = git://github.com/fontdirectory/waitingforthesunrise.git
+[submodule "ofl/wallpoet"]
+	path = ofl/wallpoet
+	url = git://github.com/fontdirectory/wallpoet.git
+[submodule "ofl/warnes"]
+	path = ofl/warnes
+	url = git://github.com/fontdirectory/warnes.git
+[submodule "ofl/wellfleet"]
+	path = ofl/wellfleet
+	url = git://github.com/fontdirectory/wellfleet.git
+[submodule "ofl/wendyone"]
+	path = ofl/wendyone
+	url = git://github.com/fontdirectory/wendyone.git
+[submodule "ofl/wireone"]
+	path = ofl/wireone
+	url = git://github.com/fontdirectory/wireone.git
+[submodule "ofl/yanonekaffeesatz"]
+	path = ofl/yanonekaffeesatz
+	url = git://github.com/fontdirectory/yanonekaffeesatz.git
+[submodule "ofl/yesevaone"]
+	path = ofl/yesevaone
+	url = git://github.com/fontdirectory/yesevaone.git
+[submodule "ofl/yesteryear"]
+	path = ofl/yesteryear
+	url = git://github.com/fontdirectory/yesteryear.git
+[submodule "ofl/zeyada"]
+	path = ofl/zeyada
+	url = git://github.com/fontdirectory/zeyada.git
+[submodule "apache/aclonica"]
+	path = apache/aclonica
+	url = git://github.com/fontdirectory/aclonica.git
+[submodule "apache/arimo"]
+	path = apache/arimo
+	url = git://github.com/fontdirectory/arimo.git
+[submodule "apache/calligraffitti"]
+	path = apache/calligraffitti
+	url = git://github.com/fontdirectory/calligraffitti.git
+[submodule "apache/cherrycreamsoda"]
+	path = apache/cherrycreamsoda
+	url = git://github.com/fontdirectory/cherrycreamsoda.git
+[submodule "apache/chewy"]
+	path = apache/chewy
+	url = git://github.com/fontdirectory/chewy.git
+[submodule "apache/comingsoon"]
+	path = apache/comingsoon
+	url = git://github.com/fontdirectory/comingsoon.git
+[submodule "apache/cousine"]
+	path = apache/cousine
+	url = git://github.com/fontdirectory/cousine.git
+[submodule "apache/craftygirls"]
+	path = apache/craftygirls
+	url = git://github.com/fontdirectory/craftygirls.git
+[submodule "apache/creepstercaps"]
+	path = apache/creepstercaps
+	url = git://github.com/fontdirectory/creepstercaps.git
+[submodule "apache/crushed"]
+	path = apache/crushed
+	url = git://github.com/fontdirectory/crushed.git
+[submodule "apache/droidarabickufi"]
+	path = apache/droidarabickufi
+	url = git://github.com/fontdirectory/droidarabickufi.git
+[submodule "apache/droidarabicnaskh"]
+	path = apache/droidarabicnaskh
+	url = git://github.com/fontdirectory/droidarabicnaskh.git
+[submodule "apache/droidsans"]
+	path = apache/droidsans
+	url = git://github.com/fontdirectory/droidsans.git
+[submodule "apache/droidsansethiopic"]
+	path = apache/droidsansethiopic
+	url = git://github.com/fontdirectory/droidsansethiopic.git
+[submodule "apache/droidsansmono"]
+	path = apache/droidsansmono
+	url = git://github.com/fontdirectory/droidsansmono.git
+[submodule "apache/droidsanstamil"]
+	path = apache/droidsanstamil
+	url = git://github.com/fontdirectory/droidsanstamil.git
+[submodule "apache/droidsansthai"]
+	path = apache/droidsansthai
+	url = git://github.com/fontdirectory/droidsansthai.git
+[submodule "apache/droidserif"]
+	path = apache/droidserif
+	url = git://github.com/fontdirectory/droidserif.git
+[submodule "apache/droidserifold"]
+	path = apache/droidserifold
+	url = git://github.com/fontdirectory/droidserifold.git
+[submodule "apache/droidserifthai"]
+	path = apache/droidserifthai
+	url = git://github.com/fontdirectory/droidserifthai.git
+[submodule "apache/fontdinerswanky"]
+	path = apache/fontdinerswanky
+	url = git://github.com/fontdirectory/fontdinerswanky.git
+[submodule "apache/homemadeapple"]
+	path = apache/homemadeapple
+	url = git://github.com/fontdirectory/homemadeapple.git
+[submodule "apache/irishgrover"]
+	path = apache/irishgrover
+	url = git://github.com/fontdirectory/irishgrover.git
+[submodule "apache/irishgrowler"]
+	path = apache/irishgrowler
+	url = git://github.com/fontdirectory/irishgrowler.git
+[submodule "apache/jsmathcmbx10"]
+	path = apache/jsmathcmbx10
+	url = git://github.com/fontdirectory/jsmathcmbx10.git
+[submodule "apache/jsmathcmex10"]
+	path = apache/jsmathcmex10
+	url = git://github.com/fontdirectory/jsmathcmex10.git
+[submodule "apache/jsmathcmmi10"]
+	path = apache/jsmathcmmi10
+	url = git://github.com/fontdirectory/jsmathcmmi10.git
+[submodule "apache/jsmathcmr10"]
+	path = apache/jsmathcmr10
+	url = git://github.com/fontdirectory/jsmathcmr10.git
+[submodule "apache/jsmathcmsy10"]
+	path = apache/jsmathcmsy10
+	url = git://github.com/fontdirectory/jsmathcmsy10.git
+[submodule "apache/jsmathcmti10"]
+	path = apache/jsmathcmti10
+	url = git://github.com/fontdirectory/jsmathcmti10.git
+[submodule "apache/justanotherhand"]
+	path = apache/justanotherhand
+	url = git://github.com/fontdirectory/justanotherhand.git
+[submodule "apache/kranky"]
+	path = apache/kranky
+	url = git://github.com/fontdirectory/kranky.git
+[submodule "apache/luckiestguy"]
+	path = apache/luckiestguy
+	url = git://github.com/fontdirectory/luckiestguy.git
+[submodule "apache/maidenorange"]
+	path = apache/maidenorange
+	url = git://github.com/fontdirectory/maidenorange.git
+[submodule "apache/montez"]
+	path = apache/montez
+	url = git://github.com/fontdirectory/montez.git
+[submodule "apache/mountainsofchristmas"]
+	path = apache/mountainsofchristmas
+	url = git://github.com/fontdirectory/mountainsofchristmas.git
+[submodule "apache/nokora"]
+	path = apache/nokora
+	url = git://github.com/fontdirectory/nokora.git
+[submodule "apache/notosans"]
+	path = apache/notosans
+	url = git://github.com/fontdirectory/notosans.git
+[submodule "apache/notosansarmenian"]
+	path = apache/notosansarmenian
+	url = git://github.com/fontdirectory/notosansarmenian.git
+[submodule "apache/notosansavestan"]
+	path = apache/notosansavestan
+	url = git://github.com/fontdirectory/notosansavestan.git
+[submodule "apache/notosansbengali"]
+	path = apache/notosansbengali
+	url = git://github.com/fontdirectory/notosansbengali.git
+[submodule "apache/notosansbrahmi"]
+	path = apache/notosansbrahmi
+	url = git://github.com/fontdirectory/notosansbrahmi.git
+[submodule "apache/notosanscarian"]
+	path = apache/notosanscarian
+	url = git://github.com/fontdirectory/notosanscarian.git
+[submodule "apache/notosanscherokee"]
+	path = apache/notosanscherokee
+	url = git://github.com/fontdirectory/notosanscherokee.git
+[submodule "apache/notosanscoptic"]
+	path = apache/notosanscoptic
+	url = git://github.com/fontdirectory/notosanscoptic.git
+[submodule "apache/notosanscypriotsyllabary"]
+	path = apache/notosanscypriotsyllabary
+	url = git://github.com/fontdirectory/notosanscypriotsyllabary.git
+[submodule "apache/notosansdeseret"]
+	path = apache/notosansdeseret
+	url = git://github.com/fontdirectory/notosansdeseret.git
+[submodule "apache/notosansdevanagari"]
+	path = apache/notosansdevanagari
+	url = git://github.com/fontdirectory/notosansdevanagari.git
+[submodule "apache/notosansdevanagariui"]
+	path = apache/notosansdevanagariui
+	url = git://github.com/fontdirectory/notosansdevanagariui.git
+[submodule "apache/notosansegyptianhieroglyphs"]
+	path = apache/notosansegyptianhieroglyphs
+	url = git://github.com/fontdirectory/notosansegyptianhieroglyphs.git
+[submodule "apache/notosansethiopic"]
+	path = apache/notosansethiopic
+	url = git://github.com/fontdirectory/notosansethiopic.git
+[submodule "apache/notosansgeorgian"]
+	path = apache/notosansgeorgian
+	url = git://github.com/fontdirectory/notosansgeorgian.git
+[submodule "apache/notosansglagolitic"]
+	path = apache/notosansglagolitic
+	url = git://github.com/fontdirectory/notosansglagolitic.git
+[submodule "apache/notosansgujarati"]
+	path = apache/notosansgujarati
+	url = git://github.com/fontdirectory/notosansgujarati.git
+[submodule "apache/notosansgujaratiui"]
+	path = apache/notosansgujaratiui
+	url = git://github.com/fontdirectory/notosansgujaratiui.git
+[submodule "apache/notosanshanunoo"]
+	path = apache/notosanshanunoo
+	url = git://github.com/fontdirectory/notosanshanunoo.git
+[submodule "apache/notosanshebrew"]
+	path = apache/notosanshebrew
+	url = git://github.com/fontdirectory/notosanshebrew.git
+[submodule "apache/notosansimperilaramaic"]
+	path = apache/notosansimperilaramaic
+	url = git://github.com/fontdirectory/notosansimperilaramaic.git
+[submodule "apache/notosanskaithi"]
+	path = apache/notosanskaithi
+	url = git://github.com/fontdirectory/notosanskaithi.git
+[submodule "apache/notosanskannada"]
+	path = apache/notosanskannada
+	url = git://github.com/fontdirectory/notosanskannada.git
+[submodule "apache/notosanskayahli"]
+	path = apache/notosanskayahli
+	url = git://github.com/fontdirectory/notosanskayahli.git
+[submodule "apache/notosanskharoshthi"]
+	path = apache/notosanskharoshthi
+	url = git://github.com/fontdirectory/notosanskharoshthi.git
+[submodule "apache/notosanslao"]
+	path = apache/notosanslao
+	url = git://github.com/fontdirectory/notosanslao.git
+[submodule "apache/notosanslaoui"]
+	path = apache/notosanslaoui
+	url = git://github.com/fontdirectory/notosanslaoui.git
+[submodule "apache/notosanslisu"]
+	path = apache/notosanslisu
+	url = git://github.com/fontdirectory/notosanslisu.git
+[submodule "apache/notosanslycian"]
+	path = apache/notosanslycian
+	url = git://github.com/fontdirectory/notosanslycian.git
+[submodule "apache/notosanslydian"]
+	path = apache/notosanslydian
+	url = git://github.com/fontdirectory/notosanslydian.git
+[submodule "apache/notosansmalayalam"]
+	path = apache/notosansmalayalam
+	url = git://github.com/fontdirectory/notosansmalayalam.git
+[submodule "apache/notosansmandaic"]
+	path = apache/notosansmandaic
+	url = git://github.com/fontdirectory/notosansmandaic.git
+[submodule "apache/notosansmeeteimayek"]
+	path = apache/notosansmeeteimayek
+	url = git://github.com/fontdirectory/notosansmeeteimayek.git
+[submodule "apache/notosansnko"]
+	path = apache/notosansnko
+	url = git://github.com/fontdirectory/notosansnko.git
+[submodule "apache/notosansoldsoutharabian"]
+	path = apache/notosansoldsoutharabian
+	url = git://github.com/fontdirectory/notosansoldsoutharabian.git
+[submodule "apache/notosansoldturkic"]
+	path = apache/notosansoldturkic
+	url = git://github.com/fontdirectory/notosansoldturkic.git
+[submodule "apache/notosansosmanya"]
+	path = apache/notosansosmanya
+	url = git://github.com/fontdirectory/notosansosmanya.git
+[submodule "apache/notosansphoenician"]
+	path = apache/notosansphoenician
+	url = git://github.com/fontdirectory/notosansphoenician.git
+[submodule "apache/notosansshavian"]
+	path = apache/notosansshavian
+	url = git://github.com/fontdirectory/notosansshavian.git
+[submodule "apache/notosanssymbols"]
+	path = apache/notosanssymbols
+	url = git://github.com/fontdirectory/notosanssymbols.git
+[submodule "apache/notosanstagalog"]
+	path = apache/notosanstagalog
+	url = git://github.com/fontdirectory/notosanstagalog.git
+[submodule "apache/notosanstaitham"]
+	path = apache/notosanstaitham
+	url = git://github.com/fontdirectory/notosanstaitham.git
+[submodule "apache/notosanstaiviet"]
+	path = apache/notosanstaiviet
+	url = git://github.com/fontdirectory/notosanstaiviet.git
+[submodule "apache/notosanstamil"]
+	path = apache/notosanstamil
+	url = git://github.com/fontdirectory/notosanstamil.git
+[submodule "apache/notosanstamilui"]
+	path = apache/notosanstamilui
+	url = git://github.com/fontdirectory/notosanstamilui.git
+[submodule "apache/notosanstelugu"]
+	path = apache/notosanstelugu
+	url = git://github.com/fontdirectory/notosanstelugu.git
+[submodule "apache/notosansthai"]
+	path = apache/notosansthai
+	url = git://github.com/fontdirectory/notosansthai.git
+[submodule "apache/notosansthaiui"]
+	path = apache/notosansthaiui
+	url = git://github.com/fontdirectory/notosansthaiui.git
+[submodule "apache/notosansugaritic"]
+	path = apache/notosansugaritic
+	url = git://github.com/fontdirectory/notosansugaritic.git
+[submodule "apache/notosansui"]
+	path = apache/notosansui
+	url = git://github.com/fontdirectory/notosansui.git
+[submodule "apache/notosansvai"]
+	path = apache/notosansvai
+	url = git://github.com/fontdirectory/notosansvai.git
+[submodule "apache/notoserif"]
+	path = apache/notoserif
+	url = git://github.com/fontdirectory/notoserif.git
+[submodule "apache/notoserifarmenian"]
+	path = apache/notoserifarmenian
+	url = git://github.com/fontdirectory/notoserifarmenian.git
+[submodule "apache/notoserifgeorgian"]
+	path = apache/notoserifgeorgian
+	url = git://github.com/fontdirectory/notoserifgeorgian.git
+[submodule "apache/notoseriflao"]
+	path = apache/notoseriflao
+	url = git://github.com/fontdirectory/notoseriflao.git
+[submodule "apache/notoserifthai"]
+	path = apache/notoserifthai
+	url = git://github.com/fontdirectory/notoserifthai.git
+[submodule "apache/opensans"]
+	path = apache/opensans
+	url = git://github.com/fontdirectory/opensans.git
+[submodule "apache/opensanscondensed"]
+	path = apache/opensanscondensed
+	url = git://github.com/fontdirectory/opensanscondensed.git
+[submodule "apache/opensanshebrew"]
+	path = apache/opensanshebrew
+	url = git://github.com/fontdirectory/opensanshebrew.git
+[submodule "apache/opensanshebrewcondensed"]
+	path = apache/opensanshebrewcondensed
+	url = git://github.com/fontdirectory/opensanshebrewcondensed.git
+[submodule "apache/permanentmarker"]
+	path = apache/permanentmarker
+	url = git://github.com/fontdirectory/permanentmarker.git
+[submodule "apache/rancho"]
+	path = apache/rancho
+	url = git://github.com/fontdirectory/rancho.git
+[submodule "apache/redressed"]
+	path = apache/redressed
+	url = git://github.com/fontdirectory/redressed.git
+[submodule "apache/roboto"]
+	path = apache/roboto
+	url = git://github.com/fontdirectory/roboto.git
+[submodule "apache/roboto-latest-2013-06-26"]
+	path = apache/roboto-latest-2013-06-26
+	url = git://github.com/fontdirectory/roboto-latest-2013-06-26.git
+[submodule "apache/roboto-prod"]
+	path = apache/roboto-prod
+	url = git://github.com/fontdirectory/roboto-prod.git
+[submodule "apache/roboto-prod2"]
+	path = apache/roboto-prod2
+	url = git://github.com/fontdirectory/roboto-prod2.git
+[submodule "apache/roboto-reverted"]
+	path = apache/roboto-reverted
+	url = git://github.com/fontdirectory/roboto-reverted.git
+[submodule "apache/roboto2-hinttest"]
+	path = apache/roboto2-hinttest
+	url = git://github.com/fontdirectory/roboto2-hinttest.git
+[submodule "apache/roboto2condensed"]
+	path = apache/roboto2condensed
+	url = git://github.com/fontdirectory/roboto2condensed.git
+[submodule "apache/robotocondensed"]
+	path = apache/robotocondensed
+	url = git://github.com/fontdirectory/robotocondensed.git
+[submodule "apache/robotodraft"]
+	path = apache/robotodraft
+	url = git://github.com/fontdirectory/robotodraft.git
+[submodule "apache/robotoslab"]
+	path = apache/robotoslab
+	url = git://github.com/fontdirectory/robotoslab.git
+[submodule "apache/rochester"]
+	path = apache/rochester
+	url = git://github.com/fontdirectory/rochester.git
+[submodule "apache/rocksalt"]
+	path = apache/rocksalt
+	url = git://github.com/fontdirectory/rocksalt.git
+[submodule "apache/satisfy"]
+	path = apache/satisfy
+	url = git://github.com/fontdirectory/satisfy.git
+[submodule "apache/schoolbell"]
+	path = apache/schoolbell
+	url = git://github.com/fontdirectory/schoolbell.git
+[submodule "apache/slackey"]
+	path = apache/slackey
+	url = git://github.com/fontdirectory/slackey.git
+[submodule "apache/smokum"]
+	path = apache/smokum
+	url = git://github.com/fontdirectory/smokum.git
+[submodule "apache/specialelite"]
+	path = apache/specialelite
+	url = git://github.com/fontdirectory/specialelite.git
+[submodule "apache/sunshiney"]
+	path = apache/sunshiney
+	url = git://github.com/fontdirectory/sunshiney.git
+[submodule "apache/syncopate"]
+	path = apache/syncopate
+	url = git://github.com/fontdirectory/syncopate.git
+[submodule "apache/tinos"]
+	path = apache/tinos
+	url = git://github.com/fontdirectory/tinos.git
+[submodule "apache/tmp-roboto"]
+	path = apache/tmp-roboto
+	url = git://github.com/fontdirectory/tmp-roboto.git
+[submodule "apache/ultra"]
+	path = apache/ultra
+	url = git://github.com/fontdirectory/ultra.git
+[submodule "apache/unkempt"]
+	path = apache/unkempt
+	url = git://github.com/fontdirectory/unkempt.git
+[submodule "apache/walterturncoat"]
+	path = apache/walterturncoat
+	url = git://github.com/fontdirectory/walterturncoat.git
+[submodule "apache/yellowtail"]
+	path = apache/yellowtail
+	url = git://github.com/fontdirectory/yellowtail.git
+[submodule "ofl/shortstack"]
+	path = ofl/shortstack
+	url = git://github.com/fontdirectory/shortstack.git
+[submodule "ofl/slabo27px"]
+	path = ofl/slabo27px
+	url = git://github.com/fontdirectory/slabo27px.git
+[submodule "ofl/tauri"]
+	path = ofl/tauri
+	url = git://github.com/fontdirectory/tauri.git
