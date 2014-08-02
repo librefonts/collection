@@ -2539,3 +2539,6 @@
 [submodule "ofl/tauri"]
 	path = ofl/tauri
 	url = git@github.com:fontdirectory/tauri.git
+[submodule "tools/fontbakery"]
+	path = tools/fontbakery
+	url = https://github.com/googlefonts/fontbakery.git
