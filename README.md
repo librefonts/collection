@@ -1,3 +1,5 @@
+# Introduction
+
 This project contains the binary and source files for the collection of
 libre/open fonts available in Google Web Fonts.
 
@@ -34,3 +36,21 @@ what they might need in order to include your improvements.
 Most of all: Enjoy the fonts!
 
 – The Google Web Fonts team, 2012-07-20
+
+## How to use this collection repository
+
+This collection repository uses the git 'submodule' feature to include all the font repositories. 
+
+```sh
+mkdir -p ~/src/github.com/fontdirectory;
+cd ~/src/github.com/fontdirectory;
+git clone https://github.com/fontdirectory/collection.git;
+cd collection;
+git submodule update --init --recursive;
+```
+
+To update all these submodules:
+
+```sh
+git submodule foreach git pull origin master;
+```
