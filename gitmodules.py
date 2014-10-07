@@ -6,6 +6,8 @@ import json
 import re
 import os
 
+FONT_DIRECTORY_GH_PAGES = '//fontdirectory.github.io'
+
 
 def get_gitmodules(source_file, exclude_filters=()):
     with open(source_file) as f:
@@ -19,7 +21,8 @@ def get_gitmodules(source_file, exclude_filters=()):
             submodule = re.search(submodule_pattern, next_n_lines[0]).group('submodule')
             path = re.search(path_pattern, next_n_lines[1]).group('path')
             url = re.search(url_pattern, next_n_lines[2]).group('url')
-            item = dict(submodule=submodule, path=path, url=url)
+            gh_page = os.path.join(FONT_DIRECTORY_GH_PAGES, submodule)
+            item = dict(submodule=submodule, path=path, url=url, gh_page=gh_page)
             if not exclude_filters:
                 yield item
             elif exclude_filters:

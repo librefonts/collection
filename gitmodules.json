@@ -2,4236 +2,5083 @@
   {
     "url": "git@github.com:fontdirectory/ubuntu.git", 
     "path": "ufl/ubuntu", 
-    "submodule": "ubuntu"
+    "submodule": "ubuntu", 
+    "gh_page": "//fontdirectory.github.io/ubuntu"
   }, 
   {
     "url": "git@github.com:fontdirectory/ubuntucondensed.git", 
     "path": "ufl/ubuntucondensed", 
-    "submodule": "ubuntucondensed"
+    "submodule": "ubuntucondensed", 
+    "gh_page": "//fontdirectory.github.io/ubuntucondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/ubuntumono.git", 
     "path": "ufl/ubuntumono", 
-    "submodule": "ubuntumono"
+    "submodule": "ubuntumono", 
+    "gh_page": "//fontdirectory.github.io/ubuntumono"
   }, 
   {
     "url": "git@github.com:fontdirectory/CharisSILCompact.git", 
     "path": "ofl/CharisSILCompact", 
-    "submodule": "CharisSILCompact"
+    "submodule": "CharisSILCompact", 
+    "gh_page": "//fontdirectory.github.io/CharisSILCompact"
   }, 
   {
     "url": "git@github.com:fontdirectory/abeezee.git", 
     "path": "ofl/abeezee", 
-    "submodule": "abeezee"
+    "submodule": "abeezee", 
+    "gh_page": "//fontdirectory.github.io/abeezee"
   }, 
   {
     "url": "git@github.com:fontdirectory/abel.git", 
     "path": "ofl/abel", 
-    "submodule": "abel"
+    "submodule": "abel", 
+    "gh_page": "//fontdirectory.github.io/abel"
   }, 
   {
     "url": "git@github.com:fontdirectory/abrilfatface.git", 
     "path": "ofl/abrilfatface", 
-    "submodule": "abrilfatface"
+    "submodule": "abrilfatface", 
+    "gh_page": "//fontdirectory.github.io/abrilfatface"
   }, 
   {
     "url": "git@github.com:fontdirectory/acme.git", 
     "path": "ofl/acme", 
-    "submodule": "acme"
+    "submodule": "acme", 
+    "gh_page": "//fontdirectory.github.io/acme"
   }, 
   {
     "url": "git@github.com:fontdirectory/actor.git", 
     "path": "ofl/actor", 
-    "submodule": "actor"
+    "submodule": "actor", 
+    "gh_page": "//fontdirectory.github.io/actor"
   }, 
   {
     "url": "git@github.com:fontdirectory/adamina.git", 
     "path": "ofl/adamina", 
-    "submodule": "adamina"
+    "submodule": "adamina", 
+    "gh_page": "//fontdirectory.github.io/adamina"
   }, 
   {
     "url": "git@github.com:fontdirectory/adventpro.git", 
     "path": "ofl/adventpro", 
-    "submodule": "adventpro"
+    "submodule": "adventpro", 
+    "gh_page": "//fontdirectory.github.io/adventpro"
   }, 
   {
     "url": "git@github.com:fontdirectory/aguafinascript.git", 
     "path": "ofl/aguafinascript", 
-    "submodule": "aguafinascript"
+    "submodule": "aguafinascript", 
+    "gh_page": "//fontdirectory.github.io/aguafinascript"
   }, 
   {
     "url": "git@github.com:fontdirectory/akronim.git", 
     "path": "ofl/akronim", 
-    "submodule": "akronim"
+    "submodule": "akronim", 
+    "gh_page": "//fontdirectory.github.io/akronim"
   }, 
   {
     "url": "git@github.com:fontdirectory/aksarabaligalang.git", 
     "path": "ofl/aksarabaligalang", 
-    "submodule": "aksarabaligalang"
+    "submodule": "aksarabaligalang", 
+    "gh_page": "//fontdirectory.github.io/aksarabaligalang"
   }, 
   {
     "url": "git@github.com:fontdirectory/aladin.git", 
     "path": "ofl/aladin", 
-    "submodule": "aladin"
+    "submodule": "aladin", 
+    "gh_page": "//fontdirectory.github.io/aladin"
   }, 
   {
     "url": "git@github.com:fontdirectory/aldrich.git", 
     "path": "ofl/aldrich", 
-    "submodule": "aldrich"
+    "submodule": "aldrich", 
+    "gh_page": "//fontdirectory.github.io/aldrich"
   }, 
   {
     "url": "git@github.com:fontdirectory/alef.git", 
     "path": "ofl/alef", 
-    "submodule": "alef"
+    "submodule": "alef", 
+    "gh_page": "//fontdirectory.github.io/alef"
   }, 
   {
     "url": "git@github.com:fontdirectory/alefhebrew.git", 
     "path": "ofl/alefhebrew", 
-    "submodule": "alefhebrew"
+    "submodule": "alefhebrew", 
+    "gh_page": "//fontdirectory.github.io/alefhebrew"
   }, 
   {
     "url": "git@github.com:fontdirectory/alegreya.git", 
     "path": "ofl/alegreya", 
-    "submodule": "alegreya"
+    "submodule": "alegreya", 
+    "gh_page": "//fontdirectory.github.io/alegreya"
   }, 
   {
     "url": "git@github.com:fontdirectory/alegreyasans.git", 
     "path": "ofl/alegreyasans", 
-    "submodule": "alegreyasans"
+    "submodule": "alegreyasans", 
+    "gh_page": "//fontdirectory.github.io/alegreyasans"
   }, 
   {
     "url": "git@github.com:fontdirectory/alegreyasanssc.git", 
     "path": "ofl/alegreyasanssc", 
-    "submodule": "alegreyasanssc"
+    "submodule": "alegreyasanssc", 
+    "gh_page": "//fontdirectory.github.io/alegreyasanssc"
   }, 
   {
     "url": "git@github.com:fontdirectory/alegreyasc.git", 
     "path": "ofl/alegreyasc", 
-    "submodule": "alegreyasc"
+    "submodule": "alegreyasc", 
+    "gh_page": "//fontdirectory.github.io/alegreyasc"
   }, 
   {
     "url": "git@github.com:fontdirectory/alexbrush.git", 
     "path": "ofl/alexbrush", 
-    "submodule": "alexbrush"
+    "submodule": "alexbrush", 
+    "gh_page": "//fontdirectory.github.io/alexbrush"
   }, 
   {
     "url": "git@github.com:fontdirectory/alfaslabone.git", 
     "path": "ofl/alfaslabone", 
-    "submodule": "alfaslabone"
+    "submodule": "alfaslabone", 
+    "gh_page": "//fontdirectory.github.io/alfaslabone"
   }, 
   {
     "url": "git@github.com:fontdirectory/alice.git", 
     "path": "ofl/alice", 
-    "submodule": "alice"
+    "submodule": "alice", 
+    "gh_page": "//fontdirectory.github.io/alice"
   }, 
   {
     "url": "git@github.com:fontdirectory/alike.git", 
     "path": "ofl/alike", 
-    "submodule": "alike"
+    "submodule": "alike", 
+    "gh_page": "//fontdirectory.github.io/alike"
   }, 
   {
     "url": "git@github.com:fontdirectory/alikeangular.git", 
     "path": "ofl/alikeangular", 
-    "submodule": "alikeangular"
+    "submodule": "alikeangular", 
+    "gh_page": "//fontdirectory.github.io/alikeangular"
   }, 
   {
     "url": "git@github.com:fontdirectory/allan.git", 
     "path": "ofl/allan", 
-    "submodule": "allan"
+    "submodule": "allan", 
+    "gh_page": "//fontdirectory.github.io/allan"
   }, 
   {
     "url": "git@github.com:fontdirectory/allerta.git", 
     "path": "ofl/allerta", 
-    "submodule": "allerta"
+    "submodule": "allerta", 
+    "gh_page": "//fontdirectory.github.io/allerta"
   }, 
   {
     "url": "git@github.com:fontdirectory/allertastencil.git", 
     "path": "ofl/allertastencil", 
-    "submodule": "allertastencil"
+    "submodule": "allertastencil", 
+    "gh_page": "//fontdirectory.github.io/allertastencil"
   }, 
   {
     "url": "git@github.com:fontdirectory/allura.git", 
     "path": "ofl/allura", 
-    "submodule": "allura"
+    "submodule": "allura", 
+    "gh_page": "//fontdirectory.github.io/allura"
   }, 
   {
     "url": "git@github.com:fontdirectory/almendra.git", 
     "path": "ofl/almendra", 
-    "submodule": "almendra"
+    "submodule": "almendra", 
+    "gh_page": "//fontdirectory.github.io/almendra"
   }, 
   {
     "url": "git@github.com:fontdirectory/almendradisplay.git", 
     "path": "ofl/almendradisplay", 
-    "submodule": "almendradisplay"
+    "submodule": "almendradisplay", 
+    "gh_page": "//fontdirectory.github.io/almendradisplay"
   }, 
   {
     "url": "git@github.com:fontdirectory/almendrasc.git", 
     "path": "ofl/almendrasc", 
-    "submodule": "almendrasc"
+    "submodule": "almendrasc", 
+    "gh_page": "//fontdirectory.github.io/almendrasc"
   }, 
   {
     "url": "git@github.com:fontdirectory/amarante.git", 
     "path": "ofl/amarante", 
-    "submodule": "amarante"
+    "submodule": "amarante", 
+    "gh_page": "//fontdirectory.github.io/amarante"
   }, 
   {
     "url": "git@github.com:fontdirectory/amaranth.git", 
     "path": "ofl/amaranth", 
-    "submodule": "amaranth"
+    "submodule": "amaranth", 
+    "gh_page": "//fontdirectory.github.io/amaranth"
   }, 
   {
     "url": "git@github.com:fontdirectory/amaticsc.git", 
     "path": "ofl/amaticsc", 
-    "submodule": "amaticsc"
+    "submodule": "amaticsc", 
+    "gh_page": "//fontdirectory.github.io/amaticsc"
   }, 
   {
     "url": "git@github.com:fontdirectory/amethysta.git", 
     "path": "ofl/amethysta", 
-    "submodule": "amethysta"
+    "submodule": "amethysta", 
+    "gh_page": "//fontdirectory.github.io/amethysta"
   }, 
   {
     "url": "git@github.com:fontdirectory/amiri.git", 
     "path": "ofl/amiri", 
-    "submodule": "amiri"
+    "submodule": "amiri", 
+    "gh_page": "//fontdirectory.github.io/amiri"
   }, 
   {
     "url": "git@github.com:fontdirectory/anaheim.git", 
     "path": "ofl/anaheim", 
-    "submodule": "anaheim"
+    "submodule": "anaheim", 
+    "gh_page": "//fontdirectory.github.io/anaheim"
   }, 
   {
     "url": "git@github.com:fontdirectory/anahit.git", 
     "path": "ofl/anahit", 
-    "submodule": "anahit"
+    "submodule": "anahit", 
+    "gh_page": "//fontdirectory.github.io/anahit"
   }, 
   {
     "url": "git@github.com:fontdirectory/anahitarmenian.git", 
     "path": "ofl/anahitarmenian", 
-    "submodule": "anahitarmenian"
+    "submodule": "anahitarmenian", 
+    "gh_page": "//fontdirectory.github.io/anahitarmenian"
   }, 
   {
     "url": "git@github.com:fontdirectory/andada.git", 
     "path": "ofl/andada", 
-    "submodule": "andada"
+    "submodule": "andada", 
+    "gh_page": "//fontdirectory.github.io/andada"
   }, 
   {
     "url": "git@github.com:fontdirectory/andadasc.git", 
     "path": "ofl/andadasc", 
-    "submodule": "andadasc"
+    "submodule": "andadasc", 
+    "gh_page": "//fontdirectory.github.io/andadasc"
   }, 
   {
     "url": "git@github.com:fontdirectory/andika.git", 
     "path": "ofl/andika", 
-    "submodule": "andika"
+    "submodule": "andika", 
+    "gh_page": "//fontdirectory.github.io/andika"
   }, 
   {
     "url": "git@github.com:fontdirectory/angkor.git", 
     "path": "ofl/angkor", 
-    "submodule": "angkor"
+    "submodule": "angkor", 
+    "gh_page": "//fontdirectory.github.io/angkor"
   }, 
   {
     "url": "git@github.com:fontdirectory/annieuseyourtelescope.git", 
     "path": "ofl/annieuseyourtelescope", 
-    "submodule": "annieuseyourtelescope"
+    "submodule": "annieuseyourtelescope", 
+    "gh_page": "//fontdirectory.github.io/annieuseyourtelescope"
   }, 
   {
     "url": "git@github.com:fontdirectory/anonymouspro.git", 
     "path": "ofl/anonymouspro", 
-    "submodule": "anonymouspro"
+    "submodule": "anonymouspro", 
+    "gh_page": "//fontdirectory.github.io/anonymouspro"
   }, 
   {
     "url": "git@github.com:fontdirectory/antic.git", 
     "path": "ofl/antic", 
-    "submodule": "antic"
+    "submodule": "antic", 
+    "gh_page": "//fontdirectory.github.io/antic"
   }, 
   {
     "url": "git@github.com:fontdirectory/anticdidone.git", 
     "path": "ofl/anticdidone", 
-    "submodule": "anticdidone"
+    "submodule": "anticdidone", 
+    "gh_page": "//fontdirectory.github.io/anticdidone"
   }, 
   {
     "url": "git@github.com:fontdirectory/anticslab.git", 
     "path": "ofl/anticslab", 
-    "submodule": "anticslab"
+    "submodule": "anticslab", 
+    "gh_page": "//fontdirectory.github.io/anticslab"
   }, 
   {
     "url": "git@github.com:fontdirectory/anton.git", 
     "path": "ofl/anton", 
-    "submodule": "anton"
+    "submodule": "anton", 
+    "gh_page": "//fontdirectory.github.io/anton"
   }, 
   {
     "url": "git@github.com:fontdirectory/antonio.git", 
     "path": "ofl/antonio", 
-    "submodule": "antonio"
+    "submodule": "antonio", 
+    "gh_page": "//fontdirectory.github.io/antonio"
   }, 
   {
     "url": "git@github.com:fontdirectory/antonioold.git", 
     "path": "ofl/antonioold", 
-    "submodule": "antonioold"
+    "submodule": "antonioold", 
+    "gh_page": "//fontdirectory.github.io/antonioold"
   }, 
   {
     "url": "git@github.com:fontdirectory/arapey.git", 
     "path": "ofl/arapey", 
-    "submodule": "arapey"
+    "submodule": "arapey", 
+    "gh_page": "//fontdirectory.github.io/arapey"
   }, 
   {
     "url": "git@github.com:fontdirectory/arbutus.git", 
     "path": "ofl/arbutus", 
-    "submodule": "arbutus"
+    "submodule": "arbutus", 
+    "gh_page": "//fontdirectory.github.io/arbutus"
   }, 
   {
     "url": "git@github.com:fontdirectory/arbutusslab.git", 
     "path": "ofl/arbutusslab", 
-    "submodule": "arbutusslab"
+    "submodule": "arbutusslab", 
+    "gh_page": "//fontdirectory.github.io/arbutusslab"
   }, 
   {
     "url": "git@github.com:fontdirectory/architectsdaughter.git", 
     "path": "ofl/architectsdaughter", 
-    "submodule": "architectsdaughter"
+    "submodule": "architectsdaughter", 
+    "gh_page": "//fontdirectory.github.io/architectsdaughter"
   }, 
   {
     "url": "git@github.com:fontdirectory/archivoblack.git", 
     "path": "ofl/archivoblack", 
-    "submodule": "archivoblack"
+    "submodule": "archivoblack", 
+    "gh_page": "//fontdirectory.github.io/archivoblack"
   }, 
   {
     "url": "git@github.com:fontdirectory/archivonarrow.git", 
     "path": "ofl/archivonarrow", 
-    "submodule": "archivonarrow"
+    "submodule": "archivonarrow", 
+    "gh_page": "//fontdirectory.github.io/archivonarrow"
   }, 
   {
     "url": "git@github.com:fontdirectory/arizonia.git", 
     "path": "ofl/arizonia", 
-    "submodule": "arizonia"
+    "submodule": "arizonia", 
+    "gh_page": "//fontdirectory.github.io/arizonia"
   }, 
   {
     "url": "git@github.com:fontdirectory/armata.git", 
     "path": "ofl/armata", 
-    "submodule": "armata"
+    "submodule": "armata", 
+    "gh_page": "//fontdirectory.github.io/armata"
   }, 
   {
     "url": "git@github.com:fontdirectory/artifika.git", 
     "path": "ofl/artifika", 
-    "submodule": "artifika"
+    "submodule": "artifika", 
+    "gh_page": "//fontdirectory.github.io/artifika"
   }, 
   {
     "url": "git@github.com:fontdirectory/arvo.git", 
     "path": "ofl/arvo", 
-    "submodule": "arvo"
+    "submodule": "arvo", 
+    "gh_page": "//fontdirectory.github.io/arvo"
   }, 
   {
     "url": "git@github.com:fontdirectory/asap.git", 
     "path": "ofl/asap", 
-    "submodule": "asap"
+    "submodule": "asap", 
+    "gh_page": "//fontdirectory.github.io/asap"
   }, 
   {
     "url": "git@github.com:fontdirectory/asset.git", 
     "path": "ofl/asset", 
-    "submodule": "asset"
+    "submodule": "asset", 
+    "gh_page": "//fontdirectory.github.io/asset"
   }, 
   {
     "url": "git@github.com:fontdirectory/astloch.git", 
     "path": "ofl/astloch", 
-    "submodule": "astloch"
+    "submodule": "astloch", 
+    "gh_page": "//fontdirectory.github.io/astloch"
   }, 
   {
     "url": "git@github.com:fontdirectory/asul.git", 
     "path": "ofl/asul", 
-    "submodule": "asul"
+    "submodule": "asul", 
+    "gh_page": "//fontdirectory.github.io/asul"
   }, 
   {
     "url": "git@github.com:fontdirectory/atomicage.git", 
     "path": "ofl/atomicage", 
-    "submodule": "atomicage"
+    "submodule": "atomicage", 
+    "gh_page": "//fontdirectory.github.io/atomicage"
   }, 
   {
     "url": "git@github.com:fontdirectory/aubrey.git", 
     "path": "ofl/aubrey", 
-    "submodule": "aubrey"
+    "submodule": "aubrey", 
+    "gh_page": "//fontdirectory.github.io/aubrey"
   }, 
   {
     "url": "git@github.com:fontdirectory/audiowide.git", 
     "path": "ofl/audiowide", 
-    "submodule": "audiowide"
+    "submodule": "audiowide", 
+    "gh_page": "//fontdirectory.github.io/audiowide"
   }, 
   {
     "url": "git@github.com:fontdirectory/autourone.git", 
     "path": "ofl/autourone", 
-    "submodule": "autourone"
+    "submodule": "autourone", 
+    "gh_page": "//fontdirectory.github.io/autourone"
   }, 
   {
     "url": "git@github.com:fontdirectory/average.git", 
     "path": "ofl/average", 
-    "submodule": "average"
+    "submodule": "average", 
+    "gh_page": "//fontdirectory.github.io/average"
   }, 
   {
     "url": "git@github.com:fontdirectory/averagesans.git", 
     "path": "ofl/averagesans", 
-    "submodule": "averagesans"
+    "submodule": "averagesans", 
+    "gh_page": "//fontdirectory.github.io/averagesans"
   }, 
   {
     "url": "git@github.com:fontdirectory/averiagruesalibre.git", 
     "path": "ofl/averiagruesalibre", 
-    "submodule": "averiagruesalibre"
+    "submodule": "averiagruesalibre", 
+    "gh_page": "//fontdirectory.github.io/averiagruesalibre"
   }, 
   {
     "url": "git@github.com:fontdirectory/averialibre.git", 
     "path": "ofl/averialibre", 
-    "submodule": "averialibre"
+    "submodule": "averialibre", 
+    "gh_page": "//fontdirectory.github.io/averialibre"
   }, 
   {
     "url": "git@github.com:fontdirectory/averiasanslibre.git", 
     "path": "ofl/averiasanslibre", 
-    "submodule": "averiasanslibre"
+    "submodule": "averiasanslibre", 
+    "gh_page": "//fontdirectory.github.io/averiasanslibre"
   }, 
   {
     "url": "git@github.com:fontdirectory/averiaseriflibre.git", 
     "path": "ofl/averiaseriflibre", 
-    "submodule": "averiaseriflibre"
+    "submodule": "averiaseriflibre", 
+    "gh_page": "//fontdirectory.github.io/averiaseriflibre"
   }, 
   {
     "url": "git@github.com:fontdirectory/badscript.git", 
     "path": "ofl/badscript", 
-    "submodule": "badscript"
+    "submodule": "badscript", 
+    "gh_page": "//fontdirectory.github.io/badscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/balthazar.git", 
     "path": "ofl/balthazar", 
-    "submodule": "balthazar"
+    "submodule": "balthazar", 
+    "gh_page": "//fontdirectory.github.io/balthazar"
   }, 
   {
     "url": "git@github.com:fontdirectory/bangers.git", 
     "path": "ofl/bangers", 
-    "submodule": "bangers"
+    "submodule": "bangers", 
+    "gh_page": "//fontdirectory.github.io/bangers"
   }, 
   {
     "url": "git@github.com:fontdirectory/baron.git", 
     "path": "ofl/baron", 
-    "submodule": "baron"
+    "submodule": "baron", 
+    "gh_page": "//fontdirectory.github.io/baron"
   }, 
   {
     "url": "git@github.com:fontdirectory/baroncondensed.git", 
     "path": "ofl/baroncondensed", 
-    "submodule": "baroncondensed"
+    "submodule": "baroncondensed", 
+    "gh_page": "//fontdirectory.github.io/baroncondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/baronextended.git", 
     "path": "ofl/baronextended", 
-    "submodule": "baronextended"
+    "submodule": "baronextended", 
+    "gh_page": "//fontdirectory.github.io/baronextended"
   }, 
   {
     "url": "git@github.com:fontdirectory/basic.git", 
     "path": "ofl/basic", 
-    "submodule": "basic"
+    "submodule": "basic", 
+    "gh_page": "//fontdirectory.github.io/basic"
   }, 
   {
     "url": "git@github.com:fontdirectory/battambang.git", 
     "path": "ofl/battambang", 
-    "submodule": "battambang"
+    "submodule": "battambang", 
+    "gh_page": "//fontdirectory.github.io/battambang"
   }, 
   {
     "url": "git@github.com:fontdirectory/baumans.git", 
     "path": "ofl/baumans", 
-    "submodule": "baumans"
+    "submodule": "baumans", 
+    "gh_page": "//fontdirectory.github.io/baumans"
   }, 
   {
     "url": "git@github.com:fontdirectory/bayon.git", 
     "path": "ofl/bayon", 
-    "submodule": "bayon"
+    "submodule": "bayon", 
+    "gh_page": "//fontdirectory.github.io/bayon"
   }, 
   {
     "url": "git@github.com:fontdirectory/belgrano.git", 
     "path": "ofl/belgrano", 
-    "submodule": "belgrano"
+    "submodule": "belgrano", 
+    "gh_page": "//fontdirectory.github.io/belgrano"
   }, 
   {
     "url": "git@github.com:fontdirectory/belleza.git", 
     "path": "ofl/belleza", 
-    "submodule": "belleza"
+    "submodule": "belleza", 
+    "gh_page": "//fontdirectory.github.io/belleza"
   }, 
   {
     "url": "git@github.com:fontdirectory/benchnine.git", 
     "path": "ofl/benchnine", 
-    "submodule": "benchnine"
+    "submodule": "benchnine", 
+    "gh_page": "//fontdirectory.github.io/benchnine"
   }, 
   {
     "url": "git@github.com:fontdirectory/bentham.git", 
     "path": "ofl/bentham", 
-    "submodule": "bentham"
+    "submodule": "bentham", 
+    "gh_page": "//fontdirectory.github.io/bentham"
   }, 
   {
     "url": "git@github.com:fontdirectory/berkshireswash.git", 
     "path": "ofl/berkshireswash", 
-    "submodule": "berkshireswash"
+    "submodule": "berkshireswash", 
+    "gh_page": "//fontdirectory.github.io/berkshireswash"
   }, 
   {
     "url": "git@github.com:fontdirectory/bevan.git", 
     "path": "ofl/bevan", 
-    "submodule": "bevan"
+    "submodule": "bevan", 
+    "gh_page": "//fontdirectory.github.io/bevan"
   }, 
   {
     "url": "git@github.com:fontdirectory/bigelowrules.git", 
     "path": "ofl/bigelowrules", 
-    "submodule": "bigelowrules"
+    "submodule": "bigelowrules", 
+    "gh_page": "//fontdirectory.github.io/bigelowrules"
   }, 
   {
     "url": "git@github.com:fontdirectory/bigshotone.git", 
     "path": "ofl/bigshotone", 
-    "submodule": "bigshotone"
+    "submodule": "bigshotone", 
+    "gh_page": "//fontdirectory.github.io/bigshotone"
   }, 
   {
     "url": "git@github.com:fontdirectory/bilbo.git", 
     "path": "ofl/bilbo", 
-    "submodule": "bilbo"
+    "submodule": "bilbo", 
+    "gh_page": "//fontdirectory.github.io/bilbo"
   }, 
   {
     "url": "git@github.com:fontdirectory/bilboswashcaps.git", 
     "path": "ofl/bilboswashcaps", 
-    "submodule": "bilboswashcaps"
+    "submodule": "bilboswashcaps", 
+    "gh_page": "//fontdirectory.github.io/bilboswashcaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/bitter.git", 
     "path": "ofl/bitter", 
-    "submodule": "bitter"
+    "submodule": "bitter", 
+    "gh_page": "//fontdirectory.github.io/bitter"
   }, 
   {
     "url": "git@github.com:fontdirectory/blackopsone.git", 
     "path": "ofl/blackopsone", 
-    "submodule": "blackopsone"
+    "submodule": "blackopsone", 
+    "gh_page": "//fontdirectory.github.io/blackopsone"
   }, 
   {
     "url": "git@github.com:fontdirectory/bokor.git", 
     "path": "ofl/bokor", 
-    "submodule": "bokor"
+    "submodule": "bokor", 
+    "gh_page": "//fontdirectory.github.io/bokor"
   }, 
   {
     "url": "git@github.com:fontdirectory/bonbon.git", 
     "path": "ofl/bonbon", 
-    "submodule": "bonbon"
+    "submodule": "bonbon", 
+    "gh_page": "//fontdirectory.github.io/bonbon"
   }, 
   {
     "url": "git@github.com:fontdirectory/boogaloo.git", 
     "path": "ofl/boogaloo", 
-    "submodule": "boogaloo"
+    "submodule": "boogaloo", 
+    "gh_page": "//fontdirectory.github.io/boogaloo"
   }, 
   {
     "url": "git@github.com:fontdirectory/bowlbyone.git", 
     "path": "ofl/bowlbyone", 
-    "submodule": "bowlbyone"
+    "submodule": "bowlbyone", 
+    "gh_page": "//fontdirectory.github.io/bowlbyone"
   }, 
   {
     "url": "git@github.com:fontdirectory/bowlbyonesc.git", 
     "path": "ofl/bowlbyonesc", 
-    "submodule": "bowlbyonesc"
+    "submodule": "bowlbyonesc", 
+    "gh_page": "//fontdirectory.github.io/bowlbyonesc"
   }, 
   {
     "url": "git@github.com:fontdirectory/brawler.git", 
     "path": "ofl/brawler", 
-    "submodule": "brawler"
+    "submodule": "brawler", 
+    "gh_page": "//fontdirectory.github.io/brawler"
   }, 
   {
     "url": "git@github.com:fontdirectory/breeserif.git", 
     "path": "ofl/breeserif", 
-    "submodule": "breeserif"
+    "submodule": "breeserif", 
+    "gh_page": "//fontdirectory.github.io/breeserif"
   }, 
   {
     "url": "git@github.com:fontdirectory/brunoace.git", 
     "path": "ofl/brunoace", 
-    "submodule": "brunoace"
+    "submodule": "brunoace", 
+    "gh_page": "//fontdirectory.github.io/brunoace"
   }, 
   {
     "url": "git@github.com:fontdirectory/brunoacesc.git", 
     "path": "ofl/brunoacesc", 
-    "submodule": "brunoacesc"
+    "submodule": "brunoacesc", 
+    "gh_page": "//fontdirectory.github.io/brunoacesc"
   }, 
   {
     "url": "git@github.com:fontdirectory/bubblegumsans.git", 
     "path": "ofl/bubblegumsans", 
-    "submodule": "bubblegumsans"
+    "submodule": "bubblegumsans", 
+    "gh_page": "//fontdirectory.github.io/bubblegumsans"
   }, 
   {
     "url": "git@github.com:fontdirectory/bubblerone.git", 
     "path": "ofl/bubblerone", 
-    "submodule": "bubblerone"
+    "submodule": "bubblerone", 
+    "gh_page": "//fontdirectory.github.io/bubblerone"
   }, 
   {
     "url": "git@github.com:fontdirectory/buda.git", 
     "path": "ofl/buda", 
-    "submodule": "buda"
+    "submodule": "buda", 
+    "gh_page": "//fontdirectory.github.io/buda"
   }, 
   {
     "url": "git@github.com:fontdirectory/buenard.git", 
     "path": "ofl/buenard", 
-    "submodule": "buenard"
+    "submodule": "buenard", 
+    "gh_page": "//fontdirectory.github.io/buenard"
   }, 
   {
     "url": "git@github.com:fontdirectory/butcherman.git", 
     "path": "ofl/butcherman", 
-    "submodule": "butcherman"
+    "submodule": "butcherman", 
+    "gh_page": "//fontdirectory.github.io/butcherman"
   }, 
   {
     "url": "git@github.com:fontdirectory/butchermancaps.git", 
     "path": "ofl/butchermancaps", 
-    "submodule": "butchermancaps"
+    "submodule": "butchermancaps", 
+    "gh_page": "//fontdirectory.github.io/butchermancaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/butterflykids.git", 
     "path": "ofl/butterflykids", 
-    "submodule": "butterflykids"
+    "submodule": "butterflykids", 
+    "gh_page": "//fontdirectory.github.io/butterflykids"
   }, 
   {
     "url": "git@github.com:fontdirectory/cabin.git", 
     "path": "ofl/cabin", 
-    "submodule": "cabin"
+    "submodule": "cabin", 
+    "gh_page": "//fontdirectory.github.io/cabin"
   }, 
   {
     "url": "git@github.com:fontdirectory/cabincondensed.git", 
     "path": "ofl/cabincondensed", 
-    "submodule": "cabincondensed"
+    "submodule": "cabincondensed", 
+    "gh_page": "//fontdirectory.github.io/cabincondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/cabinsketch.git", 
     "path": "ofl/cabinsketch", 
-    "submodule": "cabinsketch"
+    "submodule": "cabinsketch", 
+    "gh_page": "//fontdirectory.github.io/cabinsketch"
   }, 
   {
     "url": "git@github.com:fontdirectory/caesardressing.git", 
     "path": "ofl/caesardressing", 
-    "submodule": "caesardressing"
+    "submodule": "caesardressing", 
+    "gh_page": "//fontdirectory.github.io/caesardressing"
   }, 
   {
     "url": "git@github.com:fontdirectory/cagliostro.git", 
     "path": "ofl/cagliostro", 
-    "submodule": "cagliostro"
+    "submodule": "cagliostro", 
+    "gh_page": "//fontdirectory.github.io/cagliostro"
   }, 
   {
     "url": "git@github.com:fontdirectory/cambo.git", 
     "path": "ofl/cambo", 
-    "submodule": "cambo"
+    "submodule": "cambo", 
+    "gh_page": "//fontdirectory.github.io/cambo"
   }, 
   {
     "url": "git@github.com:fontdirectory/candal.git", 
     "path": "ofl/candal", 
-    "submodule": "candal"
+    "submodule": "candal", 
+    "gh_page": "//fontdirectory.github.io/candal"
   }, 
   {
     "url": "git@github.com:fontdirectory/cantarell.git", 
     "path": "ofl/cantarell", 
-    "submodule": "cantarell"
+    "submodule": "cantarell", 
+    "gh_page": "//fontdirectory.github.io/cantarell"
   }, 
   {
     "url": "git@github.com:fontdirectory/cantataone.git", 
     "path": "ofl/cantataone", 
-    "submodule": "cantataone"
+    "submodule": "cantataone", 
+    "gh_page": "//fontdirectory.github.io/cantataone"
   }, 
   {
     "url": "git@github.com:fontdirectory/cantoraone.git", 
     "path": "ofl/cantoraone", 
-    "submodule": "cantoraone"
+    "submodule": "cantoraone", 
+    "gh_page": "//fontdirectory.github.io/cantoraone"
   }, 
   {
     "url": "git@github.com:fontdirectory/capriola.git", 
     "path": "ofl/capriola", 
-    "submodule": "capriola"
+    "submodule": "capriola", 
+    "gh_page": "//fontdirectory.github.io/capriola"
   }, 
   {
     "url": "git@github.com:fontdirectory/cardo.git", 
     "path": "ofl/cardo", 
-    "submodule": "cardo"
+    "submodule": "cardo", 
+    "gh_page": "//fontdirectory.github.io/cardo"
   }, 
   {
     "url": "git@github.com:fontdirectory/carme.git", 
     "path": "ofl/carme", 
-    "submodule": "carme"
+    "submodule": "carme", 
+    "gh_page": "//fontdirectory.github.io/carme"
   }, 
   {
     "url": "git@github.com:fontdirectory/carroisgothic.git", 
     "path": "ofl/carroisgothic", 
-    "submodule": "carroisgothic"
+    "submodule": "carroisgothic", 
+    "gh_page": "//fontdirectory.github.io/carroisgothic"
   }, 
   {
     "url": "git@github.com:fontdirectory/carroisgothicsc.git", 
     "path": "ofl/carroisgothicsc", 
-    "submodule": "carroisgothicsc"
+    "submodule": "carroisgothicsc", 
+    "gh_page": "//fontdirectory.github.io/carroisgothicsc"
   }, 
   {
     "url": "git@github.com:fontdirectory/carterone.git", 
     "path": "ofl/carterone", 
-    "submodule": "carterone"
+    "submodule": "carterone", 
+    "gh_page": "//fontdirectory.github.io/carterone"
   }, 
   {
     "url": "git@github.com:fontdirectory/caudex.git", 
     "path": "ofl/caudex", 
-    "submodule": "caudex"
+    "submodule": "caudex", 
+    "gh_page": "//fontdirectory.github.io/caudex"
   }, 
   {
     "url": "git@github.com:fontdirectory/cedarvillecursive.git", 
     "path": "ofl/cedarvillecursive", 
-    "submodule": "cedarvillecursive"
+    "submodule": "cedarvillecursive", 
+    "gh_page": "//fontdirectory.github.io/cedarvillecursive"
   }, 
   {
     "url": "git@github.com:fontdirectory/cevicheone.git", 
     "path": "ofl/cevicheone", 
-    "submodule": "cevicheone"
+    "submodule": "cevicheone", 
+    "gh_page": "//fontdirectory.github.io/cevicheone"
   }, 
   {
     "url": "git@github.com:fontdirectory/changa.git", 
     "path": "ofl/changa", 
-    "submodule": "changa"
+    "submodule": "changa", 
+    "gh_page": "//fontdirectory.github.io/changa"
   }, 
   {
     "url": "git@github.com:fontdirectory/changaone.git", 
     "path": "ofl/changaone", 
-    "submodule": "changaone"
+    "submodule": "changaone", 
+    "gh_page": "//fontdirectory.github.io/changaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/chango.git", 
     "path": "ofl/chango", 
-    "submodule": "chango"
+    "submodule": "chango", 
+    "gh_page": "//fontdirectory.github.io/chango"
   }, 
   {
     "url": "git@github.com:fontdirectory/chauphilomeneone.git", 
     "path": "ofl/chauphilomeneone", 
-    "submodule": "chauphilomeneone"
+    "submodule": "chauphilomeneone", 
+    "gh_page": "//fontdirectory.github.io/chauphilomeneone"
   }, 
   {
     "url": "git@github.com:fontdirectory/chelaone.git", 
     "path": "ofl/chelaone", 
-    "submodule": "chelaone"
+    "submodule": "chelaone", 
+    "gh_page": "//fontdirectory.github.io/chelaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/chelseamarket.git", 
     "path": "ofl/chelseamarket", 
-    "submodule": "chelseamarket"
+    "submodule": "chelseamarket", 
+    "gh_page": "//fontdirectory.github.io/chelseamarket"
   }, 
   {
     "url": "git@github.com:fontdirectory/chenla.git", 
     "path": "ofl/chenla", 
-    "submodule": "chenla"
+    "submodule": "chenla", 
+    "gh_page": "//fontdirectory.github.io/chenla"
   }, 
   {
     "url": "git@github.com:fontdirectory/cherryswash.git", 
     "path": "ofl/cherryswash", 
-    "submodule": "cherryswash"
+    "submodule": "cherryswash", 
+    "gh_page": "//fontdirectory.github.io/cherryswash"
   }, 
   {
     "url": "git@github.com:fontdirectory/chicle.git", 
     "path": "ofl/chicle", 
-    "submodule": "chicle"
+    "submodule": "chicle", 
+    "gh_page": "//fontdirectory.github.io/chicle"
   }, 
   {
     "url": "git@github.com:fontdirectory/chivo.git", 
     "path": "ofl/chivo", 
-    "submodule": "chivo"
+    "submodule": "chivo", 
+    "gh_page": "//fontdirectory.github.io/chivo"
   }, 
   {
     "url": "git@github.com:fontdirectory/cinzel.git", 
     "path": "ofl/cinzel", 
-    "submodule": "cinzel"
+    "submodule": "cinzel", 
+    "gh_page": "//fontdirectory.github.io/cinzel"
   }, 
   {
     "url": "git@github.com:fontdirectory/cinzeldecorative.git", 
     "path": "ofl/cinzeldecorative", 
-    "submodule": "cinzeldecorative"
+    "submodule": "cinzeldecorative", 
+    "gh_page": "//fontdirectory.github.io/cinzeldecorative"
   }, 
   {
     "url": "git@github.com:fontdirectory/clara.git", 
     "path": "ofl/clara", 
-    "submodule": "clara"
+    "submodule": "clara", 
+    "gh_page": "//fontdirectory.github.io/clara"
   }, 
   {
     "url": "git@github.com:fontdirectory/clickerscript.git", 
     "path": "ofl/clickerscript", 
-    "submodule": "clickerscript"
+    "submodule": "clickerscript", 
+    "gh_page": "//fontdirectory.github.io/clickerscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/coda.git", 
     "path": "ofl/coda", 
-    "submodule": "coda"
+    "submodule": "coda", 
+    "gh_page": "//fontdirectory.github.io/coda"
   }, 
   {
     "url": "git@github.com:fontdirectory/codacaption.git", 
     "path": "ofl/codacaption", 
-    "submodule": "codacaption"
+    "submodule": "codacaption", 
+    "gh_page": "//fontdirectory.github.io/codacaption"
   }, 
   {
     "url": "git@github.com:fontdirectory/codystar.git", 
     "path": "ofl/codystar", 
-    "submodule": "codystar"
+    "submodule": "codystar", 
+    "gh_page": "//fontdirectory.github.io/codystar"
   }, 
   {
     "url": "git@github.com:fontdirectory/combo.git", 
     "path": "ofl/combo", 
-    "submodule": "combo"
+    "submodule": "combo", 
+    "gh_page": "//fontdirectory.github.io/combo"
   }, 
   {
     "url": "git@github.com:fontdirectory/comfortaa.git", 
     "path": "ofl/comfortaa", 
-    "submodule": "comfortaa"
+    "submodule": "comfortaa", 
+    "gh_page": "//fontdirectory.github.io/comfortaa"
   }, 
   {
     "url": "git@github.com:fontdirectory/concertone.git", 
     "path": "ofl/concertone", 
-    "submodule": "concertone"
+    "submodule": "concertone", 
+    "gh_page": "//fontdirectory.github.io/concertone"
   }, 
   {
     "url": "git@github.com:fontdirectory/condiment.git", 
     "path": "ofl/condiment", 
-    "submodule": "condiment"
+    "submodule": "condiment", 
+    "gh_page": "//fontdirectory.github.io/condiment"
   }, 
   {
     "url": "git@github.com:fontdirectory/content.git", 
     "path": "ofl/content", 
-    "submodule": "content"
+    "submodule": "content", 
+    "gh_page": "//fontdirectory.github.io/content"
   }, 
   {
     "url": "git@github.com:fontdirectory/contrailone.git", 
     "path": "ofl/contrailone", 
-    "submodule": "contrailone"
+    "submodule": "contrailone", 
+    "gh_page": "//fontdirectory.github.io/contrailone"
   }, 
   {
     "url": "git@github.com:fontdirectory/convergence.git", 
     "path": "ofl/convergence", 
-    "submodule": "convergence"
+    "submodule": "convergence", 
+    "gh_page": "//fontdirectory.github.io/convergence"
   }, 
   {
     "url": "git@github.com:fontdirectory/cookie.git", 
     "path": "ofl/cookie", 
-    "submodule": "cookie"
+    "submodule": "cookie", 
+    "gh_page": "//fontdirectory.github.io/cookie"
   }, 
   {
     "url": "git@github.com:fontdirectory/copse.git", 
     "path": "ofl/copse", 
-    "submodule": "copse"
+    "submodule": "copse", 
+    "gh_page": "//fontdirectory.github.io/copse"
   }, 
   {
     "url": "git@github.com:fontdirectory/corben.git", 
     "path": "ofl/corben", 
-    "submodule": "corben"
+    "submodule": "corben", 
+    "gh_page": "//fontdirectory.github.io/corben"
   }, 
   {
     "url": "git@github.com:fontdirectory/courgette.git", 
     "path": "ofl/courgette", 
-    "submodule": "courgette"
+    "submodule": "courgette", 
+    "gh_page": "//fontdirectory.github.io/courgette"
   }, 
   {
     "url": "git@github.com:fontdirectory/coustard.git", 
     "path": "ofl/coustard", 
-    "submodule": "coustard"
+    "submodule": "coustard", 
+    "gh_page": "//fontdirectory.github.io/coustard"
   }, 
   {
     "url": "git@github.com:fontdirectory/coveredbyyourgrace.git", 
     "path": "ofl/coveredbyyourgrace", 
-    "submodule": "coveredbyyourgrace"
+    "submodule": "coveredbyyourgrace", 
+    "gh_page": "//fontdirectory.github.io/coveredbyyourgrace"
   }, 
   {
     "url": "git@github.com:fontdirectory/creepster.git", 
     "path": "ofl/creepster", 
-    "submodule": "creepster"
+    "submodule": "creepster", 
+    "gh_page": "//fontdirectory.github.io/creepster"
   }, 
   {
     "url": "git@github.com:fontdirectory/creteround.git", 
     "path": "ofl/creteround", 
-    "submodule": "creteround"
+    "submodule": "creteround", 
+    "gh_page": "//fontdirectory.github.io/creteround"
   }, 
   {
     "url": "git@github.com:fontdirectory/crimsontext.git", 
     "path": "ofl/crimsontext", 
-    "submodule": "crimsontext"
+    "submodule": "crimsontext", 
+    "gh_page": "//fontdirectory.github.io/crimsontext"
   }, 
   {
     "url": "git@github.com:fontdirectory/croissantone.git", 
     "path": "ofl/croissantone", 
-    "submodule": "croissantone"
+    "submodule": "croissantone", 
+    "gh_page": "//fontdirectory.github.io/croissantone"
   }, 
   {
     "url": "git@github.com:fontdirectory/cuprum.git", 
     "path": "ofl/cuprum", 
-    "submodule": "cuprum"
+    "submodule": "cuprum", 
+    "gh_page": "//fontdirectory.github.io/cuprum"
   }, 
   {
     "url": "git@github.com:fontdirectory/cutive.git", 
     "path": "ofl/cutive", 
-    "submodule": "cutive"
+    "submodule": "cutive", 
+    "gh_page": "//fontdirectory.github.io/cutive"
   }, 
   {
     "url": "git@github.com:fontdirectory/cutivemono.git", 
     "path": "ofl/cutivemono", 
-    "submodule": "cutivemono"
+    "submodule": "cutivemono", 
+    "gh_page": "//fontdirectory.github.io/cutivemono"
   }, 
   {
     "url": "git@github.com:fontdirectory/cwtexfangsong.git", 
     "path": "ofl/cwtexfangsong", 
-    "submodule": "cwtexfangsong"
+    "submodule": "cwtexfangsong", 
+    "gh_page": "//fontdirectory.github.io/cwtexfangsong"
   }, 
   {
     "url": "git@github.com:fontdirectory/cwtexhei.git", 
     "path": "ofl/cwtexhei", 
-    "submodule": "cwtexhei"
+    "submodule": "cwtexhei", 
+    "gh_page": "//fontdirectory.github.io/cwtexhei"
   }, 
   {
     "url": "git@github.com:fontdirectory/cwtexkai.git", 
     "path": "ofl/cwtexkai", 
-    "submodule": "cwtexkai"
+    "submodule": "cwtexkai", 
+    "gh_page": "//fontdirectory.github.io/cwtexkai"
   }, 
   {
     "url": "git@github.com:fontdirectory/cwtexming.git", 
     "path": "ofl/cwtexming", 
-    "submodule": "cwtexming"
+    "submodule": "cwtexming", 
+    "gh_page": "//fontdirectory.github.io/cwtexming"
   }, 
   {
     "url": "git@github.com:fontdirectory/cwtexyen.git", 
     "path": "ofl/cwtexyen", 
-    "submodule": "cwtexyen"
+    "submodule": "cwtexyen", 
+    "gh_page": "//fontdirectory.github.io/cwtexyen"
   }, 
   {
     "url": "git@github.com:fontdirectory/damion.git", 
     "path": "ofl/damion", 
-    "submodule": "damion"
+    "submodule": "damion", 
+    "gh_page": "//fontdirectory.github.io/damion"
   }, 
   {
     "url": "git@github.com:fontdirectory/dancingscript.git", 
     "path": "ofl/dancingscript", 
-    "submodule": "dancingscript"
+    "submodule": "dancingscript", 
+    "gh_page": "//fontdirectory.github.io/dancingscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/dangrek.git", 
     "path": "ofl/dangrek", 
-    "submodule": "dangrek"
+    "submodule": "dangrek", 
+    "gh_page": "//fontdirectory.github.io/dangrek"
   }, 
   {
     "url": "git@github.com:fontdirectory/dawningofanewday.git", 
     "path": "ofl/dawningofanewday", 
-    "submodule": "dawningofanewday"
+    "submodule": "dawningofanewday", 
+    "gh_page": "//fontdirectory.github.io/dawningofanewday"
   }, 
   {
     "url": "git@github.com:fontdirectory/daysone.git", 
     "path": "ofl/daysone", 
-    "submodule": "daysone"
+    "submodule": "daysone", 
+    "gh_page": "//fontdirectory.github.io/daysone"
   }, 
   {
     "url": "git@github.com:fontdirectory/delius.git", 
     "path": "ofl/delius", 
-    "submodule": "delius"
+    "submodule": "delius", 
+    "gh_page": "//fontdirectory.github.io/delius"
   }, 
   {
     "url": "git@github.com:fontdirectory/deliusswashcaps.git", 
     "path": "ofl/deliusswashcaps", 
-    "submodule": "deliusswashcaps"
+    "submodule": "deliusswashcaps", 
+    "gh_page": "//fontdirectory.github.io/deliusswashcaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/deliusunicase.git", 
     "path": "ofl/deliusunicase", 
-    "submodule": "deliusunicase"
+    "submodule": "deliusunicase", 
+    "gh_page": "//fontdirectory.github.io/deliusunicase"
   }, 
   {
     "url": "git@github.com:fontdirectory/dellarespira.git", 
     "path": "ofl/dellarespira", 
-    "submodule": "dellarespira"
+    "submodule": "dellarespira", 
+    "gh_page": "//fontdirectory.github.io/dellarespira"
   }, 
   {
     "url": "git@github.com:fontdirectory/denkone.git", 
     "path": "ofl/denkone", 
-    "submodule": "denkone"
+    "submodule": "denkone", 
+    "gh_page": "//fontdirectory.github.io/denkone"
   }, 
   {
     "url": "git@github.com:fontdirectory/devonshire.git", 
     "path": "ofl/devonshire", 
-    "submodule": "devonshire"
+    "submodule": "devonshire", 
+    "gh_page": "//fontdirectory.github.io/devonshire"
   }, 
   {
     "url": "git@github.com:fontdirectory/dhyana.git", 
     "path": "ofl/dhyana", 
-    "submodule": "dhyana"
+    "submodule": "dhyana", 
+    "gh_page": "//fontdirectory.github.io/dhyana"
   }, 
   {
     "url": "git@github.com:fontdirectory/didactgothic.git", 
     "path": "ofl/didactgothic", 
-    "submodule": "didactgothic"
+    "submodule": "didactgothic", 
+    "gh_page": "//fontdirectory.github.io/didactgothic"
   }, 
   {
     "url": "git@github.com:fontdirectory/diplomata.git", 
     "path": "ofl/diplomata", 
-    "submodule": "diplomata"
+    "submodule": "diplomata", 
+    "gh_page": "//fontdirectory.github.io/diplomata"
   }, 
   {
     "url": "git@github.com:fontdirectory/diplomatasc.git", 
     "path": "ofl/diplomatasc", 
-    "submodule": "diplomatasc"
+    "submodule": "diplomatasc", 
+    "gh_page": "//fontdirectory.github.io/diplomatasc"
   }, 
   {
     "url": "git@github.com:fontdirectory/domine.git", 
     "path": "ofl/domine", 
-    "submodule": "domine"
+    "submodule": "domine", 
+    "gh_page": "//fontdirectory.github.io/domine"
   }, 
   {
     "url": "git@github.com:fontdirectory/donegalone.git", 
     "path": "ofl/donegalone", 
-    "submodule": "donegalone"
+    "submodule": "donegalone", 
+    "gh_page": "//fontdirectory.github.io/donegalone"
   }, 
   {
     "url": "git@github.com:fontdirectory/doppioone.git", 
     "path": "ofl/doppioone", 
-    "submodule": "doppioone"
+    "submodule": "doppioone", 
+    "gh_page": "//fontdirectory.github.io/doppioone"
   }, 
   {
     "url": "git@github.com:fontdirectory/dorsa.git", 
     "path": "ofl/dorsa", 
-    "submodule": "dorsa"
+    "submodule": "dorsa", 
+    "gh_page": "//fontdirectory.github.io/dorsa"
   }, 
   {
     "url": "git@github.com:fontdirectory/dosis.git", 
     "path": "ofl/dosis", 
-    "submodule": "dosis"
+    "submodule": "dosis", 
+    "gh_page": "//fontdirectory.github.io/dosis"
   }, 
   {
     "url": "git@github.com:fontdirectory/drsugiyama.git", 
     "path": "ofl/drsugiyama", 
-    "submodule": "drsugiyama"
+    "submodule": "drsugiyama", 
+    "gh_page": "//fontdirectory.github.io/drsugiyama"
   }, 
   {
     "url": "git@github.com:fontdirectory/durusans.git", 
     "path": "ofl/durusans", 
-    "submodule": "durusans"
+    "submodule": "durusans", 
+    "gh_page": "//fontdirectory.github.io/durusans"
   }, 
   {
     "url": "git@github.com:fontdirectory/dynalight.git", 
     "path": "ofl/dynalight", 
-    "submodule": "dynalight"
+    "submodule": "dynalight", 
+    "gh_page": "//fontdirectory.github.io/dynalight"
   }, 
   {
     "url": "git@github.com:fontdirectory/eaglelake.git", 
     "path": "ofl/eaglelake", 
-    "submodule": "eaglelake"
+    "submodule": "eaglelake", 
+    "gh_page": "//fontdirectory.github.io/eaglelake"
   }, 
   {
     "url": "git@github.com:fontdirectory/eater.git", 
     "path": "ofl/eater", 
-    "submodule": "eater"
+    "submodule": "eater", 
+    "gh_page": "//fontdirectory.github.io/eater"
   }, 
   {
     "url": "git@github.com:fontdirectory/eatercaps.git", 
     "path": "ofl/eatercaps", 
-    "submodule": "eatercaps"
+    "submodule": "eatercaps", 
+    "gh_page": "//fontdirectory.github.io/eatercaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/ebgaramond.git", 
     "path": "ofl/ebgaramond", 
-    "submodule": "ebgaramond"
+    "submodule": "ebgaramond", 
+    "gh_page": "//fontdirectory.github.io/ebgaramond"
   }, 
   {
     "url": "git@github.com:fontdirectory/economica.git", 
     "path": "ofl/economica", 
-    "submodule": "economica"
+    "submodule": "economica", 
+    "gh_page": "//fontdirectory.github.io/economica"
   }, 
   {
     "url": "git@github.com:fontdirectory/ekmukta.git", 
     "path": "ofl/ekmukta", 
-    "submodule": "ekmukta"
+    "submodule": "ekmukta", 
+    "gh_page": "//fontdirectory.github.io/ekmukta"
   }, 
   {
     "url": "git@github.com:fontdirectory/electrolize.git", 
     "path": "ofl/electrolize", 
-    "submodule": "electrolize"
+    "submodule": "electrolize", 
+    "gh_page": "//fontdirectory.github.io/electrolize"
   }, 
   {
     "url": "git@github.com:fontdirectory/elsie.git", 
     "path": "ofl/elsie", 
-    "submodule": "elsie"
+    "submodule": "elsie", 
+    "gh_page": "//fontdirectory.github.io/elsie"
   }, 
   {
     "url": "git@github.com:fontdirectory/elsieswashcaps.git", 
     "path": "ofl/elsieswashcaps", 
-    "submodule": "elsieswashcaps"
+    "submodule": "elsieswashcaps", 
+    "gh_page": "//fontdirectory.github.io/elsieswashcaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/emblemaone.git", 
     "path": "ofl/emblemaone", 
-    "submodule": "emblemaone"
+    "submodule": "emblemaone", 
+    "gh_page": "//fontdirectory.github.io/emblemaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/emilyscandy.git", 
     "path": "ofl/emilyscandy", 
-    "submodule": "emilyscandy"
+    "submodule": "emilyscandy", 
+    "gh_page": "//fontdirectory.github.io/emilyscandy"
   }, 
   {
     "url": "git@github.com:fontdirectory/encodesans.git", 
     "path": "ofl/encodesans", 
-    "submodule": "encodesans"
+    "submodule": "encodesans", 
+    "gh_page": "//fontdirectory.github.io/encodesans"
   }, 
   {
     "url": "git@github.com:fontdirectory/encodesanscompressed.git", 
     "path": "ofl/encodesanscompressed", 
-    "submodule": "encodesanscompressed"
+    "submodule": "encodesanscompressed", 
+    "gh_page": "//fontdirectory.github.io/encodesanscompressed"
   }, 
   {
     "url": "git@github.com:fontdirectory/encodesanscondensed.git", 
     "path": "ofl/encodesanscondensed", 
-    "submodule": "encodesanscondensed"
+    "submodule": "encodesanscondensed", 
+    "gh_page": "//fontdirectory.github.io/encodesanscondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/encodesansnarrow.git", 
     "path": "ofl/encodesansnarrow", 
-    "submodule": "encodesansnarrow"
+    "submodule": "encodesansnarrow", 
+    "gh_page": "//fontdirectory.github.io/encodesansnarrow"
   }, 
   {
     "url": "git@github.com:fontdirectory/encodesanswide.git", 
     "path": "ofl/encodesanswide", 
-    "submodule": "encodesanswide"
+    "submodule": "encodesanswide", 
+    "gh_page": "//fontdirectory.github.io/encodesanswide"
   }, 
   {
     "url": "git@github.com:fontdirectory/engagement.git", 
     "path": "ofl/engagement", 
-    "submodule": "engagement"
+    "submodule": "engagement", 
+    "gh_page": "//fontdirectory.github.io/engagement"
   }, 
   {
     "url": "git@github.com:fontdirectory/englebert.git", 
     "path": "ofl/englebert", 
-    "submodule": "englebert"
+    "submodule": "englebert", 
+    "gh_page": "//fontdirectory.github.io/englebert"
   }, 
   {
     "url": "git@github.com:fontdirectory/enriqueta.git", 
     "path": "ofl/enriqueta", 
-    "submodule": "enriqueta"
+    "submodule": "enriqueta", 
+    "gh_page": "//fontdirectory.github.io/enriqueta"
   }, 
   {
     "url": "git@github.com:fontdirectory/ericaone.git", 
     "path": "ofl/ericaone", 
-    "submodule": "ericaone"
+    "submodule": "ericaone", 
+    "gh_page": "//fontdirectory.github.io/ericaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/esteban.git", 
     "path": "ofl/esteban", 
-    "submodule": "esteban"
+    "submodule": "esteban", 
+    "gh_page": "//fontdirectory.github.io/esteban"
   }, 
   {
     "url": "git@github.com:fontdirectory/euphoriascript.git", 
     "path": "ofl/euphoriascript", 
-    "submodule": "euphoriascript"
+    "submodule": "euphoriascript", 
+    "gh_page": "//fontdirectory.github.io/euphoriascript"
   }, 
   {
     "url": "git@github.com:fontdirectory/ewert.git", 
     "path": "ofl/ewert", 
-    "submodule": "ewert"
+    "submodule": "ewert", 
+    "gh_page": "//fontdirectory.github.io/ewert"
   }, 
   {
     "url": "git@github.com:fontdirectory/exo.git", 
     "path": "ofl/exo", 
-    "submodule": "exo"
+    "submodule": "exo", 
+    "gh_page": "//fontdirectory.github.io/exo"
   }, 
   {
     "url": "git@github.com:fontdirectory/exo2.git", 
     "path": "ofl/exo2", 
-    "submodule": "exo2"
+    "submodule": "exo2", 
+    "gh_page": "//fontdirectory.github.io/exo2"
   }, 
   {
     "url": "git@github.com:fontdirectory/exoold.git", 
     "path": "ofl/exoold", 
-    "submodule": "exoold"
+    "submodule": "exoold", 
+    "gh_page": "//fontdirectory.github.io/exoold"
   }, 
   {
     "url": "git@github.com:fontdirectory/expletussans.git", 
     "path": "ofl/expletussans", 
-    "submodule": "expletussans"
+    "submodule": "expletussans", 
+    "gh_page": "//fontdirectory.github.io/expletussans"
   }, 
   {
     "url": "git@github.com:fontdirectory/fanwoodtext.git", 
     "path": "ofl/fanwoodtext", 
-    "submodule": "fanwoodtext"
+    "submodule": "fanwoodtext", 
+    "gh_page": "//fontdirectory.github.io/fanwoodtext"
   }, 
   {
     "url": "git@github.com:fontdirectory/fascinate.git", 
     "path": "ofl/fascinate", 
-    "submodule": "fascinate"
+    "submodule": "fascinate", 
+    "gh_page": "//fontdirectory.github.io/fascinate"
   }, 
   {
     "url": "git@github.com:fontdirectory/fascinateinline.git", 
     "path": "ofl/fascinateinline", 
-    "submodule": "fascinateinline"
+    "submodule": "fascinateinline", 
+    "gh_page": "//fontdirectory.github.io/fascinateinline"
   }, 
   {
     "url": "git@github.com:fontdirectory/fasterone.git", 
     "path": "ofl/fasterone", 
-    "submodule": "fasterone"
+    "submodule": "fasterone", 
+    "gh_page": "//fontdirectory.github.io/fasterone"
   }, 
   {
     "url": "git@github.com:fontdirectory/fasthand.git", 
     "path": "ofl/fasthand", 
-    "submodule": "fasthand"
+    "submodule": "fasthand", 
+    "gh_page": "//fontdirectory.github.io/fasthand"
   }, 
   {
     "url": "git@github.com:fontdirectory/faunaone.git", 
     "path": "ofl/faunaone", 
-    "submodule": "faunaone"
+    "submodule": "faunaone", 
+    "gh_page": "//fontdirectory.github.io/faunaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/federant.git", 
     "path": "ofl/federant", 
-    "submodule": "federant"
+    "submodule": "federant", 
+    "gh_page": "//fontdirectory.github.io/federant"
   }, 
   {
     "url": "git@github.com:fontdirectory/federo.git", 
     "path": "ofl/federo", 
-    "submodule": "federo"
+    "submodule": "federo", 
+    "gh_page": "//fontdirectory.github.io/federo"
   }, 
   {
     "url": "git@github.com:fontdirectory/felipa.git", 
     "path": "ofl/felipa", 
-    "submodule": "felipa"
+    "submodule": "felipa", 
+    "gh_page": "//fontdirectory.github.io/felipa"
   }, 
   {
     "url": "git@github.com:fontdirectory/fenix.git", 
     "path": "ofl/fenix", 
-    "submodule": "fenix"
+    "submodule": "fenix", 
+    "gh_page": "//fontdirectory.github.io/fenix"
   }, 
   {
     "url": "git@github.com:fontdirectory/fingerpaint.git", 
     "path": "ofl/fingerpaint", 
-    "submodule": "fingerpaint"
+    "submodule": "fingerpaint", 
+    "gh_page": "//fontdirectory.github.io/fingerpaint"
   }, 
   {
     "url": "git@github.com:fontdirectory/firamono.git", 
     "path": "ofl/firamono", 
-    "submodule": "firamono"
+    "submodule": "firamono", 
+    "gh_page": "//fontdirectory.github.io/firamono"
   }, 
   {
     "url": "git@github.com:fontdirectory/firasans.git", 
     "path": "ofl/firasans", 
-    "submodule": "firasans"
+    "submodule": "firasans", 
+    "gh_page": "//fontdirectory.github.io/firasans"
   }, 
   {
     "url": "git@github.com:fontdirectory/fjallaone.git", 
     "path": "ofl/fjallaone", 
-    "submodule": "fjallaone"
+    "submodule": "fjallaone", 
+    "gh_page": "//fontdirectory.github.io/fjallaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/fjordone.git", 
     "path": "ofl/fjordone", 
-    "submodule": "fjordone"
+    "submodule": "fjordone", 
+    "gh_page": "//fontdirectory.github.io/fjordone"
   }, 
   {
     "url": "git@github.com:fontdirectory/flamenco.git", 
     "path": "ofl/flamenco", 
-    "submodule": "flamenco"
+    "submodule": "flamenco", 
+    "gh_page": "//fontdirectory.github.io/flamenco"
   }, 
   {
     "url": "git@github.com:fontdirectory/flavors.git", 
     "path": "ofl/flavors", 
-    "submodule": "flavors"
+    "submodule": "flavors", 
+    "gh_page": "//fontdirectory.github.io/flavors"
   }, 
   {
     "url": "git@github.com:fontdirectory/fondamento.git", 
     "path": "ofl/fondamento", 
-    "submodule": "fondamento"
+    "submodule": "fondamento", 
+    "gh_page": "//fontdirectory.github.io/fondamento"
   }, 
   {
     "url": "git@github.com:fontdirectory/forum.git", 
     "path": "ofl/forum", 
-    "submodule": "forum"
+    "submodule": "forum", 
+    "gh_page": "//fontdirectory.github.io/forum"
   }, 
   {
     "url": "git@github.com:fontdirectory/francoisone.git", 
     "path": "ofl/francoisone", 
-    "submodule": "francoisone"
+    "submodule": "francoisone", 
+    "gh_page": "//fontdirectory.github.io/francoisone"
   }, 
   {
     "url": "git@github.com:fontdirectory/freckleface.git", 
     "path": "ofl/freckleface", 
-    "submodule": "freckleface"
+    "submodule": "freckleface", 
+    "gh_page": "//fontdirectory.github.io/freckleface"
   }, 
   {
     "url": "git@github.com:fontdirectory/frederickathegreat.git", 
     "path": "ofl/frederickathegreat", 
-    "submodule": "frederickathegreat"
+    "submodule": "frederickathegreat", 
+    "gh_page": "//fontdirectory.github.io/frederickathegreat"
   }, 
   {
     "url": "git@github.com:fontdirectory/fredokaone.git", 
     "path": "ofl/fredokaone", 
-    "submodule": "fredokaone"
+    "submodule": "fredokaone", 
+    "gh_page": "//fontdirectory.github.io/fredokaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/freehand.git", 
     "path": "ofl/freehand", 
-    "submodule": "freehand"
+    "submodule": "freehand", 
+    "gh_page": "//fontdirectory.github.io/freehand"
   }, 
   {
     "url": "git@github.com:fontdirectory/fresca.git", 
     "path": "ofl/fresca", 
-    "submodule": "fresca"
+    "submodule": "fresca", 
+    "gh_page": "//fontdirectory.github.io/fresca"
   }, 
   {
     "url": "git@github.com:fontdirectory/frijole.git", 
     "path": "ofl/frijole", 
-    "submodule": "frijole"
+    "submodule": "frijole", 
+    "gh_page": "//fontdirectory.github.io/frijole"
   }, 
   {
     "url": "git@github.com:fontdirectory/fruktur.git", 
     "path": "ofl/fruktur", 
-    "submodule": "fruktur"
+    "submodule": "fruktur", 
+    "gh_page": "//fontdirectory.github.io/fruktur"
   }, 
   {
     "url": "git@github.com:fontdirectory/fugazone.git", 
     "path": "ofl/fugazone", 
-    "submodule": "fugazone"
+    "submodule": "fugazone", 
+    "gh_page": "//fontdirectory.github.io/fugazone"
   }, 
   {
     "url": "git@github.com:fontdirectory/gabriela.git", 
     "path": "ofl/gabriela", 
-    "submodule": "gabriela"
+    "submodule": "gabriela", 
+    "gh_page": "//fontdirectory.github.io/gabriela"
   }, 
   {
     "url": "git@github.com:fontdirectory/gafata.git", 
     "path": "ofl/gafata", 
-    "submodule": "gafata"
+    "submodule": "gafata", 
+    "gh_page": "//fontdirectory.github.io/gafata"
   }, 
   {
     "url": "git@github.com:fontdirectory/galdeano.git", 
     "path": "ofl/galdeano", 
-    "submodule": "galdeano"
+    "submodule": "galdeano", 
+    "gh_page": "//fontdirectory.github.io/galdeano"
   }, 
   {
     "url": "git@github.com:fontdirectory/galindo.git", 
     "path": "ofl/galindo", 
-    "submodule": "galindo"
+    "submodule": "galindo", 
+    "gh_page": "//fontdirectory.github.io/galindo"
   }, 
   {
     "url": "git@github.com:fontdirectory/gentiumbasic.git", 
     "path": "ofl/gentiumbasic", 
-    "submodule": "gentiumbasic"
+    "submodule": "gentiumbasic", 
+    "gh_page": "//fontdirectory.github.io/gentiumbasic"
   }, 
   {
     "url": "git@github.com:fontdirectory/gentiumbookbasic.git", 
     "path": "ofl/gentiumbookbasic", 
-    "submodule": "gentiumbookbasic"
+    "submodule": "gentiumbookbasic", 
+    "gh_page": "//fontdirectory.github.io/gentiumbookbasic"
   }, 
   {
     "url": "git@github.com:fontdirectory/geo.git", 
     "path": "ofl/geo", 
-    "submodule": "geo"
+    "submodule": "geo", 
+    "gh_page": "//fontdirectory.github.io/geo"
   }, 
   {
     "url": "git@github.com:fontdirectory/geostar.git", 
     "path": "ofl/geostar", 
-    "submodule": "geostar"
+    "submodule": "geostar", 
+    "gh_page": "//fontdirectory.github.io/geostar"
   }, 
   {
     "url": "git@github.com:fontdirectory/geostarfill.git", 
     "path": "ofl/geostarfill", 
-    "submodule": "geostarfill"
+    "submodule": "geostarfill", 
+    "gh_page": "//fontdirectory.github.io/geostarfill"
   }, 
   {
     "url": "git@github.com:fontdirectory/germaniaone.git", 
     "path": "ofl/germaniaone", 
-    "submodule": "germaniaone"
+    "submodule": "germaniaone", 
+    "gh_page": "//fontdirectory.github.io/germaniaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/gfsdidot.git", 
     "path": "ofl/gfsdidot", 
-    "submodule": "gfsdidot"
+    "submodule": "gfsdidot", 
+    "gh_page": "//fontdirectory.github.io/gfsdidot"
   }, 
   {
     "url": "git@github.com:fontdirectory/gfsneohellenic.git", 
     "path": "ofl/gfsneohellenic", 
-    "submodule": "gfsneohellenic"
+    "submodule": "gfsneohellenic", 
+    "gh_page": "//fontdirectory.github.io/gfsneohellenic"
   }, 
   {
     "url": "git@github.com:fontdirectory/gildadisplay.git", 
     "path": "ofl/gildadisplay", 
-    "submodule": "gildadisplay"
+    "submodule": "gildadisplay", 
+    "gh_page": "//fontdirectory.github.io/gildadisplay"
   }, 
   {
     "url": "git@github.com:fontdirectory/giveyouglory.git", 
     "path": "ofl/giveyouglory", 
-    "submodule": "giveyouglory"
+    "submodule": "giveyouglory", 
+    "gh_page": "//fontdirectory.github.io/giveyouglory"
   }, 
   {
     "url": "git@github.com:fontdirectory/glassantiqua.git", 
     "path": "ofl/glassantiqua", 
-    "submodule": "glassantiqua"
+    "submodule": "glassantiqua", 
+    "gh_page": "//fontdirectory.github.io/glassantiqua"
   }, 
   {
     "url": "git@github.com:fontdirectory/glegoo.git", 
     "path": "ofl/glegoo", 
-    "submodule": "glegoo"
+    "submodule": "glegoo", 
+    "gh_page": "//fontdirectory.github.io/glegoo"
   }, 
   {
     "url": "git@github.com:fontdirectory/gloriahallelujah.git", 
     "path": "ofl/gloriahallelujah", 
-    "submodule": "gloriahallelujah"
+    "submodule": "gloriahallelujah", 
+    "gh_page": "//fontdirectory.github.io/gloriahallelujah"
   }, 
   {
     "url": "git@github.com:fontdirectory/goblinone.git", 
     "path": "ofl/goblinone", 
-    "submodule": "goblinone"
+    "submodule": "goblinone", 
+    "gh_page": "//fontdirectory.github.io/goblinone"
   }, 
   {
     "url": "git@github.com:fontdirectory/gochihand.git", 
     "path": "ofl/gochihand", 
-    "submodule": "gochihand"
+    "submodule": "gochihand", 
+    "gh_page": "//fontdirectory.github.io/gochihand"
   }, 
   {
     "url": "git@github.com:fontdirectory/gorditas.git", 
     "path": "ofl/gorditas", 
-    "submodule": "gorditas"
+    "submodule": "gorditas", 
+    "gh_page": "//fontdirectory.github.io/gorditas"
   }, 
   {
     "url": "git@github.com:fontdirectory/goudybookletter1911.git", 
     "path": "ofl/goudybookletter1911", 
-    "submodule": "goudybookletter1911"
+    "submodule": "goudybookletter1911", 
+    "gh_page": "//fontdirectory.github.io/goudybookletter1911"
   }, 
   {
     "url": "git@github.com:fontdirectory/graduate.git", 
     "path": "ofl/graduate", 
-    "submodule": "graduate"
+    "submodule": "graduate", 
+    "gh_page": "//fontdirectory.github.io/graduate"
   }, 
   {
     "url": "git@github.com:fontdirectory/grandhotel.git", 
     "path": "ofl/grandhotel", 
-    "submodule": "grandhotel"
+    "submodule": "grandhotel", 
+    "gh_page": "//fontdirectory.github.io/grandhotel"
   }, 
   {
     "url": "git@github.com:fontdirectory/gravitasone.git", 
     "path": "ofl/gravitasone", 
-    "submodule": "gravitasone"
+    "submodule": "gravitasone", 
+    "gh_page": "//fontdirectory.github.io/gravitasone"
   }, 
   {
     "url": "git@github.com:fontdirectory/greatvibes.git", 
     "path": "ofl/greatvibes", 
-    "submodule": "greatvibes"
+    "submodule": "greatvibes", 
+    "gh_page": "//fontdirectory.github.io/greatvibes"
   }, 
   {
     "url": "git@github.com:fontdirectory/griffy.git", 
     "path": "ofl/griffy", 
-    "submodule": "griffy"
+    "submodule": "griffy", 
+    "gh_page": "//fontdirectory.github.io/griffy"
   }, 
   {
     "url": "git@github.com:fontdirectory/gruppo.git", 
     "path": "ofl/gruppo", 
-    "submodule": "gruppo"
+    "submodule": "gruppo", 
+    "gh_page": "//fontdirectory.github.io/gruppo"
   }, 
   {
     "url": "git@github.com:fontdirectory/gudea.git", 
     "path": "ofl/gudea", 
-    "submodule": "gudea"
+    "submodule": "gudea", 
+    "gh_page": "//fontdirectory.github.io/gudea"
   }, 
   {
     "url": "git@github.com:fontdirectory/habibi.git", 
     "path": "ofl/habibi", 
-    "submodule": "habibi"
+    "submodule": "habibi", 
+    "gh_page": "//fontdirectory.github.io/habibi"
   }, 
   {
     "url": "git@github.com:fontdirectory/hammersmithone.git", 
     "path": "ofl/hammersmithone", 
-    "submodule": "hammersmithone"
+    "submodule": "hammersmithone", 
+    "gh_page": "//fontdirectory.github.io/hammersmithone"
   }, 
   {
     "url": "git@github.com:fontdirectory/hanalei.git", 
     "path": "ofl/hanalei", 
-    "submodule": "hanalei"
+    "submodule": "hanalei", 
+    "gh_page": "//fontdirectory.github.io/hanalei"
   }, 
   {
     "url": "git@github.com:fontdirectory/hanaleifill.git", 
     "path": "ofl/hanaleifill", 
-    "submodule": "hanaleifill"
+    "submodule": "hanaleifill", 
+    "gh_page": "//fontdirectory.github.io/hanaleifill"
   }, 
   {
     "url": "git@github.com:fontdirectory/handlee.git", 
     "path": "ofl/handlee", 
-    "submodule": "handlee"
+    "submodule": "handlee", 
+    "gh_page": "//fontdirectory.github.io/handlee"
   }, 
   {
     "url": "git@github.com:fontdirectory/hanna.git", 
     "path": "ofl/hanna", 
-    "submodule": "hanna"
+    "submodule": "hanna", 
+    "gh_page": "//fontdirectory.github.io/hanna"
   }, 
   {
     "url": "git@github.com:fontdirectory/hanuman.git", 
     "path": "ofl/hanuman", 
-    "submodule": "hanuman"
+    "submodule": "hanuman", 
+    "gh_page": "//fontdirectory.github.io/hanuman"
   }, 
   {
     "url": "git@github.com:fontdirectory/happymonkey.git", 
     "path": "ofl/happymonkey", 
-    "submodule": "happymonkey"
+    "submodule": "happymonkey", 
+    "gh_page": "//fontdirectory.github.io/happymonkey"
   }, 
   {
     "url": "git@github.com:fontdirectory/headlandone.git", 
     "path": "ofl/headlandone", 
-    "submodule": "headlandone"
+    "submodule": "headlandone", 
+    "gh_page": "//fontdirectory.github.io/headlandone"
   }, 
   {
     "url": "git@github.com:fontdirectory/hennypenny.git", 
     "path": "ofl/hennypenny", 
-    "submodule": "hennypenny"
+    "submodule": "hennypenny", 
+    "gh_page": "//fontdirectory.github.io/hennypenny"
   }, 
   {
     "url": "git@github.com:fontdirectory/hermeneusone.git", 
     "path": "ofl/hermeneusone", 
-    "submodule": "hermeneusone"
+    "submodule": "hermeneusone", 
+    "gh_page": "//fontdirectory.github.io/hermeneusone"
   }, 
   {
     "url": "git@github.com:fontdirectory/herrvonmuellerhoff.git", 
     "path": "ofl/herrvonmuellerhoff", 
-    "submodule": "herrvonmuellerhoff"
+    "submodule": "herrvonmuellerhoff", 
+    "gh_page": "//fontdirectory.github.io/herrvonmuellerhoff"
   }, 
   {
     "url": "git@github.com:fontdirectory/hind.git", 
     "path": "ofl/hind", 
-    "submodule": "hind"
+    "submodule": "hind", 
+    "gh_page": "//fontdirectory.github.io/hind"
   }, 
   {
     "url": "git@github.com:fontdirectory/holtwoodonesc.git", 
     "path": "ofl/holtwoodonesc", 
-    "submodule": "holtwoodonesc"
+    "submodule": "holtwoodonesc", 
+    "gh_page": "//fontdirectory.github.io/holtwoodonesc"
   }, 
   {
     "url": "git@github.com:fontdirectory/homenaje.git", 
     "path": "ofl/homenaje", 
-    "submodule": "homenaje"
+    "submodule": "homenaje", 
+    "gh_page": "//fontdirectory.github.io/homenaje"
   }, 
   {
     "url": "git@github.com:fontdirectory/iceberg.git", 
     "path": "ofl/iceberg", 
-    "submodule": "iceberg"
+    "submodule": "iceberg", 
+    "gh_page": "//fontdirectory.github.io/iceberg"
   }, 
   {
     "url": "git@github.com:fontdirectory/iceland.git", 
     "path": "ofl/iceland", 
-    "submodule": "iceland"
+    "submodule": "iceland", 
+    "gh_page": "//fontdirectory.github.io/iceland"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfelldoublepica.git", 
     "path": "ofl/imfelldoublepica", 
-    "submodule": "imfelldoublepica"
+    "submodule": "imfelldoublepica", 
+    "gh_page": "//fontdirectory.github.io/imfelldoublepica"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfelldoublepicasc.git", 
     "path": "ofl/imfelldoublepicasc", 
-    "submodule": "imfelldoublepicasc"
+    "submodule": "imfelldoublepicasc", 
+    "gh_page": "//fontdirectory.github.io/imfelldoublepicasc"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfelldwpica.git", 
     "path": "ofl/imfelldwpica", 
-    "submodule": "imfelldwpica"
+    "submodule": "imfelldwpica", 
+    "gh_page": "//fontdirectory.github.io/imfelldwpica"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfelldwpicasc.git", 
     "path": "ofl/imfelldwpicasc", 
-    "submodule": "imfelldwpicasc"
+    "submodule": "imfelldwpicasc", 
+    "gh_page": "//fontdirectory.github.io/imfelldwpicasc"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfellenglish.git", 
     "path": "ofl/imfellenglish", 
-    "submodule": "imfellenglish"
+    "submodule": "imfellenglish", 
+    "gh_page": "//fontdirectory.github.io/imfellenglish"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfellenglishsc.git", 
     "path": "ofl/imfellenglishsc", 
-    "submodule": "imfellenglishsc"
+    "submodule": "imfellenglishsc", 
+    "gh_page": "//fontdirectory.github.io/imfellenglishsc"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfellfrenchcanon.git", 
     "path": "ofl/imfellfrenchcanon", 
-    "submodule": "imfellfrenchcanon"
+    "submodule": "imfellfrenchcanon", 
+    "gh_page": "//fontdirectory.github.io/imfellfrenchcanon"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfellfrenchcanonsc.git", 
     "path": "ofl/imfellfrenchcanonsc", 
-    "submodule": "imfellfrenchcanonsc"
+    "submodule": "imfellfrenchcanonsc", 
+    "gh_page": "//fontdirectory.github.io/imfellfrenchcanonsc"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfellgreatprimer.git", 
     "path": "ofl/imfellgreatprimer", 
-    "submodule": "imfellgreatprimer"
+    "submodule": "imfellgreatprimer", 
+    "gh_page": "//fontdirectory.github.io/imfellgreatprimer"
   }, 
   {
     "url": "git@github.com:fontdirectory/imfellgreatprimersc.git", 
     "path": "ofl/imfellgreatprimersc", 
-    "submodule": "imfellgreatprimersc"
+    "submodule": "imfellgreatprimersc", 
+    "gh_page": "//fontdirectory.github.io/imfellgreatprimersc"
   }, 
   {
     "url": "git@github.com:fontdirectory/imprima.git", 
     "path": "ofl/imprima", 
-    "submodule": "imprima"
+    "submodule": "imprima", 
+    "gh_page": "//fontdirectory.github.io/imprima"
   }, 
   {
     "url": "git@github.com:fontdirectory/inconsolata.git", 
     "path": "ofl/inconsolata", 
-    "submodule": "inconsolata"
+    "submodule": "inconsolata", 
+    "gh_page": "//fontdirectory.github.io/inconsolata"
   }, 
   {
     "url": "git@github.com:fontdirectory/inder.git", 
     "path": "ofl/inder", 
-    "submodule": "inder"
+    "submodule": "inder", 
+    "gh_page": "//fontdirectory.github.io/inder"
   }, 
   {
     "url": "git@github.com:fontdirectory/indieflower.git", 
     "path": "ofl/indieflower", 
-    "submodule": "indieflower"
+    "submodule": "indieflower", 
+    "gh_page": "//fontdirectory.github.io/indieflower"
   }, 
   {
     "url": "git@github.com:fontdirectory/inika.git", 
     "path": "ofl/inika", 
-    "submodule": "inika"
+    "submodule": "inika", 
+    "gh_page": "//fontdirectory.github.io/inika"
   }, 
   {
     "url": "git@github.com:fontdirectory/istokweb.git", 
     "path": "ofl/istokweb", 
-    "submodule": "istokweb"
+    "submodule": "istokweb", 
+    "gh_page": "//fontdirectory.github.io/istokweb"
   }, 
   {
     "url": "git@github.com:fontdirectory/italiana.git", 
     "path": "ofl/italiana", 
-    "submodule": "italiana"
+    "submodule": "italiana", 
+    "gh_page": "//fontdirectory.github.io/italiana"
   }, 
   {
     "url": "git@github.com:fontdirectory/italianno.git", 
     "path": "ofl/italianno", 
-    "submodule": "italianno"
+    "submodule": "italianno", 
+    "gh_page": "//fontdirectory.github.io/italianno"
   }, 
   {
     "url": "git@github.com:fontdirectory/jacquesfrancois.git", 
     "path": "ofl/jacquesfrancois", 
-    "submodule": "jacquesfrancois"
+    "submodule": "jacquesfrancois", 
+    "gh_page": "//fontdirectory.github.io/jacquesfrancois"
   }, 
   {
     "url": "git@github.com:fontdirectory/jacquesfrancoisshadow.git", 
     "path": "ofl/jacquesfrancoisshadow", 
-    "submodule": "jacquesfrancoisshadow"
+    "submodule": "jacquesfrancoisshadow", 
+    "gh_page": "//fontdirectory.github.io/jacquesfrancoisshadow"
   }, 
   {
     "url": "git@github.com:fontdirectory/jejugothic.git", 
     "path": "ofl/jejugothic", 
-    "submodule": "jejugothic"
+    "submodule": "jejugothic", 
+    "gh_page": "//fontdirectory.github.io/jejugothic"
   }, 
   {
     "url": "git@github.com:fontdirectory/jejuhallasan.git", 
     "path": "ofl/jejuhallasan", 
-    "submodule": "jejuhallasan"
+    "submodule": "jejuhallasan", 
+    "gh_page": "//fontdirectory.github.io/jejuhallasan"
   }, 
   {
     "url": "git@github.com:fontdirectory/jejumyeongjo.git", 
     "path": "ofl/jejumyeongjo", 
-    "submodule": "jejumyeongjo"
+    "submodule": "jejumyeongjo", 
+    "gh_page": "//fontdirectory.github.io/jejumyeongjo"
   }, 
   {
     "url": "git@github.com:fontdirectory/jimnightshade.git", 
     "path": "ofl/jimnightshade", 
-    "submodule": "jimnightshade"
+    "submodule": "jimnightshade", 
+    "gh_page": "//fontdirectory.github.io/jimnightshade"
   }, 
   {
     "url": "git@github.com:fontdirectory/jockeyone.git", 
     "path": "ofl/jockeyone", 
-    "submodule": "jockeyone"
+    "submodule": "jockeyone", 
+    "gh_page": "//fontdirectory.github.io/jockeyone"
   }, 
   {
     "url": "git@github.com:fontdirectory/jollylodger.git", 
     "path": "ofl/jollylodger", 
-    "submodule": "jollylodger"
+    "submodule": "jollylodger", 
+    "gh_page": "//fontdirectory.github.io/jollylodger"
   }, 
   {
     "url": "git@github.com:fontdirectory/jomolhari.git", 
     "path": "ofl/jomolhari", 
-    "submodule": "jomolhari"
+    "submodule": "jomolhari", 
+    "gh_page": "//fontdirectory.github.io/jomolhari"
   }, 
   {
     "url": "git@github.com:fontdirectory/josefinsans.git", 
     "path": "ofl/josefinsans", 
-    "submodule": "josefinsans"
+    "submodule": "josefinsans", 
+    "gh_page": "//fontdirectory.github.io/josefinsans"
   }, 
   {
     "url": "git@github.com:fontdirectory/josefinsansstdlight.git", 
     "path": "ofl/josefinsansstdlight", 
-    "submodule": "josefinsansstdlight"
+    "submodule": "josefinsansstdlight", 
+    "gh_page": "//fontdirectory.github.io/josefinsansstdlight"
   }, 
   {
     "url": "git@github.com:fontdirectory/josefinslab.git", 
     "path": "ofl/josefinslab", 
-    "submodule": "josefinslab"
+    "submodule": "josefinslab", 
+    "gh_page": "//fontdirectory.github.io/josefinslab"
   }, 
   {
     "url": "git@github.com:fontdirectory/jotione.git", 
     "path": "ofl/jotione", 
-    "submodule": "jotione"
+    "submodule": "jotione", 
+    "gh_page": "//fontdirectory.github.io/jotione"
   }, 
   {
     "url": "git@github.com:fontdirectory/judson.git", 
     "path": "ofl/judson", 
-    "submodule": "judson"
+    "submodule": "judson", 
+    "gh_page": "//fontdirectory.github.io/judson"
   }, 
   {
     "url": "git@github.com:fontdirectory/julee.git", 
     "path": "ofl/julee", 
-    "submodule": "julee"
+    "submodule": "julee", 
+    "gh_page": "//fontdirectory.github.io/julee"
   }, 
   {
     "url": "git@github.com:fontdirectory/juliussansone.git", 
     "path": "ofl/juliussansone", 
-    "submodule": "juliussansone"
+    "submodule": "juliussansone", 
+    "gh_page": "//fontdirectory.github.io/juliussansone"
   }, 
   {
     "url": "git@github.com:fontdirectory/junge.git", 
     "path": "ofl/junge", 
-    "submodule": "junge"
+    "submodule": "junge", 
+    "gh_page": "//fontdirectory.github.io/junge"
   }, 
   {
     "url": "git@github.com:fontdirectory/jura.git", 
     "path": "ofl/jura", 
-    "submodule": "jura"
+    "submodule": "jura", 
+    "gh_page": "//fontdirectory.github.io/jura"
   }, 
   {
     "url": "git@github.com:fontdirectory/justmeagaindownhere.git", 
     "path": "ofl/justmeagaindownhere", 
-    "submodule": "justmeagaindownhere"
+    "submodule": "justmeagaindownhere", 
+    "gh_page": "//fontdirectory.github.io/justmeagaindownhere"
   }, 
   {
     "url": "git@github.com:fontdirectory/kalam.git", 
     "path": "ofl/kalam", 
-    "submodule": "kalam"
+    "submodule": "kalam", 
+    "gh_page": "//fontdirectory.github.io/kalam"
   }, 
   {
     "url": "git@github.com:fontdirectory/kameron.git", 
     "path": "ofl/kameron", 
-    "submodule": "kameron"
+    "submodule": "kameron", 
+    "gh_page": "//fontdirectory.github.io/kameron"
   }, 
   {
     "url": "git@github.com:fontdirectory/kantumruy.git", 
     "path": "ofl/kantumruy", 
-    "submodule": "kantumruy"
+    "submodule": "kantumruy", 
+    "gh_page": "//fontdirectory.github.io/kantumruy"
   }, 
   {
     "url": "git@github.com:fontdirectory/karla.git", 
     "path": "ofl/karla", 
-    "submodule": "karla"
+    "submodule": "karla", 
+    "gh_page": "//fontdirectory.github.io/karla"
   }, 
   {
     "url": "git@github.com:fontdirectory/karlatamilinclined.git", 
     "path": "ofl/karlatamilinclined", 
-    "submodule": "karlatamilinclined"
+    "submodule": "karlatamilinclined", 
+    "gh_page": "//fontdirectory.github.io/karlatamilinclined"
   }, 
   {
     "url": "git@github.com:fontdirectory/karlatamilupright.git", 
     "path": "ofl/karlatamilupright", 
-    "submodule": "karlatamilupright"
+    "submodule": "karlatamilupright", 
+    "gh_page": "//fontdirectory.github.io/karlatamilupright"
   }, 
   {
     "url": "git@github.com:fontdirectory/karma.git", 
     "path": "ofl/karma", 
-    "submodule": "karma"
+    "submodule": "karma", 
+    "gh_page": "//fontdirectory.github.io/karma"
   }, 
   {
     "url": "git@github.com:fontdirectory/kaushanscript.git", 
     "path": "ofl/kaushanscript", 
-    "submodule": "kaushanscript"
+    "submodule": "kaushanscript", 
+    "gh_page": "//fontdirectory.github.io/kaushanscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/kavoon.git", 
     "path": "ofl/kavoon", 
-    "submodule": "kavoon"
+    "submodule": "kavoon", 
+    "gh_page": "//fontdirectory.github.io/kavoon"
   }, 
   {
     "url": "git@github.com:fontdirectory/kdamthmor.git", 
     "path": "ofl/kdamthmor", 
-    "submodule": "kdamthmor"
+    "submodule": "kdamthmor", 
+    "gh_page": "//fontdirectory.github.io/kdamthmor"
   }, 
   {
     "url": "git@github.com:fontdirectory/keaniaone.git", 
     "path": "ofl/keaniaone", 
-    "submodule": "keaniaone"
+    "submodule": "keaniaone", 
+    "gh_page": "//fontdirectory.github.io/keaniaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/kellyslab.git", 
     "path": "ofl/kellyslab", 
-    "submodule": "kellyslab"
+    "submodule": "kellyslab", 
+    "gh_page": "//fontdirectory.github.io/kellyslab"
   }, 
   {
     "url": "git@github.com:fontdirectory/kenia.git", 
     "path": "ofl/kenia", 
-    "submodule": "kenia"
+    "submodule": "kenia", 
+    "gh_page": "//fontdirectory.github.io/kenia"
   }, 
   {
     "url": "git@github.com:fontdirectory/khand.git", 
     "path": "ofl/khand", 
-    "submodule": "khand"
+    "submodule": "khand", 
+    "gh_page": "//fontdirectory.github.io/khand"
   }, 
   {
     "url": "git@github.com:fontdirectory/khmer.git", 
     "path": "ofl/khmer", 
-    "submodule": "khmer"
+    "submodule": "khmer", 
+    "gh_page": "//fontdirectory.github.io/khmer"
   }, 
   {
     "url": "git@github.com:fontdirectory/kiteone.git", 
     "path": "ofl/kiteone", 
-    "submodule": "kiteone"
+    "submodule": "kiteone", 
+    "gh_page": "//fontdirectory.github.io/kiteone"
   }, 
   {
     "url": "git@github.com:fontdirectory/knewave.git", 
     "path": "ofl/knewave", 
-    "submodule": "knewave"
+    "submodule": "knewave", 
+    "gh_page": "//fontdirectory.github.io/knewave"
   }, 
   {
     "url": "git@github.com:fontdirectory/kopubbatang.git", 
     "path": "ofl/kopubbatang", 
-    "submodule": "kopubbatang"
+    "submodule": "kopubbatang", 
+    "gh_page": "//fontdirectory.github.io/kopubbatang"
   }, 
   {
     "url": "git@github.com:fontdirectory/kopubbatangpro.git", 
     "path": "ofl/kopubbatangpro", 
-    "submodule": "kopubbatangpro"
+    "submodule": "kopubbatangpro", 
+    "gh_page": "//fontdirectory.github.io/kopubbatangpro"
   }, 
   {
     "url": "git@github.com:fontdirectory/kopubdotumpro.git", 
     "path": "ofl/kopubdotumpro", 
-    "submodule": "kopubdotumpro"
+    "submodule": "kopubdotumpro", 
+    "gh_page": "//fontdirectory.github.io/kopubdotumpro"
   }, 
   {
     "url": "git@github.com:fontdirectory/kottaone.git", 
     "path": "ofl/kottaone", 
-    "submodule": "kottaone"
+    "submodule": "kottaone", 
+    "gh_page": "//fontdirectory.github.io/kottaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/koulen.git", 
     "path": "ofl/koulen", 
-    "submodule": "koulen"
+    "submodule": "koulen", 
+    "gh_page": "//fontdirectory.github.io/koulen"
   }, 
   {
     "url": "git@github.com:fontdirectory/kreon.git", 
     "path": "ofl/kreon", 
-    "submodule": "kreon"
+    "submodule": "kreon", 
+    "gh_page": "//fontdirectory.github.io/kreon"
   }, 
   {
     "url": "git@github.com:fontdirectory/kristi.git", 
     "path": "ofl/kristi", 
-    "submodule": "kristi"
+    "submodule": "kristi", 
+    "gh_page": "//fontdirectory.github.io/kristi"
   }, 
   {
     "url": "git@github.com:fontdirectory/kronaone.git", 
     "path": "ofl/kronaone", 
-    "submodule": "kronaone"
+    "submodule": "kronaone", 
+    "gh_page": "//fontdirectory.github.io/kronaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/labelleaurore.git", 
     "path": "ofl/labelleaurore", 
-    "submodule": "labelleaurore"
+    "submodule": "labelleaurore", 
+    "gh_page": "//fontdirectory.github.io/labelleaurore"
   }, 
   {
     "url": "git@github.com:fontdirectory/lancelot.git", 
     "path": "ofl/lancelot", 
-    "submodule": "lancelot"
+    "submodule": "lancelot", 
+    "gh_page": "//fontdirectory.github.io/lancelot"
   }, 
   {
     "url": "git@github.com:fontdirectory/laomuangdon.git", 
     "path": "ofl/laomuangdon", 
-    "submodule": "laomuangdon"
+    "submodule": "laomuangdon", 
+    "gh_page": "//fontdirectory.github.io/laomuangdon"
   }, 
   {
     "url": "git@github.com:fontdirectory/laomuangkhong.git", 
     "path": "ofl/laomuangkhong", 
-    "submodule": "laomuangkhong"
+    "submodule": "laomuangkhong", 
+    "gh_page": "//fontdirectory.github.io/laomuangkhong"
   }, 
   {
     "url": "git@github.com:fontdirectory/laosanspro.git", 
     "path": "ofl/laosanspro", 
-    "submodule": "laosanspro"
+    "submodule": "laosanspro", 
+    "gh_page": "//fontdirectory.github.io/laosanspro"
   }, 
   {
     "url": "git@github.com:fontdirectory/lateef.git", 
     "path": "ofl/lateef", 
-    "submodule": "lateef"
+    "submodule": "lateef", 
+    "gh_page": "//fontdirectory.github.io/lateef"
   }, 
   {
     "url": "git@github.com:fontdirectory/lato.git", 
     "path": "ofl/lato", 
-    "submodule": "lato"
+    "submodule": "lato", 
+    "gh_page": "//fontdirectory.github.io/lato"
   }, 
   {
     "url": "git@github.com:fontdirectory/leaguegothic.git", 
     "path": "ofl/leaguegothic", 
-    "submodule": "leaguegothic"
+    "submodule": "leaguegothic", 
+    "gh_page": "//fontdirectory.github.io/leaguegothic"
   }, 
   {
     "url": "git@github.com:fontdirectory/leaguescript.git", 
     "path": "ofl/leaguescript", 
-    "submodule": "leaguescript"
+    "submodule": "leaguescript", 
+    "gh_page": "//fontdirectory.github.io/leaguescript"
   }, 
   {
     "url": "git@github.com:fontdirectory/leckerlione.git", 
     "path": "ofl/leckerlione", 
-    "submodule": "leckerlione"
+    "submodule": "leckerlione", 
+    "gh_page": "//fontdirectory.github.io/leckerlione"
   }, 
   {
     "url": "git@github.com:fontdirectory/ledger.git", 
     "path": "ofl/ledger", 
-    "submodule": "ledger"
+    "submodule": "ledger", 
+    "gh_page": "//fontdirectory.github.io/ledger"
   }, 
   {
     "url": "git@github.com:fontdirectory/lekton.git", 
     "path": "ofl/lekton", 
-    "submodule": "lekton"
+    "submodule": "lekton", 
+    "gh_page": "//fontdirectory.github.io/lekton"
   }, 
   {
     "url": "git@github.com:fontdirectory/lemon.git", 
     "path": "ofl/lemon", 
-    "submodule": "lemon"
+    "submodule": "lemon", 
+    "gh_page": "//fontdirectory.github.io/lemon"
   }, 
   {
     "url": "git@github.com:fontdirectory/lemonone.git", 
     "path": "ofl/lemonone", 
-    "submodule": "lemonone"
+    "submodule": "lemonone", 
+    "gh_page": "//fontdirectory.github.io/lemonone"
   }, 
   {
     "url": "git@github.com:fontdirectory/librebaskerville.git", 
     "path": "ofl/librebaskerville", 
-    "submodule": "librebaskerville"
+    "submodule": "librebaskerville", 
+    "gh_page": "//fontdirectory.github.io/librebaskerville"
   }, 
   {
     "url": "git@github.com:fontdirectory/librecaslontext.git", 
     "path": "ofl/librecaslontext", 
-    "submodule": "librecaslontext"
+    "submodule": "librecaslontext", 
+    "gh_page": "//fontdirectory.github.io/librecaslontext"
   }, 
   {
     "url": "git@github.com:fontdirectory/lifesavers.git", 
     "path": "ofl/lifesavers", 
-    "submodule": "lifesavers"
+    "submodule": "lifesavers", 
+    "gh_page": "//fontdirectory.github.io/lifesavers"
   }, 
   {
     "url": "git@github.com:fontdirectory/lifesavers-old.git", 
     "path": "ofl/lifesavers-old", 
-    "submodule": "lifesavers-old"
+    "submodule": "lifesavers-old", 
+    "gh_page": "//fontdirectory.github.io/lifesavers-old"
   }, 
   {
     "url": "git@github.com:fontdirectory/lilitaone.git", 
     "path": "ofl/lilitaone", 
-    "submodule": "lilitaone"
+    "submodule": "lilitaone", 
+    "gh_page": "//fontdirectory.github.io/lilitaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/lilyscriptone.git", 
     "path": "ofl/lilyscriptone", 
-    "submodule": "lilyscriptone"
+    "submodule": "lilyscriptone", 
+    "gh_page": "//fontdirectory.github.io/lilyscriptone"
   }, 
   {
     "url": "git@github.com:fontdirectory/limelight.git", 
     "path": "ofl/limelight", 
-    "submodule": "limelight"
+    "submodule": "limelight", 
+    "gh_page": "//fontdirectory.github.io/limelight"
   }, 
   {
     "url": "git@github.com:fontdirectory/lindenhill.git", 
     "path": "ofl/lindenhill", 
-    "submodule": "lindenhill"
+    "submodule": "lindenhill", 
+    "gh_page": "//fontdirectory.github.io/lindenhill"
   }, 
   {
     "url": "git@github.com:fontdirectory/lobster.git", 
     "path": "ofl/lobster", 
-    "submodule": "lobster"
+    "submodule": "lobster", 
+    "gh_page": "//fontdirectory.github.io/lobster"
   }, 
   {
     "url": "git@github.com:fontdirectory/lobstertwo.git", 
     "path": "ofl/lobstertwo", 
-    "submodule": "lobstertwo"
+    "submodule": "lobstertwo", 
+    "gh_page": "//fontdirectory.github.io/lobstertwo"
   }, 
   {
     "url": "git@github.com:fontdirectory/lohitbengali.git", 
     "path": "ofl/lohitbengali", 
-    "submodule": "lohitbengali"
+    "submodule": "lohitbengali", 
+    "gh_page": "//fontdirectory.github.io/lohitbengali"
   }, 
   {
     "url": "git@github.com:fontdirectory/lohitdevanagari.git", 
     "path": "ofl/lohitdevanagari", 
-    "submodule": "lohitdevanagari"
+    "submodule": "lohitdevanagari", 
+    "gh_page": "//fontdirectory.github.io/lohitdevanagari"
   }, 
   {
     "url": "git@github.com:fontdirectory/lohittamil.git", 
     "path": "ofl/lohittamil", 
-    "submodule": "lohittamil"
+    "submodule": "lohittamil", 
+    "gh_page": "//fontdirectory.github.io/lohittamil"
   }, 
   {
     "url": "git@github.com:fontdirectory/londrinaoutline.git", 
     "path": "ofl/londrinaoutline", 
-    "submodule": "londrinaoutline"
+    "submodule": "londrinaoutline", 
+    "gh_page": "//fontdirectory.github.io/londrinaoutline"
   }, 
   {
     "url": "git@github.com:fontdirectory/londrinashadow.git", 
     "path": "ofl/londrinashadow", 
-    "submodule": "londrinashadow"
+    "submodule": "londrinashadow", 
+    "gh_page": "//fontdirectory.github.io/londrinashadow"
   }, 
   {
     "url": "git@github.com:fontdirectory/londrinasketch.git", 
     "path": "ofl/londrinasketch", 
-    "submodule": "londrinasketch"
+    "submodule": "londrinasketch", 
+    "gh_page": "//fontdirectory.github.io/londrinasketch"
   }, 
   {
     "url": "git@github.com:fontdirectory/londrinasolid.git", 
     "path": "ofl/londrinasolid", 
-    "submodule": "londrinasolid"
+    "submodule": "londrinasolid", 
+    "gh_page": "//fontdirectory.github.io/londrinasolid"
   }, 
   {
     "url": "git@github.com:fontdirectory/lora.git", 
     "path": "ofl/lora", 
-    "submodule": "lora"
+    "submodule": "lora", 
+    "gh_page": "//fontdirectory.github.io/lora"
   }, 
   {
     "url": "git@github.com:fontdirectory/lovedbytheking.git", 
     "path": "ofl/lovedbytheking", 
-    "submodule": "lovedbytheking"
+    "submodule": "lovedbytheking", 
+    "gh_page": "//fontdirectory.github.io/lovedbytheking"
   }, 
   {
     "url": "git@github.com:fontdirectory/loversquarrel.git", 
     "path": "ofl/loversquarrel", 
-    "submodule": "loversquarrel"
+    "submodule": "loversquarrel", 
+    "gh_page": "//fontdirectory.github.io/loversquarrel"
   }, 
   {
     "url": "git@github.com:fontdirectory/loveyalikeasister.git", 
     "path": "ofl/loveyalikeasister", 
-    "submodule": "loveyalikeasister"
+    "submodule": "loveyalikeasister", 
+    "gh_page": "//fontdirectory.github.io/loveyalikeasister"
   }, 
   {
     "url": "git@github.com:fontdirectory/lusitana.git", 
     "path": "ofl/lusitana", 
-    "submodule": "lusitana"
+    "submodule": "lusitana", 
+    "gh_page": "//fontdirectory.github.io/lusitana"
   }, 
   {
     "url": "git@github.com:fontdirectory/lustria.git", 
     "path": "ofl/lustria", 
-    "submodule": "lustria"
+    "submodule": "lustria", 
+    "gh_page": "//fontdirectory.github.io/lustria"
   }, 
   {
     "url": "git@github.com:fontdirectory/macondo.git", 
     "path": "ofl/macondo", 
-    "submodule": "macondo"
+    "submodule": "macondo", 
+    "gh_page": "//fontdirectory.github.io/macondo"
   }, 
   {
     "url": "git@github.com:fontdirectory/macondoswashcaps.git", 
     "path": "ofl/macondoswashcaps", 
-    "submodule": "macondoswashcaps"
+    "submodule": "macondoswashcaps", 
+    "gh_page": "//fontdirectory.github.io/macondoswashcaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/magra.git", 
     "path": "ofl/magra", 
-    "submodule": "magra"
+    "submodule": "magra", 
+    "gh_page": "//fontdirectory.github.io/magra"
   }, 
   {
     "url": "git@github.com:fontdirectory/mako.git", 
     "path": "ofl/mako", 
-    "submodule": "mako"
+    "submodule": "mako", 
+    "gh_page": "//fontdirectory.github.io/mako"
   }, 
   {
     "url": "git@github.com:fontdirectory/marcellus.git", 
     "path": "ofl/marcellus", 
-    "submodule": "marcellus"
+    "submodule": "marcellus", 
+    "gh_page": "//fontdirectory.github.io/marcellus"
   }, 
   {
     "url": "git@github.com:fontdirectory/marcellussc.git", 
     "path": "ofl/marcellussc", 
-    "submodule": "marcellussc"
+    "submodule": "marcellussc", 
+    "gh_page": "//fontdirectory.github.io/marcellussc"
   }, 
   {
     "url": "git@github.com:fontdirectory/marckscript.git", 
     "path": "ofl/marckscript", 
-    "submodule": "marckscript"
+    "submodule": "marckscript", 
+    "gh_page": "//fontdirectory.github.io/marckscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/margarine.git", 
     "path": "ofl/margarine", 
-    "submodule": "margarine"
+    "submodule": "margarine", 
+    "gh_page": "//fontdirectory.github.io/margarine"
   }, 
   {
     "url": "git@github.com:fontdirectory/markoone.git", 
     "path": "ofl/markoone", 
-    "submodule": "markoone"
+    "submodule": "markoone", 
+    "gh_page": "//fontdirectory.github.io/markoone"
   }, 
   {
     "url": "git@github.com:fontdirectory/marmelad.git", 
     "path": "ofl/marmelad", 
-    "submodule": "marmelad"
+    "submodule": "marmelad", 
+    "gh_page": "//fontdirectory.github.io/marmelad"
   }, 
   {
     "url": "git@github.com:fontdirectory/marvel.git", 
     "path": "ofl/marvel", 
-    "submodule": "marvel"
+    "submodule": "marvel", 
+    "gh_page": "//fontdirectory.github.io/marvel"
   }, 
   {
     "url": "git@github.com:fontdirectory/mate.git", 
     "path": "ofl/mate", 
-    "submodule": "mate"
+    "submodule": "mate", 
+    "gh_page": "//fontdirectory.github.io/mate"
   }, 
   {
     "url": "git@github.com:fontdirectory/matesc.git", 
     "path": "ofl/matesc", 
-    "submodule": "matesc"
+    "submodule": "matesc", 
+    "gh_page": "//fontdirectory.github.io/matesc"
   }, 
   {
     "url": "git@github.com:fontdirectory/mavenpro.git", 
     "path": "ofl/mavenpro", 
-    "submodule": "mavenpro"
+    "submodule": "mavenpro", 
+    "gh_page": "//fontdirectory.github.io/mavenpro"
   }, 
   {
     "url": "git@github.com:fontdirectory/mclaren.git", 
     "path": "ofl/mclaren", 
-    "submodule": "mclaren"
+    "submodule": "mclaren", 
+    "gh_page": "//fontdirectory.github.io/mclaren"
   }, 
   {
     "url": "git@github.com:fontdirectory/meddon.git", 
     "path": "ofl/meddon", 
-    "submodule": "meddon"
+    "submodule": "meddon", 
+    "gh_page": "//fontdirectory.github.io/meddon"
   }, 
   {
     "url": "git@github.com:fontdirectory/medievalsharp.git", 
     "path": "ofl/medievalsharp", 
-    "submodule": "medievalsharp"
+    "submodule": "medievalsharp", 
+    "gh_page": "//fontdirectory.github.io/medievalsharp"
   }, 
   {
     "url": "git@github.com:fontdirectory/medulaone.git", 
     "path": "ofl/medulaone", 
-    "submodule": "medulaone"
+    "submodule": "medulaone", 
+    "gh_page": "//fontdirectory.github.io/medulaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/megrim.git", 
     "path": "ofl/megrim", 
-    "submodule": "megrim"
+    "submodule": "megrim", 
+    "gh_page": "//fontdirectory.github.io/megrim"
   }, 
   {
     "url": "git@github.com:fontdirectory/meiescript.git", 
     "path": "ofl/meiescript", 
-    "submodule": "meiescript"
+    "submodule": "meiescript", 
+    "gh_page": "//fontdirectory.github.io/meiescript"
   }, 
   {
     "url": "git@github.com:fontdirectory/mergeone.git", 
     "path": "ofl/mergeone", 
-    "submodule": "mergeone"
+    "submodule": "mergeone", 
+    "gh_page": "//fontdirectory.github.io/mergeone"
   }, 
   {
     "url": "git@github.com:fontdirectory/merienda.git", 
     "path": "ofl/merienda", 
-    "submodule": "merienda"
+    "submodule": "merienda", 
+    "gh_page": "//fontdirectory.github.io/merienda"
   }, 
   {
     "url": "git@github.com:fontdirectory/meriendaone.git", 
     "path": "ofl/meriendaone", 
-    "submodule": "meriendaone"
+    "submodule": "meriendaone", 
+    "gh_page": "//fontdirectory.github.io/meriendaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/merriweather.git", 
     "path": "ofl/merriweather", 
-    "submodule": "merriweather"
+    "submodule": "merriweather", 
+    "gh_page": "//fontdirectory.github.io/merriweather"
   }, 
   {
     "url": "git@github.com:fontdirectory/merriweathersans.git", 
     "path": "ofl/merriweathersans", 
-    "submodule": "merriweathersans"
+    "submodule": "merriweathersans", 
+    "gh_page": "//fontdirectory.github.io/merriweathersans"
   }, 
   {
     "url": "git@github.com:fontdirectory/mervalescript.git", 
     "path": "ofl/mervalescript", 
-    "submodule": "mervalescript"
+    "submodule": "mervalescript", 
+    "gh_page": "//fontdirectory.github.io/mervalescript"
   }, 
   {
     "url": "git@github.com:fontdirectory/metal.git", 
     "path": "ofl/metal", 
-    "submodule": "metal"
+    "submodule": "metal", 
+    "gh_page": "//fontdirectory.github.io/metal"
   }, 
   {
     "url": "git@github.com:fontdirectory/metalmania.git", 
     "path": "ofl/metalmania", 
-    "submodule": "metalmania"
+    "submodule": "metalmania", 
+    "gh_page": "//fontdirectory.github.io/metalmania"
   }, 
   {
     "url": "git@github.com:fontdirectory/metamorphous.git", 
     "path": "ofl/metamorphous", 
-    "submodule": "metamorphous"
+    "submodule": "metamorphous", 
+    "gh_page": "//fontdirectory.github.io/metamorphous"
   }, 
   {
     "url": "git@github.com:fontdirectory/metrophobic.git", 
     "path": "ofl/metrophobic", 
-    "submodule": "metrophobic"
+    "submodule": "metrophobic", 
+    "gh_page": "//fontdirectory.github.io/metrophobic"
   }, 
   {
     "url": "git@github.com:fontdirectory/miama.git", 
     "path": "ofl/miama", 
-    "submodule": "miama"
+    "submodule": "miama", 
+    "gh_page": "//fontdirectory.github.io/miama"
   }, 
   {
     "url": "git@github.com:fontdirectory/michroma.git", 
     "path": "ofl/michroma", 
-    "submodule": "michroma"
+    "submodule": "michroma", 
+    "gh_page": "//fontdirectory.github.io/michroma"
   }, 
   {
     "url": "git@github.com:fontdirectory/milonga.git", 
     "path": "ofl/milonga", 
-    "submodule": "milonga"
+    "submodule": "milonga", 
+    "gh_page": "//fontdirectory.github.io/milonga"
   }, 
   {
     "url": "git@github.com:fontdirectory/miltonian.git", 
     "path": "ofl/miltonian", 
-    "submodule": "miltonian"
+    "submodule": "miltonian", 
+    "gh_page": "//fontdirectory.github.io/miltonian"
   }, 
   {
     "url": "git@github.com:fontdirectory/miltoniantattoo.git", 
     "path": "ofl/miltoniantattoo", 
-    "submodule": "miltoniantattoo"
+    "submodule": "miltoniantattoo", 
+    "gh_page": "//fontdirectory.github.io/miltoniantattoo"
   }, 
   {
     "url": "git@github.com:fontdirectory/miniver.git", 
     "path": "ofl/miniver", 
-    "submodule": "miniver"
+    "submodule": "miniver", 
+    "gh_page": "//fontdirectory.github.io/miniver"
   }, 
   {
     "url": "git@github.com:fontdirectory/missfajardose.git", 
     "path": "ofl/missfajardose", 
-    "submodule": "missfajardose"
+    "submodule": "missfajardose", 
+    "gh_page": "//fontdirectory.github.io/missfajardose"
   }, 
   {
     "url": "git@github.com:fontdirectory/misssaintdelafield.git", 
     "path": "ofl/misssaintdelafield", 
-    "submodule": "misssaintdelafield"
+    "submodule": "misssaintdelafield", 
+    "gh_page": "//fontdirectory.github.io/misssaintdelafield"
   }, 
   {
     "url": "git@github.com:fontdirectory/modernantiqua.git", 
     "path": "ofl/modernantiqua", 
-    "submodule": "modernantiqua"
+    "submodule": "modernantiqua", 
+    "gh_page": "//fontdirectory.github.io/modernantiqua"
   }, 
   {
     "url": "git@github.com:fontdirectory/molengo.git", 
     "path": "ofl/molengo", 
-    "submodule": "molengo"
+    "submodule": "molengo", 
+    "gh_page": "//fontdirectory.github.io/molengo"
   }, 
   {
     "url": "git@github.com:fontdirectory/molle.git", 
     "path": "ofl/molle", 
-    "submodule": "molle"
+    "submodule": "molle", 
+    "gh_page": "//fontdirectory.github.io/molle"
   }, 
   {
     "url": "git@github.com:fontdirectory/monda.git", 
     "path": "ofl/monda", 
-    "submodule": "monda"
+    "submodule": "monda", 
+    "gh_page": "//fontdirectory.github.io/monda"
   }, 
   {
     "url": "git@github.com:fontdirectory/monofett.git", 
     "path": "ofl/monofett", 
-    "submodule": "monofett"
+    "submodule": "monofett", 
+    "gh_page": "//fontdirectory.github.io/monofett"
   }, 
   {
     "url": "git@github.com:fontdirectory/monoone.git", 
     "path": "ofl/monoone", 
-    "submodule": "monoone"
+    "submodule": "monoone", 
+    "gh_page": "//fontdirectory.github.io/monoone"
   }, 
   {
     "url": "git@github.com:fontdirectory/monoton.git", 
     "path": "ofl/monoton", 
-    "submodule": "monoton"
+    "submodule": "monoton", 
+    "gh_page": "//fontdirectory.github.io/monoton"
   }, 
   {
     "url": "git@github.com:fontdirectory/monsieurladoulaise.git", 
     "path": "ofl/monsieurladoulaise", 
-    "submodule": "monsieurladoulaise"
+    "submodule": "monsieurladoulaise", 
+    "gh_page": "//fontdirectory.github.io/monsieurladoulaise"
   }, 
   {
     "url": "git@github.com:fontdirectory/montaga.git", 
     "path": "ofl/montaga", 
-    "submodule": "montaga"
+    "submodule": "montaga", 
+    "gh_page": "//fontdirectory.github.io/montaga"
   }, 
   {
     "url": "git@github.com:fontdirectory/montserrat.git", 
     "path": "ofl/montserrat", 
-    "submodule": "montserrat"
+    "submodule": "montserrat", 
+    "gh_page": "//fontdirectory.github.io/montserrat"
   }, 
   {
     "url": "git@github.com:fontdirectory/montserratalternates.git", 
     "path": "ofl/montserratalternates", 
-    "submodule": "montserratalternates"
+    "submodule": "montserratalternates", 
+    "gh_page": "//fontdirectory.github.io/montserratalternates"
   }, 
   {
     "url": "git@github.com:fontdirectory/montserratsubrayada.git", 
     "path": "ofl/montserratsubrayada", 
-    "submodule": "montserratsubrayada"
+    "submodule": "montserratsubrayada", 
+    "gh_page": "//fontdirectory.github.io/montserratsubrayada"
   }, 
   {
     "url": "git@github.com:fontdirectory/moul.git", 
     "path": "ofl/moul", 
-    "submodule": "moul"
+    "submodule": "moul", 
+    "gh_page": "//fontdirectory.github.io/moul"
   }, 
   {
     "url": "git@github.com:fontdirectory/moulpali.git", 
     "path": "ofl/moulpali", 
-    "submodule": "moulpali"
+    "submodule": "moulpali", 
+    "gh_page": "//fontdirectory.github.io/moulpali"
   }, 
   {
     "url": "git@github.com:fontdirectory/mousememoirs.git", 
     "path": "ofl/mousememoirs", 
-    "submodule": "mousememoirs"
+    "submodule": "mousememoirs", 
+    "gh_page": "//fontdirectory.github.io/mousememoirs"
   }, 
   {
     "url": "git@github.com:fontdirectory/mrbedford.git", 
     "path": "ofl/mrbedford", 
-    "submodule": "mrbedford"
+    "submodule": "mrbedford", 
+    "gh_page": "//fontdirectory.github.io/mrbedford"
   }, 
   {
     "url": "git@github.com:fontdirectory/mrbedfort.git", 
     "path": "ofl/mrbedfort", 
-    "submodule": "mrbedfort"
+    "submodule": "mrbedfort", 
+    "gh_page": "//fontdirectory.github.io/mrbedfort"
   }, 
   {
     "url": "git@github.com:fontdirectory/mrdafoe.git", 
     "path": "ofl/mrdafoe", 
-    "submodule": "mrdafoe"
+    "submodule": "mrdafoe", 
+    "gh_page": "//fontdirectory.github.io/mrdafoe"
   }, 
   {
     "url": "git@github.com:fontdirectory/mrdehaviland.git", 
     "path": "ofl/mrdehaviland", 
-    "submodule": "mrdehaviland"
+    "submodule": "mrdehaviland", 
+    "gh_page": "//fontdirectory.github.io/mrdehaviland"
   }, 
   {
     "url": "git@github.com:fontdirectory/mrssaintdelafield.git", 
     "path": "ofl/mrssaintdelafield", 
-    "submodule": "mrssaintdelafield"
+    "submodule": "mrssaintdelafield", 
+    "gh_page": "//fontdirectory.github.io/mrssaintdelafield"
   }, 
   {
     "url": "git@github.com:fontdirectory/mrssheppards.git", 
     "path": "ofl/mrssheppards", 
-    "submodule": "mrssheppards"
+    "submodule": "mrssheppards", 
+    "gh_page": "//fontdirectory.github.io/mrssheppards"
   }, 
   {
     "url": "git@github.com:fontdirectory/muli.git", 
     "path": "ofl/muli", 
-    "submodule": "muli"
+    "submodule": "muli", 
+    "gh_page": "//fontdirectory.github.io/muli"
   }, 
   {
     "url": "git@github.com:fontdirectory/myanmarsanspro.git", 
     "path": "ofl/myanmarsanspro", 
-    "submodule": "myanmarsanspro"
+    "submodule": "myanmarsanspro", 
+    "gh_page": "//fontdirectory.github.io/myanmarsanspro"
   }, 
   {
     "url": "git@github.com:fontdirectory/mysteryquest.git", 
     "path": "ofl/mysteryquest", 
-    "submodule": "mysteryquest"
+    "submodule": "mysteryquest", 
+    "gh_page": "//fontdirectory.github.io/mysteryquest"
   }, 
   {
     "url": "git@github.com:fontdirectory/nanumbrushscript.git", 
     "path": "ofl/nanumbrushscript", 
-    "submodule": "nanumbrushscript"
+    "submodule": "nanumbrushscript", 
+    "gh_page": "//fontdirectory.github.io/nanumbrushscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/nanumgothic.git", 
     "path": "ofl/nanumgothic", 
-    "submodule": "nanumgothic"
+    "submodule": "nanumgothic", 
+    "gh_page": "//fontdirectory.github.io/nanumgothic"
   }, 
   {
     "url": "git@github.com:fontdirectory/nanumgothiccoding.git", 
     "path": "ofl/nanumgothiccoding", 
-    "submodule": "nanumgothiccoding"
+    "submodule": "nanumgothiccoding", 
+    "gh_page": "//fontdirectory.github.io/nanumgothiccoding"
   }, 
   {
     "url": "git@github.com:fontdirectory/nanummyeongjo.git", 
     "path": "ofl/nanummyeongjo", 
-    "submodule": "nanummyeongjo"
+    "submodule": "nanummyeongjo", 
+    "gh_page": "//fontdirectory.github.io/nanummyeongjo"
   }, 
   {
     "url": "git@github.com:fontdirectory/nanumpenscript.git", 
     "path": "ofl/nanumpenscript", 
-    "submodule": "nanumpenscript"
+    "submodule": "nanumpenscript", 
+    "gh_page": "//fontdirectory.github.io/nanumpenscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/neucha.git", 
     "path": "ofl/neucha", 
-    "submodule": "neucha"
+    "submodule": "neucha", 
+    "gh_page": "//fontdirectory.github.io/neucha"
   }, 
   {
     "url": "git@github.com:fontdirectory/neuton.git", 
     "path": "ofl/neuton", 
-    "submodule": "neuton"
+    "submodule": "neuton", 
+    "gh_page": "//fontdirectory.github.io/neuton"
   }, 
   {
     "url": "git@github.com:fontdirectory/newrocker.git", 
     "path": "ofl/newrocker", 
-    "submodule": "newrocker"
+    "submodule": "newrocker", 
+    "gh_page": "//fontdirectory.github.io/newrocker"
   }, 
   {
     "url": "git@github.com:fontdirectory/newscycle.git", 
     "path": "ofl/newscycle", 
-    "submodule": "newscycle"
+    "submodule": "newscycle", 
+    "gh_page": "//fontdirectory.github.io/newscycle"
   }, 
   {
     "url": "git@github.com:fontdirectory/niconne.git", 
     "path": "ofl/niconne", 
-    "submodule": "niconne"
+    "submodule": "niconne", 
+    "gh_page": "//fontdirectory.github.io/niconne"
   }, 
   {
     "url": "git@github.com:fontdirectory/nixieone.git", 
     "path": "ofl/nixieone", 
-    "submodule": "nixieone"
+    "submodule": "nixieone", 
+    "gh_page": "//fontdirectory.github.io/nixieone"
   }, 
   {
     "url": "git@github.com:fontdirectory/nobile.git", 
     "path": "ofl/nobile", 
-    "submodule": "nobile"
+    "submodule": "nobile", 
+    "gh_page": "//fontdirectory.github.io/nobile"
   }, 
   {
     "url": "git@github.com:fontdirectory/norican.git", 
     "path": "ofl/norican", 
-    "submodule": "norican"
+    "submodule": "norican", 
+    "gh_page": "//fontdirectory.github.io/norican"
   }, 
   {
     "url": "git@github.com:fontdirectory/nosifer.git", 
     "path": "ofl/nosifer", 
-    "submodule": "nosifer"
+    "submodule": "nosifer", 
+    "gh_page": "//fontdirectory.github.io/nosifer"
   }, 
   {
     "url": "git@github.com:fontdirectory/nosifercaps.git", 
     "path": "ofl/nosifercaps", 
-    "submodule": "nosifercaps"
+    "submodule": "nosifercaps", 
+    "gh_page": "//fontdirectory.github.io/nosifercaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/nothingyoucoulddo.git", 
     "path": "ofl/nothingyoucoulddo", 
-    "submodule": "nothingyoucoulddo"
+    "submodule": "nothingyoucoulddo", 
+    "gh_page": "//fontdirectory.github.io/nothingyoucoulddo"
   }, 
   {
     "url": "git@github.com:fontdirectory/noticiatext.git", 
     "path": "ofl/noticiatext", 
-    "submodule": "noticiatext"
+    "submodule": "noticiatext", 
+    "gh_page": "//fontdirectory.github.io/noticiatext"
   }, 
   {
     "url": "git@github.com:fontdirectory/novacut.git", 
     "path": "ofl/novacut", 
-    "submodule": "novacut"
+    "submodule": "novacut", 
+    "gh_page": "//fontdirectory.github.io/novacut"
   }, 
   {
     "url": "git@github.com:fontdirectory/novaflat.git", 
     "path": "ofl/novaflat", 
-    "submodule": "novaflat"
+    "submodule": "novaflat", 
+    "gh_page": "//fontdirectory.github.io/novaflat"
   }, 
   {
     "url": "git@github.com:fontdirectory/novamono.git", 
     "path": "ofl/novamono", 
-    "submodule": "novamono"
+    "submodule": "novamono", 
+    "gh_page": "//fontdirectory.github.io/novamono"
   }, 
   {
     "url": "git@github.com:fontdirectory/novaoval.git", 
     "path": "ofl/novaoval", 
-    "submodule": "novaoval"
+    "submodule": "novaoval", 
+    "gh_page": "//fontdirectory.github.io/novaoval"
   }, 
   {
     "url": "git@github.com:fontdirectory/novaround.git", 
     "path": "ofl/novaround", 
-    "submodule": "novaround"
+    "submodule": "novaround", 
+    "gh_page": "//fontdirectory.github.io/novaround"
   }, 
   {
     "url": "git@github.com:fontdirectory/novascript.git", 
     "path": "ofl/novascript", 
-    "submodule": "novascript"
+    "submodule": "novascript", 
+    "gh_page": "//fontdirectory.github.io/novascript"
   }, 
   {
     "url": "git@github.com:fontdirectory/novaslim.git", 
     "path": "ofl/novaslim", 
-    "submodule": "novaslim"
+    "submodule": "novaslim", 
+    "gh_page": "//fontdirectory.github.io/novaslim"
   }, 
   {
     "url": "git@github.com:fontdirectory/novasquare.git", 
     "path": "ofl/novasquare", 
-    "submodule": "novasquare"
+    "submodule": "novasquare", 
+    "gh_page": "//fontdirectory.github.io/novasquare"
   }, 
   {
     "url": "git@github.com:fontdirectory/numans.git", 
     "path": "ofl/numans", 
-    "submodule": "numans"
+    "submodule": "numans", 
+    "gh_page": "//fontdirectory.github.io/numans"
   }, 
   {
     "url": "git@github.com:fontdirectory/nunito.git", 
     "path": "ofl/nunito", 
-    "submodule": "nunito"
+    "submodule": "nunito", 
+    "gh_page": "//fontdirectory.github.io/nunito"
   }, 
   {
     "url": "git@github.com:fontdirectory/odormeanchey.git", 
     "path": "ofl/odormeanchey", 
-    "submodule": "odormeanchey"
+    "submodule": "odormeanchey", 
+    "gh_page": "//fontdirectory.github.io/odormeanchey"
   }, 
   {
     "url": "git@github.com:fontdirectory/offside.git", 
     "path": "ofl/offside", 
-    "submodule": "offside"
+    "submodule": "offside", 
+    "gh_page": "//fontdirectory.github.io/offside"
   }, 
   {
     "url": "git@github.com:fontdirectory/oflsortsmillgoudytt.git", 
     "path": "ofl/oflsortsmillgoudytt", 
-    "submodule": "oflsortsmillgoudytt"
+    "submodule": "oflsortsmillgoudytt", 
+    "gh_page": "//fontdirectory.github.io/oflsortsmillgoudytt"
   }, 
   {
     "url": "git@github.com:fontdirectory/oldenburg.git", 
     "path": "ofl/oldenburg", 
-    "submodule": "oldenburg"
+    "submodule": "oldenburg", 
+    "gh_page": "//fontdirectory.github.io/oldenburg"
   }, 
   {
     "url": "git@github.com:fontdirectory/oldstandardtt.git", 
     "path": "ofl/oldstandardtt", 
-    "submodule": "oldstandardtt"
+    "submodule": "oldstandardtt", 
+    "gh_page": "//fontdirectory.github.io/oldstandardtt"
   }, 
   {
     "url": "git@github.com:fontdirectory/oleoscript.git", 
     "path": "ofl/oleoscript", 
-    "submodule": "oleoscript"
+    "submodule": "oleoscript", 
+    "gh_page": "//fontdirectory.github.io/oleoscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/oleoscriptswashcaps.git", 
     "path": "ofl/oleoscriptswashcaps", 
-    "submodule": "oleoscriptswashcaps"
+    "submodule": "oleoscriptswashcaps", 
+    "gh_page": "//fontdirectory.github.io/oleoscriptswashcaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/oranienbaum.git", 
     "path": "ofl/oranienbaum", 
-    "submodule": "oranienbaum"
+    "submodule": "oranienbaum", 
+    "gh_page": "//fontdirectory.github.io/oranienbaum"
   }, 
   {
     "url": "git@github.com:fontdirectory/orbitron.git", 
     "path": "ofl/orbitron", 
-    "submodule": "orbitron"
+    "submodule": "orbitron", 
+    "gh_page": "//fontdirectory.github.io/orbitron"
   }, 
   {
     "url": "git@github.com:fontdirectory/oregano.git", 
     "path": "ofl/oregano", 
-    "submodule": "oregano"
+    "submodule": "oregano", 
+    "gh_page": "//fontdirectory.github.io/oregano"
   }, 
   {
     "url": "git@github.com:fontdirectory/orienta.git", 
     "path": "ofl/orienta", 
-    "submodule": "orienta"
+    "submodule": "orienta", 
+    "gh_page": "//fontdirectory.github.io/orienta"
   }, 
   {
     "url": "git@github.com:fontdirectory/originalsurfer.git", 
     "path": "ofl/originalsurfer", 
-    "submodule": "originalsurfer"
+    "submodule": "originalsurfer", 
+    "gh_page": "//fontdirectory.github.io/originalsurfer"
   }, 
   {
     "url": "git@github.com:fontdirectory/oswald.git", 
     "path": "ofl/oswald", 
-    "submodule": "oswald"
+    "submodule": "oswald", 
+    "gh_page": "//fontdirectory.github.io/oswald"
   }, 
   {
     "url": "git@github.com:fontdirectory/overlock.git", 
     "path": "ofl/overlock", 
-    "submodule": "overlock"
+    "submodule": "overlock", 
+    "gh_page": "//fontdirectory.github.io/overlock"
   }, 
   {
     "url": "git@github.com:fontdirectory/overlocksc.git", 
     "path": "ofl/overlocksc", 
-    "submodule": "overlocksc"
+    "submodule": "overlocksc", 
+    "gh_page": "//fontdirectory.github.io/overlocksc"
   }, 
   {
     "url": "git@github.com:fontdirectory/overtherainbow.git", 
     "path": "ofl/overtherainbow", 
-    "submodule": "overtherainbow"
+    "submodule": "overtherainbow", 
+    "gh_page": "//fontdirectory.github.io/overtherainbow"
   }, 
   {
     "url": "git@github.com:fontdirectory/ovo.git", 
     "path": "ofl/ovo", 
-    "submodule": "ovo"
+    "submodule": "ovo", 
+    "gh_page": "//fontdirectory.github.io/ovo"
   }, 
   {
     "url": "git@github.com:fontdirectory/oxygen.git", 
     "path": "ofl/oxygen", 
-    "submodule": "oxygen"
+    "submodule": "oxygen", 
+    "gh_page": "//fontdirectory.github.io/oxygen"
   }, 
   {
     "url": "git@github.com:fontdirectory/oxygenmono.git", 
     "path": "ofl/oxygenmono", 
-    "submodule": "oxygenmono"
+    "submodule": "oxygenmono", 
+    "gh_page": "//fontdirectory.github.io/oxygenmono"
   }, 
   {
     "url": "git@github.com:fontdirectory/pacifico.git", 
     "path": "ofl/pacifico", 
-    "submodule": "pacifico"
+    "submodule": "pacifico", 
+    "gh_page": "//fontdirectory.github.io/pacifico"
   }, 
   {
     "url": "git@github.com:fontdirectory/padauk.git", 
     "path": "ofl/padauk", 
-    "submodule": "padauk"
+    "submodule": "padauk", 
+    "gh_page": "//fontdirectory.github.io/padauk"
   }, 
   {
     "url": "git@github.com:fontdirectory/paprika.git", 
     "path": "ofl/paprika", 
-    "submodule": "paprika"
+    "submodule": "paprika", 
+    "gh_page": "//fontdirectory.github.io/paprika"
   }, 
   {
     "url": "git@github.com:fontdirectory/parisienne.git", 
     "path": "ofl/parisienne", 
-    "submodule": "parisienne"
+    "submodule": "parisienne", 
+    "gh_page": "//fontdirectory.github.io/parisienne"
   }, 
   {
     "url": "git@github.com:fontdirectory/passeroone.git", 
     "path": "ofl/passeroone", 
-    "submodule": "passeroone"
+    "submodule": "passeroone", 
+    "gh_page": "//fontdirectory.github.io/passeroone"
   }, 
   {
     "url": "git@github.com:fontdirectory/passionone.git", 
     "path": "ofl/passionone", 
-    "submodule": "passionone"
+    "submodule": "passionone", 
+    "gh_page": "//fontdirectory.github.io/passionone"
   }, 
   {
     "url": "git@github.com:fontdirectory/pathwaygothicone.git", 
     "path": "ofl/pathwaygothicone", 
-    "submodule": "pathwaygothicone"
+    "submodule": "pathwaygothicone", 
+    "gh_page": "//fontdirectory.github.io/pathwaygothicone"
   }, 
   {
     "url": "git@github.com:fontdirectory/patrickhand.git", 
     "path": "ofl/patrickhand", 
-    "submodule": "patrickhand"
+    "submodule": "patrickhand", 
+    "gh_page": "//fontdirectory.github.io/patrickhand"
   }, 
   {
     "url": "git@github.com:fontdirectory/patrickhandsc.git", 
     "path": "ofl/patrickhandsc", 
-    "submodule": "patrickhandsc"
+    "submodule": "patrickhandsc", 
+    "gh_page": "//fontdirectory.github.io/patrickhandsc"
   }, 
   {
     "url": "git@github.com:fontdirectory/patuaone.git", 
     "path": "ofl/patuaone", 
-    "submodule": "patuaone"
+    "submodule": "patuaone", 
+    "gh_page": "//fontdirectory.github.io/patuaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/paytoneone.git", 
     "path": "ofl/paytoneone", 
-    "submodule": "paytoneone"
+    "submodule": "paytoneone", 
+    "gh_page": "//fontdirectory.github.io/paytoneone"
   }, 
   {
     "url": "git@github.com:fontdirectory/pecita.git", 
     "path": "ofl/pecita", 
-    "submodule": "pecita"
+    "submodule": "pecita", 
+    "gh_page": "//fontdirectory.github.io/pecita"
   }, 
   {
     "url": "git@github.com:fontdirectory/peralta.git", 
     "path": "ofl/peralta", 
-    "submodule": "peralta"
+    "submodule": "peralta", 
+    "gh_page": "//fontdirectory.github.io/peralta"
   }, 
   {
     "url": "git@github.com:fontdirectory/petitformalscript.git", 
     "path": "ofl/petitformalscript", 
-    "submodule": "petitformalscript"
+    "submodule": "petitformalscript", 
+    "gh_page": "//fontdirectory.github.io/petitformalscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/petrona.git", 
     "path": "ofl/petrona", 
-    "submodule": "petrona"
+    "submodule": "petrona", 
+    "gh_page": "//fontdirectory.github.io/petrona"
   }, 
   {
     "url": "git@github.com:fontdirectory/phetsarath.git", 
     "path": "ofl/phetsarath", 
-    "submodule": "phetsarath"
+    "submodule": "phetsarath", 
+    "gh_page": "//fontdirectory.github.io/phetsarath"
   }, 
   {
     "url": "git@github.com:fontdirectory/philosopher.git", 
     "path": "ofl/philosopher", 
-    "submodule": "philosopher"
+    "submodule": "philosopher", 
+    "gh_page": "//fontdirectory.github.io/philosopher"
   }, 
   {
     "url": "git@github.com:fontdirectory/piedra.git", 
     "path": "ofl/piedra", 
-    "submodule": "piedra"
+    "submodule": "piedra", 
+    "gh_page": "//fontdirectory.github.io/piedra"
   }, 
   {
     "url": "git@github.com:fontdirectory/pinyonscript.git", 
     "path": "ofl/pinyonscript", 
-    "submodule": "pinyonscript"
+    "submodule": "pinyonscript", 
+    "gh_page": "//fontdirectory.github.io/pinyonscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/pirataone.git", 
     "path": "ofl/pirataone", 
-    "submodule": "pirataone"
+    "submodule": "pirataone", 
+    "gh_page": "//fontdirectory.github.io/pirataone"
   }, 
   {
     "url": "git@github.com:fontdirectory/plaster.git", 
     "path": "ofl/plaster", 
-    "submodule": "plaster"
+    "submodule": "plaster", 
+    "gh_page": "//fontdirectory.github.io/plaster"
   }, 
   {
     "url": "git@github.com:fontdirectory/play.git", 
     "path": "ofl/play", 
-    "submodule": "play"
+    "submodule": "play", 
+    "gh_page": "//fontdirectory.github.io/play"
   }, 
   {
     "url": "git@github.com:fontdirectory/playball.git", 
     "path": "ofl/playball", 
-    "submodule": "playball"
+    "submodule": "playball", 
+    "gh_page": "//fontdirectory.github.io/playball"
   }, 
   {
     "url": "git@github.com:fontdirectory/playfairdisplay.git", 
     "path": "ofl/playfairdisplay", 
-    "submodule": "playfairdisplay"
+    "submodule": "playfairdisplay", 
+    "gh_page": "//fontdirectory.github.io/playfairdisplay"
   }, 
   {
     "url": "git@github.com:fontdirectory/playfairdisplaysc.git", 
     "path": "ofl/playfairdisplaysc", 
-    "submodule": "playfairdisplaysc"
+    "submodule": "playfairdisplaysc", 
+    "gh_page": "//fontdirectory.github.io/playfairdisplaysc"
   }, 
   {
     "url": "git@github.com:fontdirectory/podkova.git", 
     "path": "ofl/podkova", 
-    "submodule": "podkova"
+    "submodule": "podkova", 
+    "gh_page": "//fontdirectory.github.io/podkova"
   }, 
   {
     "url": "git@github.com:fontdirectory/poetsenone.git", 
     "path": "ofl/poetsenone", 
-    "submodule": "poetsenone"
+    "submodule": "poetsenone", 
+    "gh_page": "//fontdirectory.github.io/poetsenone"
   }, 
   {
     "url": "git@github.com:fontdirectory/poiretone.git", 
     "path": "ofl/poiretone", 
-    "submodule": "poiretone"
+    "submodule": "poiretone", 
+    "gh_page": "//fontdirectory.github.io/poiretone"
   }, 
   {
     "url": "git@github.com:fontdirectory/pollerone.git", 
     "path": "ofl/pollerone", 
-    "submodule": "pollerone"
+    "submodule": "pollerone", 
+    "gh_page": "//fontdirectory.github.io/pollerone"
   }, 
   {
     "url": "git@github.com:fontdirectory/poly.git", 
     "path": "ofl/poly", 
-    "submodule": "poly"
+    "submodule": "poly", 
+    "gh_page": "//fontdirectory.github.io/poly"
   }, 
   {
     "url": "git@github.com:fontdirectory/pompiere.git", 
     "path": "ofl/pompiere", 
-    "submodule": "pompiere"
+    "submodule": "pompiere", 
+    "gh_page": "//fontdirectory.github.io/pompiere"
   }, 
   {
     "url": "git@github.com:fontdirectory/pontanosans.git", 
     "path": "ofl/pontanosans", 
-    "submodule": "pontanosans"
+    "submodule": "pontanosans", 
+    "gh_page": "//fontdirectory.github.io/pontanosans"
   }, 
   {
     "url": "git@github.com:fontdirectory/portersansblock.git", 
     "path": "ofl/portersansblock", 
-    "submodule": "portersansblock"
+    "submodule": "portersansblock", 
+    "gh_page": "//fontdirectory.github.io/portersansblock"
   }, 
   {
     "url": "git@github.com:fontdirectory/portlligatsans.git", 
     "path": "ofl/portlligatsans", 
-    "submodule": "portlligatsans"
+    "submodule": "portlligatsans", 
+    "gh_page": "//fontdirectory.github.io/portlligatsans"
   }, 
   {
     "url": "git@github.com:fontdirectory/portlligatslab.git", 
     "path": "ofl/portlligatslab", 
-    "submodule": "portlligatslab"
+    "submodule": "portlligatslab", 
+    "gh_page": "//fontdirectory.github.io/portlligatslab"
   }, 
   {
     "url": "git@github.com:fontdirectory/prata.git", 
     "path": "ofl/prata", 
-    "submodule": "prata"
+    "submodule": "prata", 
+    "gh_page": "//fontdirectory.github.io/prata"
   }, 
   {
     "url": "git@github.com:fontdirectory/preahvihear.git", 
     "path": "ofl/preahvihear", 
-    "submodule": "preahvihear"
+    "submodule": "preahvihear", 
+    "gh_page": "//fontdirectory.github.io/preahvihear"
   }, 
   {
     "url": "git@github.com:fontdirectory/pressstart2p.git", 
     "path": "ofl/pressstart2p", 
-    "submodule": "pressstart2p"
+    "submodule": "pressstart2p", 
+    "gh_page": "//fontdirectory.github.io/pressstart2p"
   }, 
   {
     "url": "git@github.com:fontdirectory/princesssofia.git", 
     "path": "ofl/princesssofia", 
-    "submodule": "princesssofia"
+    "submodule": "princesssofia", 
+    "gh_page": "//fontdirectory.github.io/princesssofia"
   }, 
   {
     "url": "git@github.com:fontdirectory/prociono.git", 
     "path": "ofl/prociono", 
-    "submodule": "prociono"
+    "submodule": "prociono", 
+    "gh_page": "//fontdirectory.github.io/prociono"
   }, 
   {
     "url": "git@github.com:fontdirectory/prostoone.git", 
     "path": "ofl/prostoone", 
-    "submodule": "prostoone"
+    "submodule": "prostoone", 
+    "gh_page": "//fontdirectory.github.io/prostoone"
   }, 
   {
     "url": "git@github.com:fontdirectory/ptmono.git", 
     "path": "ofl/ptmono", 
-    "submodule": "ptmono"
+    "submodule": "ptmono", 
+    "gh_page": "//fontdirectory.github.io/ptmono"
   }, 
   {
     "url": "git@github.com:fontdirectory/ptsans.git", 
     "path": "ofl/ptsans", 
-    "submodule": "ptsans"
+    "submodule": "ptsans", 
+    "gh_page": "//fontdirectory.github.io/ptsans"
   }, 
   {
     "url": "git@github.com:fontdirectory/ptsanscaption.git", 
     "path": "ofl/ptsanscaption", 
-    "submodule": "ptsanscaption"
+    "submodule": "ptsanscaption", 
+    "gh_page": "//fontdirectory.github.io/ptsanscaption"
   }, 
   {
     "url": "git@github.com:fontdirectory/ptsansnarrow.git", 
     "path": "ofl/ptsansnarrow", 
-    "submodule": "ptsansnarrow"
+    "submodule": "ptsansnarrow", 
+    "gh_page": "//fontdirectory.github.io/ptsansnarrow"
   }, 
   {
     "url": "git@github.com:fontdirectory/ptserif.git", 
     "path": "ofl/ptserif", 
-    "submodule": "ptserif"
+    "submodule": "ptserif", 
+    "gh_page": "//fontdirectory.github.io/ptserif"
   }, 
   {
     "url": "git@github.com:fontdirectory/ptserifcaption.git", 
     "path": "ofl/ptserifcaption", 
-    "submodule": "ptserifcaption"
+    "submodule": "ptserifcaption", 
+    "gh_page": "//fontdirectory.github.io/ptserifcaption"
   }, 
   {
     "url": "git@github.com:fontdirectory/puritan.git", 
     "path": "ofl/puritan", 
-    "submodule": "puritan"
+    "submodule": "puritan", 
+    "gh_page": "//fontdirectory.github.io/puritan"
   }, 
   {
     "url": "git@github.com:fontdirectory/purplepurse.git", 
     "path": "ofl/purplepurse", 
-    "submodule": "purplepurse"
+    "submodule": "purplepurse", 
+    "gh_page": "//fontdirectory.github.io/purplepurse"
   }, 
   {
     "url": "git@github.com:fontdirectory/quando.git", 
     "path": "ofl/quando", 
-    "submodule": "quando"
+    "submodule": "quando", 
+    "gh_page": "//fontdirectory.github.io/quando"
   }, 
   {
     "url": "git@github.com:fontdirectory/quantico.git", 
     "path": "ofl/quantico", 
-    "submodule": "quantico"
+    "submodule": "quantico", 
+    "gh_page": "//fontdirectory.github.io/quantico"
   }, 
   {
     "url": "git@github.com:fontdirectory/quattrocento.git", 
     "path": "ofl/quattrocento", 
-    "submodule": "quattrocento"
+    "submodule": "quattrocento", 
+    "gh_page": "//fontdirectory.github.io/quattrocento"
   }, 
   {
     "url": "git@github.com:fontdirectory/quattrocentosans.git", 
     "path": "ofl/quattrocentosans", 
-    "submodule": "quattrocentosans"
+    "submodule": "quattrocentosans", 
+    "gh_page": "//fontdirectory.github.io/quattrocentosans"
   }, 
   {
     "url": "git@github.com:fontdirectory/questrial.git", 
     "path": "ofl/questrial", 
-    "submodule": "questrial"
+    "submodule": "questrial", 
+    "gh_page": "//fontdirectory.github.io/questrial"
   }, 
   {
     "url": "git@github.com:fontdirectory/quicksand.git", 
     "path": "ofl/quicksand", 
-    "submodule": "quicksand"
+    "submodule": "quicksand", 
+    "gh_page": "//fontdirectory.github.io/quicksand"
   }, 
   {
     "url": "git@github.com:fontdirectory/quintessential.git", 
     "path": "ofl/quintessential", 
-    "submodule": "quintessential"
+    "submodule": "quintessential", 
+    "gh_page": "//fontdirectory.github.io/quintessential"
   }, 
   {
     "url": "git@github.com:fontdirectory/qwigley.git", 
     "path": "ofl/qwigley", 
-    "submodule": "qwigley"
+    "submodule": "qwigley", 
+    "gh_page": "//fontdirectory.github.io/qwigley"
   }, 
   {
     "url": "git@github.com:fontdirectory/racingsansone.git", 
     "path": "ofl/racingsansone", 
-    "submodule": "racingsansone"
+    "submodule": "racingsansone", 
+    "gh_page": "//fontdirectory.github.io/racingsansone"
   }, 
   {
     "url": "git@github.com:fontdirectory/radley.git", 
     "path": "ofl/radley", 
-    "submodule": "radley"
+    "submodule": "radley", 
+    "gh_page": "//fontdirectory.github.io/radley"
   }, 
   {
     "url": "git@github.com:fontdirectory/rajdhani.git", 
     "path": "ofl/rajdhani", 
-    "submodule": "rajdhani"
+    "submodule": "rajdhani", 
+    "gh_page": "//fontdirectory.github.io/rajdhani"
   }, 
   {
     "url": "git@github.com:fontdirectory/raleway.git", 
     "path": "ofl/raleway", 
-    "submodule": "raleway"
+    "submodule": "raleway", 
+    "gh_page": "//fontdirectory.github.io/raleway"
   }, 
   {
     "url": "git@github.com:fontdirectory/raleway-old.git", 
     "path": "ofl/raleway-old", 
-    "submodule": "raleway-old"
+    "submodule": "raleway-old", 
+    "gh_page": "//fontdirectory.github.io/raleway-old"
   }, 
   {
     "url": "git@github.com:fontdirectory/ralewaydots.git", 
     "path": "ofl/ralewaydots", 
-    "submodule": "ralewaydots"
+    "submodule": "ralewaydots", 
+    "gh_page": "//fontdirectory.github.io/ralewaydots"
   }, 
   {
     "url": "git@github.com:fontdirectory/rambla.git", 
     "path": "ofl/rambla", 
-    "submodule": "rambla"
+    "submodule": "rambla", 
+    "gh_page": "//fontdirectory.github.io/rambla"
   }, 
   {
     "url": "git@github.com:fontdirectory/rammettoone.git", 
     "path": "ofl/rammettoone", 
-    "submodule": "rammettoone"
+    "submodule": "rammettoone", 
+    "gh_page": "//fontdirectory.github.io/rammettoone"
   }, 
   {
     "url": "git@github.com:fontdirectory/ranchers.git", 
     "path": "ofl/ranchers", 
-    "submodule": "ranchers"
+    "submodule": "ranchers", 
+    "gh_page": "//fontdirectory.github.io/ranchers"
   }, 
   {
     "url": "git@github.com:fontdirectory/rationale.git", 
     "path": "ofl/rationale", 
-    "submodule": "rationale"
+    "submodule": "rationale", 
+    "gh_page": "//fontdirectory.github.io/rationale"
   }, 
   {
     "url": "git@github.com:fontdirectory/redacted.git", 
     "path": "ofl/redacted", 
-    "submodule": "redacted"
+    "submodule": "redacted", 
+    "gh_page": "//fontdirectory.github.io/redacted"
   }, 
   {
     "url": "git@github.com:fontdirectory/redactedscript.git", 
     "path": "ofl/redactedscript", 
-    "submodule": "redactedscript"
+    "submodule": "redactedscript", 
+    "gh_page": "//fontdirectory.github.io/redactedscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/reeniebeanie.git", 
     "path": "ofl/reeniebeanie", 
-    "submodule": "reeniebeanie"
+    "submodule": "reeniebeanie", 
+    "gh_page": "//fontdirectory.github.io/reeniebeanie"
   }, 
   {
     "url": "git@github.com:fontdirectory/revalia.git", 
     "path": "ofl/revalia", 
-    "submodule": "revalia"
+    "submodule": "revalia", 
+    "gh_page": "//fontdirectory.github.io/revalia"
   }, 
   {
     "url": "git@github.com:fontdirectory/ribeye.git", 
     "path": "ofl/ribeye", 
-    "submodule": "ribeye"
+    "submodule": "ribeye", 
+    "gh_page": "//fontdirectory.github.io/ribeye"
   }, 
   {
     "url": "git@github.com:fontdirectory/ribeyemarrow.git", 
     "path": "ofl/ribeyemarrow", 
-    "submodule": "ribeyemarrow"
+    "submodule": "ribeyemarrow", 
+    "gh_page": "//fontdirectory.github.io/ribeyemarrow"
   }, 
   {
     "url": "git@github.com:fontdirectory/righteous.git", 
     "path": "ofl/righteous", 
-    "submodule": "righteous"
+    "submodule": "righteous", 
+    "gh_page": "//fontdirectory.github.io/righteous"
   }, 
   {
     "url": "git@github.com:fontdirectory/risque.git", 
     "path": "ofl/risque", 
-    "submodule": "risque"
+    "submodule": "risque", 
+    "gh_page": "//fontdirectory.github.io/risque"
   }, 
   {
     "url": "git@github.com:fontdirectory/rokkitt.git", 
     "path": "ofl/rokkitt", 
-    "submodule": "rokkitt"
+    "submodule": "rokkitt", 
+    "gh_page": "//fontdirectory.github.io/rokkitt"
   }, 
   {
     "url": "git@github.com:fontdirectory/romanesco.git", 
     "path": "ofl/romanesco", 
-    "submodule": "romanesco"
+    "submodule": "romanesco", 
+    "gh_page": "//fontdirectory.github.io/romanesco"
   }, 
   {
     "url": "git@github.com:fontdirectory/ropasans.git", 
     "path": "ofl/ropasans", 
-    "submodule": "ropasans"
+    "submodule": "ropasans", 
+    "gh_page": "//fontdirectory.github.io/ropasans"
   }, 
   {
     "url": "git@github.com:fontdirectory/rosario.git", 
     "path": "ofl/rosario", 
-    "submodule": "rosario"
+    "submodule": "rosario", 
+    "gh_page": "//fontdirectory.github.io/rosario"
   }, 
   {
     "url": "git@github.com:fontdirectory/rosarivo.git", 
     "path": "ofl/rosarivo", 
-    "submodule": "rosarivo"
+    "submodule": "rosarivo", 
+    "gh_page": "//fontdirectory.github.io/rosarivo"
   }, 
   {
     "url": "git@github.com:fontdirectory/rougescript.git", 
     "path": "ofl/rougescript", 
-    "submodule": "rougescript"
+    "submodule": "rougescript", 
+    "gh_page": "//fontdirectory.github.io/rougescript"
   }, 
   {
     "url": "git@github.com:fontdirectory/rozhaone.git", 
     "path": "ofl/rozhaone", 
-    "submodule": "rozhaone"
+    "submodule": "rozhaone", 
+    "gh_page": "//fontdirectory.github.io/rozhaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/rubikmonoone.git", 
     "path": "ofl/rubikmonoone", 
-    "submodule": "rubikmonoone"
+    "submodule": "rubikmonoone", 
+    "gh_page": "//fontdirectory.github.io/rubikmonoone"
   }, 
   {
     "url": "git@github.com:fontdirectory/rubikone.git", 
     "path": "ofl/rubikone", 
-    "submodule": "rubikone"
+    "submodule": "rubikone", 
+    "gh_page": "//fontdirectory.github.io/rubikone"
   }, 
   {
     "url": "git@github.com:fontdirectory/ruda.git", 
     "path": "ofl/ruda", 
-    "submodule": "ruda"
+    "submodule": "ruda", 
+    "gh_page": "//fontdirectory.github.io/ruda"
   }, 
   {
     "url": "git@github.com:fontdirectory/rufina.git", 
     "path": "ofl/rufina", 
-    "submodule": "rufina"
+    "submodule": "rufina", 
+    "gh_page": "//fontdirectory.github.io/rufina"
   }, 
   {
     "url": "git@github.com:fontdirectory/rugeboogie.git", 
     "path": "ofl/rugeboogie", 
-    "submodule": "rugeboogie"
+    "submodule": "rugeboogie", 
+    "gh_page": "//fontdirectory.github.io/rugeboogie"
   }, 
   {
     "url": "git@github.com:fontdirectory/ruluko.git", 
     "path": "ofl/ruluko", 
-    "submodule": "ruluko"
+    "submodule": "ruluko", 
+    "gh_page": "//fontdirectory.github.io/ruluko"
   }, 
   {
     "url": "git@github.com:fontdirectory/rumraisin.git", 
     "path": "ofl/rumraisin", 
-    "submodule": "rumraisin"
+    "submodule": "rumraisin", 
+    "gh_page": "//fontdirectory.github.io/rumraisin"
   }, 
   {
     "url": "git@github.com:fontdirectory/ruslandisplay.git", 
     "path": "ofl/ruslandisplay", 
-    "submodule": "ruslandisplay"
+    "submodule": "ruslandisplay", 
+    "gh_page": "//fontdirectory.github.io/ruslandisplay"
   }, 
   {
     "url": "git@github.com:fontdirectory/russoone.git", 
     "path": "ofl/russoone", 
-    "submodule": "russoone"
+    "submodule": "russoone", 
+    "gh_page": "//fontdirectory.github.io/russoone"
   }, 
   {
     "url": "git@github.com:fontdirectory/ruthie.git", 
     "path": "ofl/ruthie", 
-    "submodule": "ruthie"
+    "submodule": "ruthie", 
+    "gh_page": "//fontdirectory.github.io/ruthie"
   }, 
   {
     "url": "git@github.com:fontdirectory/rye.git", 
     "path": "ofl/rye", 
-    "submodule": "rye"
+    "submodule": "rye", 
+    "gh_page": "//fontdirectory.github.io/rye"
   }, 
   {
     "url": "git@github.com:fontdirectory/sacramento.git", 
     "path": "ofl/sacramento", 
-    "submodule": "sacramento"
+    "submodule": "sacramento", 
+    "gh_page": "//fontdirectory.github.io/sacramento"
   }, 
   {
     "url": "git@github.com:fontdirectory/sail.git", 
     "path": "ofl/sail", 
-    "submodule": "sail"
+    "submodule": "sail", 
+    "gh_page": "//fontdirectory.github.io/sail"
   }, 
   {
     "url": "git@github.com:fontdirectory/salsa.git", 
     "path": "ofl/salsa", 
-    "submodule": "salsa"
+    "submodule": "salsa", 
+    "gh_page": "//fontdirectory.github.io/salsa"
   }, 
   {
     "url": "git@github.com:fontdirectory/sanchez.git", 
     "path": "ofl/sanchez", 
-    "submodule": "sanchez"
+    "submodule": "sanchez", 
+    "gh_page": "//fontdirectory.github.io/sanchez"
   }, 
   {
     "url": "git@github.com:fontdirectory/sancreek.git", 
     "path": "ofl/sancreek", 
-    "submodule": "sancreek"
+    "submodule": "sancreek", 
+    "gh_page": "//fontdirectory.github.io/sancreek"
   }, 
   {
     "url": "git@github.com:fontdirectory/sansation.git", 
     "path": "ofl/sansation", 
-    "submodule": "sansation"
+    "submodule": "sansation", 
+    "gh_page": "//fontdirectory.github.io/sansation"
   }, 
   {
     "url": "git@github.com:fontdirectory/sansitaone.git", 
     "path": "ofl/sansitaone", 
-    "submodule": "sansitaone"
+    "submodule": "sansitaone", 
+    "gh_page": "//fontdirectory.github.io/sansitaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/sarabun.git", 
     "path": "ofl/sarabun", 
-    "submodule": "sarabun"
+    "submodule": "sarabun", 
+    "gh_page": "//fontdirectory.github.io/sarabun"
   }, 
   {
     "url": "git@github.com:fontdirectory/sarina.git", 
     "path": "ofl/sarina", 
-    "submodule": "sarina"
+    "submodule": "sarina", 
+    "gh_page": "//fontdirectory.github.io/sarina"
   }, 
   {
     "url": "git@github.com:fontdirectory/scada.git", 
     "path": "ofl/scada", 
-    "submodule": "scada"
+    "submodule": "scada", 
+    "gh_page": "//fontdirectory.github.io/scada"
   }, 
   {
     "url": "git@github.com:fontdirectory/scheherazade.git", 
     "path": "ofl/scheherazade", 
-    "submodule": "scheherazade"
+    "submodule": "scheherazade", 
+    "gh_page": "//fontdirectory.github.io/scheherazade"
   }, 
   {
     "url": "git@github.com:fontdirectory/sean.git", 
     "path": "ofl/sean", 
-    "submodule": "sean"
+    "submodule": "sean", 
+    "gh_page": "//fontdirectory.github.io/sean"
   }, 
   {
     "url": "git@github.com:fontdirectory/seaweedscript.git", 
     "path": "ofl/seaweedscript", 
-    "submodule": "seaweedscript"
+    "submodule": "seaweedscript", 
+    "gh_page": "//fontdirectory.github.io/seaweedscript"
   }, 
   {
     "url": "git@github.com:fontdirectory/sedan.git", 
     "path": "ofl/sedan", 
-    "submodule": "sedan"
+    "submodule": "sedan", 
+    "gh_page": "//fontdirectory.github.io/sedan"
   }, 
   {
     "url": "git@github.com:fontdirectory/sedansc.git", 
     "path": "ofl/sedansc", 
-    "submodule": "sedansc"
+    "submodule": "sedansc", 
+    "gh_page": "//fontdirectory.github.io/sedansc"
   }, 
   {
     "url": "git@github.com:fontdirectory/seoulhangang.git", 
     "path": "ofl/seoulhangang", 
-    "submodule": "seoulhangang"
+    "submodule": "seoulhangang", 
+    "gh_page": "//fontdirectory.github.io/seoulhangang"
   }, 
   {
     "url": "git@github.com:fontdirectory/seoulnamsanvertical.git", 
     "path": "ofl/seoulnamsanvertical", 
-    "submodule": "seoulnamsanvertical"
+    "submodule": "seoulnamsanvertical", 
+    "gh_page": "//fontdirectory.github.io/seoulnamsanvertical"
   }, 
   {
     "url": "git@github.com:fontdirectory/sevillana.git", 
     "path": "ofl/sevillana", 
-    "submodule": "sevillana"
+    "submodule": "sevillana", 
+    "gh_page": "//fontdirectory.github.io/sevillana"
   }, 
   {
     "url": "git@github.com:fontdirectory/seymourone.git", 
     "path": "ofl/seymourone", 
-    "submodule": "seymourone"
+    "submodule": "seymourone", 
+    "gh_page": "//fontdirectory.github.io/seymourone"
   }, 
   {
     "url": "git@github.com:fontdirectory/shadowsintolight.git", 
     "path": "ofl/shadowsintolight", 
-    "submodule": "shadowsintolight"
+    "submodule": "shadowsintolight", 
+    "gh_page": "//fontdirectory.github.io/shadowsintolight"
   }, 
   {
     "url": "git@github.com:fontdirectory/shadowsintolighttwo.git", 
     "path": "ofl/shadowsintolighttwo", 
-    "submodule": "shadowsintolighttwo"
+    "submodule": "shadowsintolighttwo", 
+    "gh_page": "//fontdirectory.github.io/shadowsintolighttwo"
   }, 
   {
     "url": "git@github.com:fontdirectory/seoulhangangcondensed.git", 
     "path": "ofl/seoulhangangcondensed", 
-    "submodule": "seoulhangangcondensed"
+    "submodule": "seoulhangangcondensed", 
+    "gh_page": "//fontdirectory.github.io/seoulhangangcondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/seoulnamsan.git", 
     "path": "ofl/seoulnamsan", 
-    "submodule": "seoulnamsan"
+    "submodule": "seoulnamsan", 
+    "gh_page": "//fontdirectory.github.io/seoulnamsan"
   }, 
   {
     "url": "git@github.com:fontdirectory/seoulnamsancondensed.git", 
     "path": "ofl/seoulnamsancondensed", 
-    "submodule": "seoulnamsancondensed"
+    "submodule": "seoulnamsancondensed", 
+    "gh_page": "//fontdirectory.github.io/seoulnamsancondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/shanti.git", 
     "path": "ofl/shanti", 
-    "submodule": "shanti"
+    "submodule": "shanti", 
+    "gh_page": "//fontdirectory.github.io/shanti"
   }, 
   {
     "url": "git@github.com:fontdirectory/share.git", 
     "path": "ofl/share", 
-    "submodule": "share"
+    "submodule": "share", 
+    "gh_page": "//fontdirectory.github.io/share"
   }, 
   {
     "url": "git@github.com:fontdirectory/sharetech.git", 
     "path": "ofl/sharetech", 
-    "submodule": "sharetech"
+    "submodule": "sharetech", 
+    "gh_page": "//fontdirectory.github.io/sharetech"
   }, 
   {
     "url": "git@github.com:fontdirectory/sharetechmono.git", 
     "path": "ofl/sharetechmono", 
-    "submodule": "sharetechmono"
+    "submodule": "sharetechmono", 
+    "gh_page": "//fontdirectory.github.io/sharetechmono"
   }, 
   {
     "url": "git@github.com:fontdirectory/shojumaru.git", 
     "path": "ofl/shojumaru", 
-    "submodule": "shojumaru"
+    "submodule": "shojumaru", 
+    "gh_page": "//fontdirectory.github.io/shojumaru"
   }, 
   {
     "url": "git@github.com:fontdirectory/siamreap.git", 
     "path": "ofl/siamreap", 
-    "submodule": "siamreap"
+    "submodule": "siamreap", 
+    "gh_page": "//fontdirectory.github.io/siamreap"
   }, 
   {
     "url": "git@github.com:fontdirectory/siemreap.git", 
     "path": "ofl/siemreap", 
-    "submodule": "siemreap"
+    "submodule": "siemreap", 
+    "gh_page": "//fontdirectory.github.io/siemreap"
   }, 
   {
     "url": "git@github.com:fontdirectory/sigmarone.git", 
     "path": "ofl/sigmarone", 
-    "submodule": "sigmarone"
+    "submodule": "sigmarone", 
+    "gh_page": "//fontdirectory.github.io/sigmarone"
   }, 
   {
     "url": "git@github.com:fontdirectory/signika.git", 
     "path": "ofl/signika", 
-    "submodule": "signika"
+    "submodule": "signika", 
+    "gh_page": "//fontdirectory.github.io/signika"
   }, 
   {
     "url": "git@github.com:fontdirectory/signikanegative.git", 
     "path": "ofl/signikanegative", 
-    "submodule": "signikanegative"
+    "submodule": "signikanegative", 
+    "gh_page": "//fontdirectory.github.io/signikanegative"
   }, 
   {
     "url": "git@github.com:fontdirectory/simonetta.git", 
     "path": "ofl/simonetta", 
-    "submodule": "simonetta"
+    "submodule": "simonetta", 
+    "gh_page": "//fontdirectory.github.io/simonetta"
   }, 
   {
     "url": "git@github.com:fontdirectory/sintony.git", 
     "path": "ofl/sintony", 
-    "submodule": "sintony"
+    "submodule": "sintony", 
+    "gh_page": "//fontdirectory.github.io/sintony"
   }, 
   {
     "url": "git@github.com:fontdirectory/sirinstencil.git", 
     "path": "ofl/sirinstencil", 
-    "submodule": "sirinstencil"
+    "submodule": "sirinstencil", 
+    "gh_page": "//fontdirectory.github.io/sirinstencil"
   }, 
   {
     "url": "git@github.com:fontdirectory/sixcaps.git", 
     "path": "ofl/sixcaps", 
-    "submodule": "sixcaps"
+    "submodule": "sixcaps", 
+    "gh_page": "//fontdirectory.github.io/sixcaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/skranji.git", 
     "path": "ofl/skranji", 
-    "submodule": "skranji"
+    "submodule": "skranji", 
+    "gh_page": "//fontdirectory.github.io/skranji"
   }, 
   {
     "url": "git@github.com:fontdirectory/slabo13px.git", 
     "path": "ofl/slabo13px", 
-    "submodule": "slabo13px"
+    "submodule": "slabo13px", 
+    "gh_page": "//fontdirectory.github.io/slabo13px"
   }, 
   {
     "url": "git@github.com:fontdirectory/smythe.git", 
     "path": "ofl/smythe", 
-    "submodule": "smythe"
+    "submodule": "smythe", 
+    "gh_page": "//fontdirectory.github.io/smythe"
   }, 
   {
     "url": "git@github.com:fontdirectory/sniglet.git", 
     "path": "ofl/sniglet", 
-    "submodule": "sniglet"
+    "submodule": "sniglet", 
+    "gh_page": "//fontdirectory.github.io/sniglet"
   }, 
   {
     "url": "git@github.com:fontdirectory/snippet.git", 
     "path": "ofl/snippet", 
-    "submodule": "snippet"
+    "submodule": "snippet", 
+    "gh_page": "//fontdirectory.github.io/snippet"
   }, 
   {
     "url": "git@github.com:fontdirectory/snowburstone.git", 
     "path": "ofl/snowburstone", 
-    "submodule": "snowburstone"
+    "submodule": "snowburstone", 
+    "gh_page": "//fontdirectory.github.io/snowburstone"
   }, 
   {
     "url": "git@github.com:fontdirectory/sofadione.git", 
     "path": "ofl/sofadione", 
-    "submodule": "sofadione"
+    "submodule": "sofadione", 
+    "gh_page": "//fontdirectory.github.io/sofadione"
   }, 
   {
     "url": "git@github.com:fontdirectory/sofia.git", 
     "path": "ofl/sofia", 
-    "submodule": "sofia"
+    "submodule": "sofia", 
+    "gh_page": "//fontdirectory.github.io/sofia"
   }, 
   {
     "url": "git@github.com:fontdirectory/sonsieone.git", 
     "path": "ofl/sonsieone", 
-    "submodule": "sonsieone"
+    "submodule": "sonsieone", 
+    "gh_page": "//fontdirectory.github.io/sonsieone"
   }, 
   {
     "url": "git@github.com:fontdirectory/sortsmillgoudy.git", 
     "path": "ofl/sortsmillgoudy", 
-    "submodule": "sortsmillgoudy"
+    "submodule": "sortsmillgoudy", 
+    "gh_page": "//fontdirectory.github.io/sortsmillgoudy"
   }, 
   {
     "url": "git@github.com:fontdirectory/souliyo.git", 
     "path": "ofl/souliyo", 
-    "submodule": "souliyo"
+    "submodule": "souliyo", 
+    "gh_page": "//fontdirectory.github.io/souliyo"
   }, 
   {
     "url": "git@github.com:fontdirectory/sourcecodepro.git", 
     "path": "ofl/sourcecodepro", 
-    "submodule": "sourcecodepro"
+    "submodule": "sourcecodepro", 
+    "gh_page": "//fontdirectory.github.io/sourcecodepro"
   }, 
   {
     "url": "git@github.com:fontdirectory/sourcesanspro.git", 
     "path": "ofl/sourcesanspro", 
-    "submodule": "sourcesanspro"
+    "submodule": "sourcesanspro", 
+    "gh_page": "//fontdirectory.github.io/sourcesanspro"
   }, 
   {
     "url": "git@github.com:fontdirectory/sourceserifpro.git", 
     "path": "ofl/sourceserifpro", 
-    "submodule": "sourceserifpro"
+    "submodule": "sourceserifpro", 
+    "gh_page": "//fontdirectory.github.io/sourceserifpro"
   }, 
   {
     "url": "git@github.com:fontdirectory/spicyrice.git", 
     "path": "ofl/spicyrice", 
-    "submodule": "spicyrice"
+    "submodule": "spicyrice", 
+    "gh_page": "//fontdirectory.github.io/spicyrice"
   }, 
   {
     "url": "git@github.com:fontdirectory/spinnaker.git", 
     "path": "ofl/spinnaker", 
-    "submodule": "spinnaker"
+    "submodule": "spinnaker", 
+    "gh_page": "//fontdirectory.github.io/spinnaker"
   }, 
   {
     "url": "git@github.com:fontdirectory/spirax.git", 
     "path": "ofl/spirax", 
-    "submodule": "spirax"
+    "submodule": "spirax", 
+    "gh_page": "//fontdirectory.github.io/spirax"
   }, 
   {
     "url": "git@github.com:fontdirectory/squadaone.git", 
     "path": "ofl/squadaone", 
-    "submodule": "squadaone"
+    "submodule": "squadaone", 
+    "gh_page": "//fontdirectory.github.io/squadaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/stalemate.git", 
     "path": "ofl/stalemate", 
-    "submodule": "stalemate"
+    "submodule": "stalemate", 
+    "gh_page": "//fontdirectory.github.io/stalemate"
   }, 
   {
     "url": "git@github.com:fontdirectory/stalinistone.git", 
     "path": "ofl/stalinistone", 
-    "submodule": "stalinistone"
+    "submodule": "stalinistone", 
+    "gh_page": "//fontdirectory.github.io/stalinistone"
   }, 
   {
     "url": "git@github.com:fontdirectory/stalinone.git", 
     "path": "ofl/stalinone", 
-    "submodule": "stalinone"
+    "submodule": "stalinone", 
+    "gh_page": "//fontdirectory.github.io/stalinone"
   }, 
   {
     "url": "git@github.com:fontdirectory/stardosstencil.git", 
     "path": "ofl/stardosstencil", 
-    "submodule": "stardosstencil"
+    "submodule": "stardosstencil", 
+    "gh_page": "//fontdirectory.github.io/stardosstencil"
   }, 
   {
     "url": "git@github.com:fontdirectory/stintultracondensed.git", 
     "path": "ofl/stintultracondensed", 
-    "submodule": "stintultracondensed"
+    "submodule": "stintultracondensed", 
+    "gh_page": "//fontdirectory.github.io/stintultracondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/stintultraexpanded.git", 
     "path": "ofl/stintultraexpanded", 
-    "submodule": "stintultraexpanded"
+    "submodule": "stintultraexpanded", 
+    "gh_page": "//fontdirectory.github.io/stintultraexpanded"
   }, 
   {
     "url": "git@github.com:fontdirectory/stoke.git", 
     "path": "ofl/stoke", 
-    "submodule": "stoke"
+    "submodule": "stoke", 
+    "gh_page": "//fontdirectory.github.io/stoke"
   }, 
   {
     "url": "git@github.com:fontdirectory/strait.git", 
     "path": "ofl/strait", 
-    "submodule": "strait"
+    "submodule": "strait", 
+    "gh_page": "//fontdirectory.github.io/strait"
   }, 
   {
     "url": "git@github.com:fontdirectory/strong.git", 
     "path": "ofl/strong", 
-    "submodule": "strong"
+    "submodule": "strong", 
+    "gh_page": "//fontdirectory.github.io/strong"
   }, 
   {
     "url": "git@github.com:fontdirectory/sueellenfrancisco.git", 
     "path": "ofl/sueellenfrancisco", 
-    "submodule": "sueellenfrancisco"
+    "submodule": "sueellenfrancisco", 
+    "gh_page": "//fontdirectory.github.io/sueellenfrancisco"
   }, 
   {
     "url": "git@github.com:fontdirectory/supermercadoone.git", 
     "path": "ofl/supermercadoone", 
-    "submodule": "supermercadoone"
+    "submodule": "supermercadoone", 
+    "gh_page": "//fontdirectory.github.io/supermercadoone"
   }, 
   {
     "url": "git@github.com:fontdirectory/suwannaphum.git", 
     "path": "ofl/suwannaphum", 
-    "submodule": "suwannaphum"
+    "submodule": "suwannaphum", 
+    "gh_page": "//fontdirectory.github.io/suwannaphum"
   }, 
   {
     "url": "git@github.com:fontdirectory/swankyandmoomoo.git", 
     "path": "ofl/swankyandmoomoo", 
-    "submodule": "swankyandmoomoo"
+    "submodule": "swankyandmoomoo", 
+    "gh_page": "//fontdirectory.github.io/swankyandmoomoo"
   }, 
   {
     "url": "git@github.com:fontdirectory/tangerine.git", 
     "path": "ofl/tangerine", 
-    "submodule": "tangerine"
+    "submodule": "tangerine", 
+    "gh_page": "//fontdirectory.github.io/tangerine"
   }, 
   {
     "url": "git@github.com:fontdirectory/taprom.git", 
     "path": "ofl/taprom", 
-    "submodule": "taprom"
+    "submodule": "taprom", 
+    "gh_page": "//fontdirectory.github.io/taprom"
   }, 
   {
     "url": "git@github.com:fontdirectory/teko.git", 
     "path": "ofl/teko", 
-    "submodule": "teko"
+    "submodule": "teko", 
+    "gh_page": "//fontdirectory.github.io/teko"
   }, 
   {
     "url": "git@github.com:fontdirectory/telex.git", 
     "path": "ofl/telex", 
-    "submodule": "telex"
+    "submodule": "telex", 
+    "gh_page": "//fontdirectory.github.io/telex"
   }, 
   {
     "url": "git@github.com:fontdirectory/tenorsans.git", 
     "path": "ofl/tenorsans", 
-    "submodule": "tenorsans"
+    "submodule": "tenorsans", 
+    "gh_page": "//fontdirectory.github.io/tenorsans"
   }, 
   {
     "url": "git@github.com:fontdirectory/terminaldosis.git", 
     "path": "ofl/terminaldosis", 
-    "submodule": "terminaldosis"
+    "submodule": "terminaldosis", 
+    "gh_page": "//fontdirectory.github.io/terminaldosis"
   }, 
   {
     "url": "git@github.com:fontdirectory/terminaldosislight.git", 
     "path": "ofl/terminaldosislight", 
-    "submodule": "terminaldosislight"
+    "submodule": "terminaldosislight", 
+    "gh_page": "//fontdirectory.github.io/terminaldosislight"
   }, 
   {
     "url": "git@github.com:fontdirectory/textmeone.git", 
     "path": "ofl/textmeone", 
-    "submodule": "textmeone"
+    "submodule": "textmeone", 
+    "gh_page": "//fontdirectory.github.io/textmeone"
   }, 
   {
     "url": "git@github.com:fontdirectory/thabit.git", 
     "path": "ofl/thabit", 
-    "submodule": "thabit"
+    "submodule": "thabit", 
+    "gh_page": "//fontdirectory.github.io/thabit"
   }, 
   {
     "url": "git@github.com:fontdirectory/tharlon.git", 
     "path": "ofl/tharlon", 
-    "submodule": "tharlon"
+    "submodule": "tharlon", 
+    "gh_page": "//fontdirectory.github.io/tharlon"
   }, 
   {
     "url": "git@github.com:fontdirectory/thegirlnextdoor.git", 
     "path": "ofl/thegirlnextdoor", 
-    "submodule": "thegirlnextdoor"
+    "submodule": "thegirlnextdoor", 
+    "gh_page": "//fontdirectory.github.io/thegirlnextdoor"
   }, 
   {
     "url": "git@github.com:fontdirectory/tienne.git", 
     "path": "ofl/tienne", 
-    "submodule": "tienne"
+    "submodule": "tienne", 
+    "gh_page": "//fontdirectory.github.io/tienne"
   }, 
   {
     "url": "git@github.com:fontdirectory/titanone.git", 
     "path": "ofl/titanone", 
-    "submodule": "titanone"
+    "submodule": "titanone", 
+    "gh_page": "//fontdirectory.github.io/titanone"
   }, 
   {
     "url": "git@github.com:fontdirectory/titilliumweb.git", 
     "path": "ofl/titilliumweb", 
-    "submodule": "titilliumweb"
+    "submodule": "titilliumweb", 
+    "gh_page": "//fontdirectory.github.io/titilliumweb"
   }, 
   {
     "url": "git@github.com:fontdirectory/tradewinds.git", 
     "path": "ofl/tradewinds", 
-    "submodule": "tradewinds"
+    "submodule": "tradewinds", 
+    "gh_page": "//fontdirectory.github.io/tradewinds"
   }, 
   {
     "url": "git@github.com:fontdirectory/trocchi.git", 
     "path": "ofl/trocchi", 
-    "submodule": "trocchi"
+    "submodule": "trocchi", 
+    "gh_page": "//fontdirectory.github.io/trocchi"
   }, 
   {
     "url": "git@github.com:fontdirectory/trochut.git", 
     "path": "ofl/trochut", 
-    "submodule": "trochut"
+    "submodule": "trochut", 
+    "gh_page": "//fontdirectory.github.io/trochut"
   }, 
   {
     "url": "git@github.com:fontdirectory/trykker.git", 
     "path": "ofl/trykker", 
-    "submodule": "trykker"
+    "submodule": "trykker", 
+    "gh_page": "//fontdirectory.github.io/trykker"
   }, 
   {
     "url": "git@github.com:fontdirectory/tuffy.git", 
     "path": "ofl/tuffy", 
-    "submodule": "tuffy"
+    "submodule": "tuffy", 
+    "gh_page": "//fontdirectory.github.io/tuffy"
   }, 
   {
     "url": "git@github.com:fontdirectory/tulpenone.git", 
     "path": "ofl/tulpenone", 
-    "submodule": "tulpenone"
+    "submodule": "tulpenone", 
+    "gh_page": "//fontdirectory.github.io/tulpenone"
   }, 
   {
     "url": "git@github.com:fontdirectory/uncialantiqua.git", 
     "path": "ofl/uncialantiqua", 
-    "submodule": "uncialantiqua"
+    "submodule": "uncialantiqua", 
+    "gh_page": "//fontdirectory.github.io/uncialantiqua"
   }, 
   {
     "url": "git@github.com:fontdirectory/underdog.git", 
     "path": "ofl/underdog", 
-    "submodule": "underdog"
+    "submodule": "underdog", 
+    "gh_page": "//fontdirectory.github.io/underdog"
   }, 
   {
     "url": "git@github.com:fontdirectory/unicaone.git", 
     "path": "ofl/unicaone", 
-    "submodule": "unicaone"
+    "submodule": "unicaone", 
+    "gh_page": "//fontdirectory.github.io/unicaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/unifrakturcook.git", 
     "path": "ofl/unifrakturcook", 
-    "submodule": "unifrakturcook"
+    "submodule": "unifrakturcook", 
+    "gh_page": "//fontdirectory.github.io/unifrakturcook"
   }, 
   {
     "url": "git@github.com:fontdirectory/unifrakturmaguntia.git", 
     "path": "ofl/unifrakturmaguntia", 
-    "submodule": "unifrakturmaguntia"
+    "submodule": "unifrakturmaguntia", 
+    "gh_page": "//fontdirectory.github.io/unifrakturmaguntia"
   }, 
   {
     "url": "git@github.com:fontdirectory/unlock.git", 
     "path": "ofl/unlock", 
-    "submodule": "unlock"
+    "submodule": "unlock", 
+    "gh_page": "//fontdirectory.github.io/unlock"
   }, 
   {
     "url": "git@github.com:fontdirectory/unna.git", 
     "path": "ofl/unna", 
-    "submodule": "unna"
+    "submodule": "unna", 
+    "gh_page": "//fontdirectory.github.io/unna"
   }, 
   {
     "url": "git@github.com:fontdirectory/vampiroone.git", 
     "path": "ofl/vampiroone", 
-    "submodule": "vampiroone"
+    "submodule": "vampiroone", 
+    "gh_page": "//fontdirectory.github.io/vampiroone"
   }, 
   {
     "url": "git@github.com:fontdirectory/varela.git", 
     "path": "ofl/varela", 
-    "submodule": "varela"
+    "submodule": "varela", 
+    "gh_page": "//fontdirectory.github.io/varela"
   }, 
   {
     "url": "git@github.com:fontdirectory/varelaround.git", 
     "path": "ofl/varelaround", 
-    "submodule": "varelaround"
+    "submodule": "varelaround", 
+    "gh_page": "//fontdirectory.github.io/varelaround"
   }, 
   {
     "url": "git@github.com:fontdirectory/vastshadow.git", 
     "path": "ofl/vastshadow", 
-    "submodule": "vastshadow"
+    "submodule": "vastshadow", 
+    "gh_page": "//fontdirectory.github.io/vastshadow"
   }, 
   {
     "url": "git@github.com:fontdirectory/vesperlibre.git", 
     "path": "ofl/vesperlibre", 
-    "submodule": "vesperlibre"
+    "submodule": "vesperlibre", 
+    "gh_page": "//fontdirectory.github.io/vesperlibre"
   }, 
   {
     "url": "git@github.com:fontdirectory/vibur.git", 
     "path": "ofl/vibur", 
-    "submodule": "vibur"
+    "submodule": "vibur", 
+    "gh_page": "//fontdirectory.github.io/vibur"
   }, 
   {
     "url": "git@github.com:fontdirectory/vidaloka.git", 
     "path": "ofl/vidaloka", 
-    "submodule": "vidaloka"
+    "submodule": "vidaloka", 
+    "gh_page": "//fontdirectory.github.io/vidaloka"
   }, 
   {
     "url": "git@github.com:fontdirectory/viga.git", 
     "path": "ofl/viga", 
-    "submodule": "viga"
+    "submodule": "viga", 
+    "gh_page": "//fontdirectory.github.io/viga"
   }, 
   {
     "url": "git@github.com:fontdirectory/voces.git", 
     "path": "ofl/voces", 
-    "submodule": "voces"
+    "submodule": "voces", 
+    "gh_page": "//fontdirectory.github.io/voces"
   }, 
   {
     "url": "git@github.com:fontdirectory/volkhov.git", 
     "path": "ofl/volkhov", 
-    "submodule": "volkhov"
+    "submodule": "volkhov", 
+    "gh_page": "//fontdirectory.github.io/volkhov"
   }, 
   {
     "url": "git@github.com:fontdirectory/vollkorn.git", 
     "path": "ofl/vollkorn", 
-    "submodule": "vollkorn"
+    "submodule": "vollkorn", 
+    "gh_page": "//fontdirectory.github.io/vollkorn"
   }, 
   {
     "url": "git@github.com:fontdirectory/voltaire.git", 
     "path": "ofl/voltaire", 
-    "submodule": "voltaire"
+    "submodule": "voltaire", 
+    "gh_page": "//fontdirectory.github.io/voltaire"
   }, 
   {
     "url": "git@github.com:fontdirectory/vt323.git", 
     "path": "ofl/vt323", 
-    "submodule": "vt323"
+    "submodule": "vt323", 
+    "gh_page": "//fontdirectory.github.io/vt323"
   }, 
   {
     "url": "git@github.com:fontdirectory/waitingforthesunrise.git", 
     "path": "ofl/waitingforthesunrise", 
-    "submodule": "waitingforthesunrise"
+    "submodule": "waitingforthesunrise", 
+    "gh_page": "//fontdirectory.github.io/waitingforthesunrise"
   }, 
   {
     "url": "git@github.com:fontdirectory/wallpoet.git", 
     "path": "ofl/wallpoet", 
-    "submodule": "wallpoet"
+    "submodule": "wallpoet", 
+    "gh_page": "//fontdirectory.github.io/wallpoet"
   }, 
   {
     "url": "git@github.com:fontdirectory/warnes.git", 
     "path": "ofl/warnes", 
-    "submodule": "warnes"
+    "submodule": "warnes", 
+    "gh_page": "//fontdirectory.github.io/warnes"
   }, 
   {
     "url": "git@github.com:fontdirectory/wellfleet.git", 
     "path": "ofl/wellfleet", 
-    "submodule": "wellfleet"
+    "submodule": "wellfleet", 
+    "gh_page": "//fontdirectory.github.io/wellfleet"
   }, 
   {
     "url": "git@github.com:fontdirectory/wendyone.git", 
     "path": "ofl/wendyone", 
-    "submodule": "wendyone"
+    "submodule": "wendyone", 
+    "gh_page": "//fontdirectory.github.io/wendyone"
   }, 
   {
     "url": "git@github.com:fontdirectory/wireone.git", 
     "path": "ofl/wireone", 
-    "submodule": "wireone"
+    "submodule": "wireone", 
+    "gh_page": "//fontdirectory.github.io/wireone"
   }, 
   {
     "url": "git@github.com:fontdirectory/yanonekaffeesatz.git", 
     "path": "ofl/yanonekaffeesatz", 
-    "submodule": "yanonekaffeesatz"
+    "submodule": "yanonekaffeesatz", 
+    "gh_page": "//fontdirectory.github.io/yanonekaffeesatz"
   }, 
   {
     "url": "git@github.com:fontdirectory/yesevaone.git", 
     "path": "ofl/yesevaone", 
-    "submodule": "yesevaone"
+    "submodule": "yesevaone", 
+    "gh_page": "//fontdirectory.github.io/yesevaone"
   }, 
   {
     "url": "git@github.com:fontdirectory/yesteryear.git", 
     "path": "ofl/yesteryear", 
-    "submodule": "yesteryear"
+    "submodule": "yesteryear", 
+    "gh_page": "//fontdirectory.github.io/yesteryear"
   }, 
   {
     "url": "git@github.com:fontdirectory/zeyada.git", 
     "path": "ofl/zeyada", 
-    "submodule": "zeyada"
+    "submodule": "zeyada", 
+    "gh_page": "//fontdirectory.github.io/zeyada"
   }, 
   {
     "url": "git@github.com:fontdirectory/aclonica.git", 
     "path": "apache/aclonica", 
-    "submodule": "aclonica"
+    "submodule": "aclonica", 
+    "gh_page": "//fontdirectory.github.io/aclonica"
   }, 
   {
     "url": "git@github.com:fontdirectory/arimo.git", 
     "path": "apache/arimo", 
-    "submodule": "arimo"
+    "submodule": "arimo", 
+    "gh_page": "//fontdirectory.github.io/arimo"
   }, 
   {
     "url": "git@github.com:fontdirectory/calligraffitti.git", 
     "path": "apache/calligraffitti", 
-    "submodule": "calligraffitti"
+    "submodule": "calligraffitti", 
+    "gh_page": "//fontdirectory.github.io/calligraffitti"
   }, 
   {
     "url": "git@github.com:fontdirectory/cherrycreamsoda.git", 
     "path": "apache/cherrycreamsoda", 
-    "submodule": "cherrycreamsoda"
+    "submodule": "cherrycreamsoda", 
+    "gh_page": "//fontdirectory.github.io/cherrycreamsoda"
   }, 
   {
     "url": "git@github.com:fontdirectory/chewy.git", 
     "path": "apache/chewy", 
-    "submodule": "chewy"
+    "submodule": "chewy", 
+    "gh_page": "//fontdirectory.github.io/chewy"
   }, 
   {
     "url": "git@github.com:fontdirectory/comingsoon.git", 
     "path": "apache/comingsoon", 
-    "submodule": "comingsoon"
+    "submodule": "comingsoon", 
+    "gh_page": "//fontdirectory.github.io/comingsoon"
   }, 
   {
     "url": "git@github.com:fontdirectory/cousine.git", 
     "path": "apache/cousine", 
-    "submodule": "cousine"
+    "submodule": "cousine", 
+    "gh_page": "//fontdirectory.github.io/cousine"
   }, 
   {
     "url": "git@github.com:fontdirectory/craftygirls.git", 
     "path": "apache/craftygirls", 
-    "submodule": "craftygirls"
+    "submodule": "craftygirls", 
+    "gh_page": "//fontdirectory.github.io/craftygirls"
   }, 
   {
     "url": "git@github.com:fontdirectory/creepstercaps.git", 
     "path": "apache/creepstercaps", 
-    "submodule": "creepstercaps"
+    "submodule": "creepstercaps", 
+    "gh_page": "//fontdirectory.github.io/creepstercaps"
   }, 
   {
     "url": "git@github.com:fontdirectory/crushed.git", 
     "path": "apache/crushed", 
-    "submodule": "crushed"
+    "submodule": "crushed", 
+    "gh_page": "//fontdirectory.github.io/crushed"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidarabickufi.git", 
     "path": "apache/droidarabickufi", 
-    "submodule": "droidarabickufi"
+    "submodule": "droidarabickufi", 
+    "gh_page": "//fontdirectory.github.io/droidarabickufi"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidarabicnaskh.git", 
     "path": "apache/droidarabicnaskh", 
-    "submodule": "droidarabicnaskh"
+    "submodule": "droidarabicnaskh", 
+    "gh_page": "//fontdirectory.github.io/droidarabicnaskh"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidsans.git", 
     "path": "apache/droidsans", 
-    "submodule": "droidsans"
+    "submodule": "droidsans", 
+    "gh_page": "//fontdirectory.github.io/droidsans"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidsansethiopic.git", 
     "path": "apache/droidsansethiopic", 
-    "submodule": "droidsansethiopic"
+    "submodule": "droidsansethiopic", 
+    "gh_page": "//fontdirectory.github.io/droidsansethiopic"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidsansmono.git", 
     "path": "apache/droidsansmono", 
-    "submodule": "droidsansmono"
+    "submodule": "droidsansmono", 
+    "gh_page": "//fontdirectory.github.io/droidsansmono"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidsanstamil.git", 
     "path": "apache/droidsanstamil", 
-    "submodule": "droidsanstamil"
+    "submodule": "droidsanstamil", 
+    "gh_page": "//fontdirectory.github.io/droidsanstamil"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidsansthai.git", 
     "path": "apache/droidsansthai", 
-    "submodule": "droidsansthai"
+    "submodule": "droidsansthai", 
+    "gh_page": "//fontdirectory.github.io/droidsansthai"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidserif.git", 
     "path": "apache/droidserif", 
-    "submodule": "droidserif"
+    "submodule": "droidserif", 
+    "gh_page": "//fontdirectory.github.io/droidserif"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidserifold.git", 
     "path": "apache/droidserifold", 
-    "submodule": "droidserifold"
+    "submodule": "droidserifold", 
+    "gh_page": "//fontdirectory.github.io/droidserifold"
   }, 
   {
     "url": "git@github.com:fontdirectory/droidserifthai.git", 
     "path": "apache/droidserifthai", 
-    "submodule": "droidserifthai"
+    "submodule": "droidserifthai", 
+    "gh_page": "//fontdirectory.github.io/droidserifthai"
   }, 
   {
     "url": "git@github.com:fontdirectory/fontdinerswanky.git", 
     "path": "apache/fontdinerswanky", 
-    "submodule": "fontdinerswanky"
+    "submodule": "fontdinerswanky", 
+    "gh_page": "//fontdirectory.github.io/fontdinerswanky"
   }, 
   {
     "url": "git@github.com:fontdirectory/homemadeapple.git", 
     "path": "apache/homemadeapple", 
-    "submodule": "homemadeapple"
+    "submodule": "homemadeapple", 
+    "gh_page": "//fontdirectory.github.io/homemadeapple"
   }, 
   {
     "url": "git@github.com:fontdirectory/irishgrover.git", 
     "path": "apache/irishgrover", 
-    "submodule": "irishgrover"
+    "submodule": "irishgrover", 
+    "gh_page": "//fontdirectory.github.io/irishgrover"
   }, 
   {
     "url": "git@github.com:fontdirectory/irishgrowler.git", 
     "path": "apache/irishgrowler", 
-    "submodule": "irishgrowler"
+    "submodule": "irishgrowler", 
+    "gh_page": "//fontdirectory.github.io/irishgrowler"
   }, 
   {
     "url": "git@github.com:fontdirectory/jsmathcmbx10.git", 
     "path": "apache/jsmathcmbx10", 
-    "submodule": "jsmathcmbx10"
+    "submodule": "jsmathcmbx10", 
+    "gh_page": "//fontdirectory.github.io/jsmathcmbx10"
   }, 
   {
     "url": "git@github.com:fontdirectory/jsmathcmex10.git", 
     "path": "apache/jsmathcmex10", 
-    "submodule": "jsmathcmex10"
+    "submodule": "jsmathcmex10", 
+    "gh_page": "//fontdirectory.github.io/jsmathcmex10"
   }, 
   {
     "url": "git@github.com:fontdirectory/jsmathcmmi10.git", 
     "path": "apache/jsmathcmmi10", 
-    "submodule": "jsmathcmmi10"
+    "submodule": "jsmathcmmi10", 
+    "gh_page": "//fontdirectory.github.io/jsmathcmmi10"
   }, 
   {
     "url": "git@github.com:fontdirectory/jsmathcmr10.git", 
     "path": "apache/jsmathcmr10", 
-    "submodule": "jsmathcmr10"
+    "submodule": "jsmathcmr10", 
+    "gh_page": "//fontdirectory.github.io/jsmathcmr10"
   }, 
   {
     "url": "git@github.com:fontdirectory/jsmathcmsy10.git", 
     "path": "apache/jsmathcmsy10", 
-    "submodule": "jsmathcmsy10"
+    "submodule": "jsmathcmsy10", 
+    "gh_page": "//fontdirectory.github.io/jsmathcmsy10"
   }, 
   {
     "url": "git@github.com:fontdirectory/jsmathcmti10.git", 
     "path": "apache/jsmathcmti10", 
-    "submodule": "jsmathcmti10"
+    "submodule": "jsmathcmti10", 
+    "gh_page": "//fontdirectory.github.io/jsmathcmti10"
   }, 
   {
     "url": "git@github.com:fontdirectory/justanotherhand.git", 
     "path": "apache/justanotherhand", 
-    "submodule": "justanotherhand"
+    "submodule": "justanotherhand", 
+    "gh_page": "//fontdirectory.github.io/justanotherhand"
   }, 
   {
     "url": "git@github.com:fontdirectory/kranky.git", 
     "path": "apache/kranky", 
-    "submodule": "kranky"
+    "submodule": "kranky", 
+    "gh_page": "//fontdirectory.github.io/kranky"
   }, 
   {
     "url": "git@github.com:fontdirectory/luckiestguy.git", 
     "path": "apache/luckiestguy", 
-    "submodule": "luckiestguy"
+    "submodule": "luckiestguy", 
+    "gh_page": "//fontdirectory.github.io/luckiestguy"
   }, 
   {
     "url": "git@github.com:fontdirectory/maidenorange.git", 
     "path": "apache/maidenorange", 
-    "submodule": "maidenorange"
+    "submodule": "maidenorange", 
+    "gh_page": "//fontdirectory.github.io/maidenorange"
   }, 
   {
     "url": "git@github.com:fontdirectory/montez.git", 
     "path": "apache/montez", 
-    "submodule": "montez"
+    "submodule": "montez", 
+    "gh_page": "//fontdirectory.github.io/montez"
   }, 
   {
     "url": "git@github.com:fontdirectory/mountainsofchristmas.git", 
     "path": "apache/mountainsofchristmas", 
-    "submodule": "mountainsofchristmas"
+    "submodule": "mountainsofchristmas", 
+    "gh_page": "//fontdirectory.github.io/mountainsofchristmas"
   }, 
   {
     "url": "git@github.com:fontdirectory/nokora.git", 
     "path": "apache/nokora", 
-    "submodule": "nokora"
+    "submodule": "nokora", 
+    "gh_page": "//fontdirectory.github.io/nokora"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosans.git", 
     "path": "apache/notosans", 
-    "submodule": "notosans"
+    "submodule": "notosans", 
+    "gh_page": "//fontdirectory.github.io/notosans"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansarmenian.git", 
     "path": "apache/notosansarmenian", 
-    "submodule": "notosansarmenian"
+    "submodule": "notosansarmenian", 
+    "gh_page": "//fontdirectory.github.io/notosansarmenian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansavestan.git", 
     "path": "apache/notosansavestan", 
-    "submodule": "notosansavestan"
+    "submodule": "notosansavestan", 
+    "gh_page": "//fontdirectory.github.io/notosansavestan"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansbengali.git", 
     "path": "apache/notosansbengali", 
-    "submodule": "notosansbengali"
+    "submodule": "notosansbengali", 
+    "gh_page": "//fontdirectory.github.io/notosansbengali"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansbrahmi.git", 
     "path": "apache/notosansbrahmi", 
-    "submodule": "notosansbrahmi"
+    "submodule": "notosansbrahmi", 
+    "gh_page": "//fontdirectory.github.io/notosansbrahmi"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanscarian.git", 
     "path": "apache/notosanscarian", 
-    "submodule": "notosanscarian"
+    "submodule": "notosanscarian", 
+    "gh_page": "//fontdirectory.github.io/notosanscarian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanscherokee.git", 
     "path": "apache/notosanscherokee", 
-    "submodule": "notosanscherokee"
+    "submodule": "notosanscherokee", 
+    "gh_page": "//fontdirectory.github.io/notosanscherokee"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanscoptic.git", 
     "path": "apache/notosanscoptic", 
-    "submodule": "notosanscoptic"
+    "submodule": "notosanscoptic", 
+    "gh_page": "//fontdirectory.github.io/notosanscoptic"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanscypriotsyllabary.git", 
     "path": "apache/notosanscypriotsyllabary", 
-    "submodule": "notosanscypriotsyllabary"
+    "submodule": "notosanscypriotsyllabary", 
+    "gh_page": "//fontdirectory.github.io/notosanscypriotsyllabary"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansdeseret.git", 
     "path": "apache/notosansdeseret", 
-    "submodule": "notosansdeseret"
+    "submodule": "notosansdeseret", 
+    "gh_page": "//fontdirectory.github.io/notosansdeseret"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansdevanagari.git", 
     "path": "apache/notosansdevanagari", 
-    "submodule": "notosansdevanagari"
+    "submodule": "notosansdevanagari", 
+    "gh_page": "//fontdirectory.github.io/notosansdevanagari"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansdevanagariui.git", 
     "path": "apache/notosansdevanagariui", 
-    "submodule": "notosansdevanagariui"
+    "submodule": "notosansdevanagariui", 
+    "gh_page": "//fontdirectory.github.io/notosansdevanagariui"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansegyptianhieroglyphs.git", 
     "path": "apache/notosansegyptianhieroglyphs", 
-    "submodule": "notosansegyptianhieroglyphs"
+    "submodule": "notosansegyptianhieroglyphs", 
+    "gh_page": "//fontdirectory.github.io/notosansegyptianhieroglyphs"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansethiopic.git", 
     "path": "apache/notosansethiopic", 
-    "submodule": "notosansethiopic"
+    "submodule": "notosansethiopic", 
+    "gh_page": "//fontdirectory.github.io/notosansethiopic"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansgeorgian.git", 
     "path": "apache/notosansgeorgian", 
-    "submodule": "notosansgeorgian"
+    "submodule": "notosansgeorgian", 
+    "gh_page": "//fontdirectory.github.io/notosansgeorgian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansglagolitic.git", 
     "path": "apache/notosansglagolitic", 
-    "submodule": "notosansglagolitic"
+    "submodule": "notosansglagolitic", 
+    "gh_page": "//fontdirectory.github.io/notosansglagolitic"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansgujarati.git", 
     "path": "apache/notosansgujarati", 
-    "submodule": "notosansgujarati"
+    "submodule": "notosansgujarati", 
+    "gh_page": "//fontdirectory.github.io/notosansgujarati"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansgujaratiui.git", 
     "path": "apache/notosansgujaratiui", 
-    "submodule": "notosansgujaratiui"
+    "submodule": "notosansgujaratiui", 
+    "gh_page": "//fontdirectory.github.io/notosansgujaratiui"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanshanunoo.git", 
     "path": "apache/notosanshanunoo", 
-    "submodule": "notosanshanunoo"
+    "submodule": "notosanshanunoo", 
+    "gh_page": "//fontdirectory.github.io/notosanshanunoo"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanshebrew.git", 
     "path": "apache/notosanshebrew", 
-    "submodule": "notosanshebrew"
+    "submodule": "notosanshebrew", 
+    "gh_page": "//fontdirectory.github.io/notosanshebrew"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansimperilaramaic.git", 
     "path": "apache/notosansimperilaramaic", 
-    "submodule": "notosansimperilaramaic"
+    "submodule": "notosansimperilaramaic", 
+    "gh_page": "//fontdirectory.github.io/notosansimperilaramaic"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanskaithi.git", 
     "path": "apache/notosanskaithi", 
-    "submodule": "notosanskaithi"
+    "submodule": "notosanskaithi", 
+    "gh_page": "//fontdirectory.github.io/notosanskaithi"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanskannada.git", 
     "path": "apache/notosanskannada", 
-    "submodule": "notosanskannada"
+    "submodule": "notosanskannada", 
+    "gh_page": "//fontdirectory.github.io/notosanskannada"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanskayahli.git", 
     "path": "apache/notosanskayahli", 
-    "submodule": "notosanskayahli"
+    "submodule": "notosanskayahli", 
+    "gh_page": "//fontdirectory.github.io/notosanskayahli"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanskharoshthi.git", 
     "path": "apache/notosanskharoshthi", 
-    "submodule": "notosanskharoshthi"
+    "submodule": "notosanskharoshthi", 
+    "gh_page": "//fontdirectory.github.io/notosanskharoshthi"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanslao.git", 
     "path": "apache/notosanslao", 
-    "submodule": "notosanslao"
+    "submodule": "notosanslao", 
+    "gh_page": "//fontdirectory.github.io/notosanslao"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanslaoui.git", 
     "path": "apache/notosanslaoui", 
-    "submodule": "notosanslaoui"
+    "submodule": "notosanslaoui", 
+    "gh_page": "//fontdirectory.github.io/notosanslaoui"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanslisu.git", 
     "path": "apache/notosanslisu", 
-    "submodule": "notosanslisu"
+    "submodule": "notosanslisu", 
+    "gh_page": "//fontdirectory.github.io/notosanslisu"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanslycian.git", 
     "path": "apache/notosanslycian", 
-    "submodule": "notosanslycian"
+    "submodule": "notosanslycian", 
+    "gh_page": "//fontdirectory.github.io/notosanslycian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanslydian.git", 
     "path": "apache/notosanslydian", 
-    "submodule": "notosanslydian"
+    "submodule": "notosanslydian", 
+    "gh_page": "//fontdirectory.github.io/notosanslydian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansmalayalam.git", 
     "path": "apache/notosansmalayalam", 
-    "submodule": "notosansmalayalam"
+    "submodule": "notosansmalayalam", 
+    "gh_page": "//fontdirectory.github.io/notosansmalayalam"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansmandaic.git", 
     "path": "apache/notosansmandaic", 
-    "submodule": "notosansmandaic"
+    "submodule": "notosansmandaic", 
+    "gh_page": "//fontdirectory.github.io/notosansmandaic"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansmeeteimayek.git", 
     "path": "apache/notosansmeeteimayek", 
-    "submodule": "notosansmeeteimayek"
+    "submodule": "notosansmeeteimayek", 
+    "gh_page": "//fontdirectory.github.io/notosansmeeteimayek"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansnko.git", 
     "path": "apache/notosansnko", 
-    "submodule": "notosansnko"
+    "submodule": "notosansnko", 
+    "gh_page": "//fontdirectory.github.io/notosansnko"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansoldsoutharabian.git", 
     "path": "apache/notosansoldsoutharabian", 
-    "submodule": "notosansoldsoutharabian"
+    "submodule": "notosansoldsoutharabian", 
+    "gh_page": "//fontdirectory.github.io/notosansoldsoutharabian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansoldturkic.git", 
     "path": "apache/notosansoldturkic", 
-    "submodule": "notosansoldturkic"
+    "submodule": "notosansoldturkic", 
+    "gh_page": "//fontdirectory.github.io/notosansoldturkic"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansosmanya.git", 
     "path": "apache/notosansosmanya", 
-    "submodule": "notosansosmanya"
+    "submodule": "notosansosmanya", 
+    "gh_page": "//fontdirectory.github.io/notosansosmanya"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansphoenician.git", 
     "path": "apache/notosansphoenician", 
-    "submodule": "notosansphoenician"
+    "submodule": "notosansphoenician", 
+    "gh_page": "//fontdirectory.github.io/notosansphoenician"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansshavian.git", 
     "path": "apache/notosansshavian", 
-    "submodule": "notosansshavian"
+    "submodule": "notosansshavian", 
+    "gh_page": "//fontdirectory.github.io/notosansshavian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanssymbols.git", 
     "path": "apache/notosanssymbols", 
-    "submodule": "notosanssymbols"
+    "submodule": "notosanssymbols", 
+    "gh_page": "//fontdirectory.github.io/notosanssymbols"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanstagalog.git", 
     "path": "apache/notosanstagalog", 
-    "submodule": "notosanstagalog"
+    "submodule": "notosanstagalog", 
+    "gh_page": "//fontdirectory.github.io/notosanstagalog"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanstaitham.git", 
     "path": "apache/notosanstaitham", 
-    "submodule": "notosanstaitham"
+    "submodule": "notosanstaitham", 
+    "gh_page": "//fontdirectory.github.io/notosanstaitham"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanstaiviet.git", 
     "path": "apache/notosanstaiviet", 
-    "submodule": "notosanstaiviet"
+    "submodule": "notosanstaiviet", 
+    "gh_page": "//fontdirectory.github.io/notosanstaiviet"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanstamil.git", 
     "path": "apache/notosanstamil", 
-    "submodule": "notosanstamil"
+    "submodule": "notosanstamil", 
+    "gh_page": "//fontdirectory.github.io/notosanstamil"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanstamilui.git", 
     "path": "apache/notosanstamilui", 
-    "submodule": "notosanstamilui"
+    "submodule": "notosanstamilui", 
+    "gh_page": "//fontdirectory.github.io/notosanstamilui"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosanstelugu.git", 
     "path": "apache/notosanstelugu", 
-    "submodule": "notosanstelugu"
+    "submodule": "notosanstelugu", 
+    "gh_page": "//fontdirectory.github.io/notosanstelugu"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansthai.git", 
     "path": "apache/notosansthai", 
-    "submodule": "notosansthai"
+    "submodule": "notosansthai", 
+    "gh_page": "//fontdirectory.github.io/notosansthai"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansthaiui.git", 
     "path": "apache/notosansthaiui", 
-    "submodule": "notosansthaiui"
+    "submodule": "notosansthaiui", 
+    "gh_page": "//fontdirectory.github.io/notosansthaiui"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansugaritic.git", 
     "path": "apache/notosansugaritic", 
-    "submodule": "notosansugaritic"
+    "submodule": "notosansugaritic", 
+    "gh_page": "//fontdirectory.github.io/notosansugaritic"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansui.git", 
     "path": "apache/notosansui", 
-    "submodule": "notosansui"
+    "submodule": "notosansui", 
+    "gh_page": "//fontdirectory.github.io/notosansui"
   }, 
   {
     "url": "git@github.com:fontdirectory/notosansvai.git", 
     "path": "apache/notosansvai", 
-    "submodule": "notosansvai"
+    "submodule": "notosansvai", 
+    "gh_page": "//fontdirectory.github.io/notosansvai"
   }, 
   {
     "url": "git@github.com:fontdirectory/notoserif.git", 
     "path": "apache/notoserif", 
-    "submodule": "notoserif"
+    "submodule": "notoserif", 
+    "gh_page": "//fontdirectory.github.io/notoserif"
   }, 
   {
     "url": "git@github.com:fontdirectory/notoserifarmenian.git", 
     "path": "apache/notoserifarmenian", 
-    "submodule": "notoserifarmenian"
+    "submodule": "notoserifarmenian", 
+    "gh_page": "//fontdirectory.github.io/notoserifarmenian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notoserifgeorgian.git", 
     "path": "apache/notoserifgeorgian", 
-    "submodule": "notoserifgeorgian"
+    "submodule": "notoserifgeorgian", 
+    "gh_page": "//fontdirectory.github.io/notoserifgeorgian"
   }, 
   {
     "url": "git@github.com:fontdirectory/notoseriflao.git", 
     "path": "apache/notoseriflao", 
-    "submodule": "notoseriflao"
+    "submodule": "notoseriflao", 
+    "gh_page": "//fontdirectory.github.io/notoseriflao"
   }, 
   {
     "url": "git@github.com:fontdirectory/notoserifthai.git", 
     "path": "apache/notoserifthai", 
-    "submodule": "notoserifthai"
+    "submodule": "notoserifthai", 
+    "gh_page": "//fontdirectory.github.io/notoserifthai"
   }, 
   {
     "url": "git@github.com:fontdirectory/opensans.git", 
     "path": "apache/opensans", 
-    "submodule": "opensans"
+    "submodule": "opensans", 
+    "gh_page": "//fontdirectory.github.io/opensans"
   }, 
   {
     "url": "git@github.com:fontdirectory/opensanscondensed.git", 
     "path": "apache/opensanscondensed", 
-    "submodule": "opensanscondensed"
+    "submodule": "opensanscondensed", 
+    "gh_page": "//fontdirectory.github.io/opensanscondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/opensanshebrew.git", 
     "path": "apache/opensanshebrew", 
-    "submodule": "opensanshebrew"
+    "submodule": "opensanshebrew", 
+    "gh_page": "//fontdirectory.github.io/opensanshebrew"
   }, 
   {
     "url": "git@github.com:fontdirectory/opensanshebrewcondensed.git", 
     "path": "apache/opensanshebrewcondensed", 
-    "submodule": "opensanshebrewcondensed"
+    "submodule": "opensanshebrewcondensed", 
+    "gh_page": "//fontdirectory.github.io/opensanshebrewcondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/permanentmarker.git", 
     "path": "apache/permanentmarker", 
-    "submodule": "permanentmarker"
+    "submodule": "permanentmarker", 
+    "gh_page": "//fontdirectory.github.io/permanentmarker"
   }, 
   {
     "url": "git@github.com:fontdirectory/rancho.git", 
     "path": "apache/rancho", 
-    "submodule": "rancho"
+    "submodule": "rancho", 
+    "gh_page": "//fontdirectory.github.io/rancho"
   }, 
   {
     "url": "git@github.com:fontdirectory/redressed.git", 
     "path": "apache/redressed", 
-    "submodule": "redressed"
+    "submodule": "redressed", 
+    "gh_page": "//fontdirectory.github.io/redressed"
   }, 
   {
     "url": "git@github.com:fontdirectory/roboto.git", 
     "path": "apache/roboto", 
-    "submodule": "roboto"
+    "submodule": "roboto", 
+    "gh_page": "//fontdirectory.github.io/roboto"
   }, 
   {
     "url": "git@github.com:fontdirectory/roboto-latest-2013-06-26.git", 
     "path": "apache/roboto-latest-2013-06-26", 
-    "submodule": "roboto-latest-2013-06-26"
+    "submodule": "roboto-latest-2013-06-26", 
+    "gh_page": "//fontdirectory.github.io/roboto-latest-2013-06-26"
   }, 
   {
     "url": "git@github.com:fontdirectory/roboto-prod.git", 
     "path": "apache/roboto-prod", 
-    "submodule": "roboto-prod"
+    "submodule": "roboto-prod", 
+    "gh_page": "//fontdirectory.github.io/roboto-prod"
   }, 
   {
     "url": "git@github.com:fontdirectory/roboto-prod2.git", 
     "path": "apache/roboto-prod2", 
-    "submodule": "roboto-prod2"
+    "submodule": "roboto-prod2", 
+    "gh_page": "//fontdirectory.github.io/roboto-prod2"
   }, 
   {
     "url": "git@github.com:fontdirectory/roboto-reverted.git", 
     "path": "apache/roboto-reverted", 
-    "submodule": "roboto-reverted"
+    "submodule": "roboto-reverted", 
+    "gh_page": "//fontdirectory.github.io/roboto-reverted"
   }, 
   {
     "url": "git@github.com:fontdirectory/roboto2-hinttest.git", 
     "path": "apache/roboto2-hinttest", 
-    "submodule": "roboto2-hinttest"
+    "submodule": "roboto2-hinttest", 
+    "gh_page": "//fontdirectory.github.io/roboto2-hinttest"
   }, 
   {
     "url": "git@github.com:fontdirectory/roboto2condensed.git", 
     "path": "apache/roboto2condensed", 
-    "submodule": "roboto2condensed"
+    "submodule": "roboto2condensed", 
+    "gh_page": "//fontdirectory.github.io/roboto2condensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/robotocondensed.git", 
     "path": "apache/robotocondensed", 
-    "submodule": "robotocondensed"
+    "submodule": "robotocondensed", 
+    "gh_page": "//fontdirectory.github.io/robotocondensed"
   }, 
   {
     "url": "git@github.com:fontdirectory/robotodraft.git", 
     "path": "apache/robotodraft", 
-    "submodule": "robotodraft"
+    "submodule": "robotodraft", 
+    "gh_page": "//fontdirectory.github.io/robotodraft"
   }, 
   {
     "url": "git@github.com:fontdirectory/robotoslab.git", 
     "path": "apache/robotoslab", 
-    "submodule": "robotoslab"
+    "submodule": "robotoslab", 
+    "gh_page": "//fontdirectory.github.io/robotoslab"
   }, 
   {
     "url": "git@github.com:fontdirectory/rochester.git", 
     "path": "apache/rochester", 
-    "submodule": "rochester"
+    "submodule": "rochester", 
+    "gh_page": "//fontdirectory.github.io/rochester"
   }, 
   {
     "url": "git@github.com:fontdirectory/rocksalt.git", 
     "path": "apache/rocksalt", 
-    "submodule": "rocksalt"
+    "submodule": "rocksalt", 
+    "gh_page": "//fontdirectory.github.io/rocksalt"
   }, 
   {
     "url": "git@github.com:fontdirectory/satisfy.git", 
     "path": "apache/satisfy", 
-    "submodule": "satisfy"
+    "submodule": "satisfy", 
+    "gh_page": "//fontdirectory.github.io/satisfy"
   }, 
   {
     "url": "git@github.com:fontdirectory/schoolbell.git", 
     "path": "apache/schoolbell", 
-    "submodule": "schoolbell"
+    "submodule": "schoolbell", 
+    "gh_page": "//fontdirectory.github.io/schoolbell"
   }, 
   {
     "url": "git@github.com:fontdirectory/slackey.git", 
     "path": "apache/slackey", 
-    "submodule": "slackey"
+    "submodule": "slackey", 
+    "gh_page": "//fontdirectory.github.io/slackey"
   }, 
   {
     "url": "git@github.com:fontdirectory/smokum.git", 
     "path": "apache/smokum", 
-    "submodule": "smokum"
+    "submodule": "smokum", 
+    "gh_page": "//fontdirectory.github.io/smokum"
   }, 
   {
     "url": "git@github.com:fontdirectory/specialelite.git", 
     "path": "apache/specialelite", 
-    "submodule": "specialelite"
+    "submodule": "specialelite", 
+    "gh_page": "//fontdirectory.github.io/specialelite"
   }, 
   {
     "url": "git@github.com:fontdirectory/sunshiney.git", 
     "path": "apache/sunshiney", 
-    "submodule": "sunshiney"
+    "submodule": "sunshiney", 
+    "gh_page": "//fontdirectory.github.io/sunshiney"
   }, 
   {
     "url": "git@github.com:fontdirectory/syncopate.git", 
     "path": "apache/syncopate", 
-    "submodule": "syncopate"
+    "submodule": "syncopate", 
+    "gh_page": "//fontdirectory.github.io/syncopate"
   }, 
   {
     "url": "git@github.com:fontdirectory/tinos.git", 
     "path": "apache/tinos", 
-    "submodule": "tinos"
+    "submodule": "tinos", 
+    "gh_page": "//fontdirectory.github.io/tinos"
   }, 
   {
     "url": "git@github.com:fontdirectory/tmp-roboto.git", 
     "path": "apache/tmp-roboto", 
-    "submodule": "tmp-roboto"
+    "submodule": "tmp-roboto", 
+    "gh_page": "//fontdirectory.github.io/tmp-roboto"
   }, 
   {
     "url": "git@github.com:fontdirectory/ultra.git", 
     "path": "apache/ultra", 
-    "submodule": "ultra"
+    "submodule": "ultra", 
+    "gh_page": "//fontdirectory.github.io/ultra"
   }, 
   {
     "url": "git@github.com:fontdirectory/unkempt.git", 
     "path": "apache/unkempt", 
-    "submodule": "unkempt"
+    "submodule": "unkempt", 
+    "gh_page": "//fontdirectory.github.io/unkempt"
   }, 
   {
     "url": "git@github.com:fontdirectory/walterturncoat.git", 
     "path": "apache/walterturncoat", 
-    "submodule": "walterturncoat"
+    "submodule": "walterturncoat", 
+    "gh_page": "//fontdirectory.github.io/walterturncoat"
   }, 
   {
     "url": "git@github.com:fontdirectory/yellowtail.git", 
     "path": "apache/yellowtail", 
-    "submodule": "yellowtail"
+    "submodule": "yellowtail", 
+    "gh_page": "//fontdirectory.github.io/yellowtail"
   }, 
   {
     "url": "git@github.com:fontdirectory/shortstack.git", 
     "path": "ofl/shortstack", 
-    "submodule": "shortstack"
+    "submodule": "shortstack", 
+    "gh_page": "//fontdirectory.github.io/shortstack"
   }, 
   {
     "url": "git@github.com:fontdirectory/slabo27px.git", 
     "path": "ofl/slabo27px", 
-    "submodule": "slabo27px"
+    "submodule": "slabo27px", 
+    "gh_page": "//fontdirectory.github.io/slabo27px"
   }, 
   {
     "url": "git@github.com:fontdirectory/tauri.git", 
     "path": "ofl/tauri", 
-    "submodule": "tauri"
+    "submodule": "tauri", 
+    "gh_page": "//fontdirectory.github.io/tauri"
   }
 ]
