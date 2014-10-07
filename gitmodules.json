@@ -1,4 +1,4 @@
-[
+jsonCallback([
   {
     "url": "git@github.com:fontdirectory/ubuntu.git", 
     "path": "ufl/ubuntu", 
@@ -4234,4 +4234,4 @@
     "path": "ofl/tauri", 
     "submodule": "ofl/tauri"
   }
-]
+])

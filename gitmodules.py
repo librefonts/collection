@@ -40,6 +40,7 @@ if __name__ == '__main__':
         return arg
 
     parser = argparse.ArgumentParser()
+    parser.add_argument('--jsonp', dest='tojsonp', action='store_true')
     parser.add_argument('-i', dest='infile', required=False,
                         help='Path to .gitmodules file.'
                              'Defaults to "{}"'.format(in_file_default),
@@ -50,12 +51,17 @@ if __name__ == '__main__':
                              'Defaults to "{}"'.format(out_file_default),
                         metavar='OUT_FILE',
                         type=str)
-
+    parser.set_defaults(tojsonp=True)
     args = parser.parse_args()
     in_file = args.infile if args.infile else in_file_default
     out_file = args.outfile if args.outfile else out_file_default
     # exclude 'tools'
     filter1 = lambda x: True if x['path'].startswith('tools') else False
     gitmodules = list(get_gitmodules(in_file, exclude_filters=(filter1, )))
-    with open(out_file, 'w') as f:
-        json.dump(gitmodules, f, indent=2)
+    if args.tojsonp:
+        with open(out_file, 'w') as f:
+            lst = json.dumps(gitmodules, f, indent=2)
+            f.write('jsonCallback({})'.format(lst))
+    else:
+        with open(out_file, 'w') as f:
+            json.dump(gitmodules, f, indent=2)
