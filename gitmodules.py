@@ -13,7 +13,7 @@ def get_gitmodules(source_file, exclude_filters=()):
             next_n_lines = list(islice(f, 3))
             if not next_n_lines:
                 break
-            submodule_pattern = r'"(?P<submodule>[\w_\./\\-]*)"'
+            submodule_pattern = r'"*/(?P<submodule>[\w_\./\\-]*)"'
             url_pattern = r'=\s{0,}(?P<url>[\w_\.\:\@\//\\-]*)'
             path_pattern = r'=\s{0,}(?P<path>[\w_\./\\-]*)'
             submodule = re.search(submodule_pattern, next_n_lines[0]).group('submodule')
@@ -51,7 +51,7 @@ if __name__ == '__main__':
                              'Defaults to "{}"'.format(out_file_default),
                         metavar='OUT_FILE',
                         type=str)
-    parser.set_defaults(tojsonp=True)
+    parser.set_defaults(tojsonp=False)
     args = parser.parse_args()
     in_file = args.infile if args.infile else in_file_default
     out_file = args.outfile if args.outfile else out_file_default
