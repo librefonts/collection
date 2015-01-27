@@ -1,41 +1,6 @@
-# Introduction
+# Font Directory Collection
 
-This project contains the binary and source files for the collection of
-libre/open fonts available in Google Web Fonts.
-
-Please see http://www.google.com/webfonts for access to those fonts through
-the Google Web Fonts API.
-
-Most of the top level directories indicates the license of all fonts found in
-further subdirectories that are named according to the family name of the
-fonts within. Tools used for maintaining the collection are found in tools/
-and a list of the Google+ pages for the fonts' designers is in designers/
-
-The .ttf font files at the top level of each family directory are those served
-through the Web Fonts API. Each directory contains a METADATA.json file with
-metadata for the font files, and a DESCRIPTION.en_us.html with a description
-of the family in US English.
-
-Most of the fonts in this use the SIL Open Font License, version 1.1. A few
-fonts use the Apache 2 license. Each font family directory contains the
-appropriate license file for the fonts in that directory and the fonts files
-themselves also contain the licensing and authorship metadata.
-
-Various source files for each family are usually present in a src/
-subdirectory. All the fonts in this collection are libre/open fonts and many
-have upstream websites where the corresponding designer hosts the project and
-releases updates: you can find upstream information in the corresponding
-FONTLOG.txt files.
-
-When customising or remixing fonts, please remember that the SIL Open Font
-License usually requires you to use your own family names to avoid conflicts
-with original versions already installed, and other designers' trademarks. If
-you are improving fonts, please contact the original designer to understand
-what they might need in order to include your improvements.
-
-Most of all: Enjoy the fonts!
-
-– The Google Web Fonts team, 2012-07-20
+This is a prototype for how the font directory could be set up as a Git repository, using submodules.
 
 ## How to use this collection repository
 
